@@ -1,0 +1,141 @@
+matched_city_clean,count,century
+Firenze,25,1200
+Siena,21,1200
+Bologna,7,1200
+Lucca,7,1200
+Paris,5,1200
+Pisa,5,1200
+Napoli,4,1200
+"Lisboa (Lisbon, Lissabon, Al Ushbuna)",4,1200
+Granada (Gharnata),4,1200
+Spoleto,4,1200
+Zuerich,4,1200
+Rimini,3,1200
+Wuerzburg,3,1200
+Arezzo,3,1200
+Toulouse,3,1200
+"Liege (Luik, Luettich)",3,1200
+Como,3,1200
+Verona,2,1200
+Pistoia,2,1200
+Gotha,2,1200
+Firenze,58,1300
+Siena,32,1300
+Bologna,13,1300
+Pisa,10,1300
+Venezia,9,1300
+Como,8,1300
+Arezzo,8,1300
+Macerata,6,1300
+Verona,6,1300
+"Liege (Luik, Luettich)",5,1300
+Ulm,5,1300
+Barcelona (Barshaluna),5,1300
+Modena,4,1300
+Palma,4,1300
+Perugia,4,1300
+"Praha (Prag, Prague)",4,1300
+Spoleto,4,1300
+Valenciennes,4,1300
+Ferrara,3,1300
+Koeln,3,1300
+Firenze,186,1400
+Venezia,44,1400
+Siena,39,1400
+Verona,33,1400
+Nuernberg,33,1400
+Milano,30,1400
+Como,28,1400
+Augsburg,27,1400
+Ferrara,26,1400
+Bergamo,26,1400
+Arezzo,25,1400
+Bologna,23,1400
+Modena,22,1400
+Ulm,21,1400
+Perugia,21,1400
+Brescia,21,1400
+Parma,19,1400
+Strasbourg (Strassburg),18,1400
+Vicenza,18,1400
+"Gent (Gand, Ghent)",17,1400
+"Antwerpen (Anvers, Antwerp)",224,1500
+Firenze,159,1500
+Bologna,102,1500
+Paris,86,1500
+Venezia,78,1500
+London,75,1500
+Como,72,1500
+Amsterdam,60,1500
+Roma,59,1500
+Siena,58,1500
+Ferrara,50,1500
+Verona,49,1500
+Napoli,49,1500
+Nuernberg,46,1500
+Mechelen (Malines),45,1500
+Bruxelles (Brussels),43,1500
+Haarlem,43,1500
+Madrid (Madjrit),43,1500
+"Sevilla(Seville, Ishbiliya)",42,1500
+Genova,41,1500
+Paris,490,1600
+"Antwerpen (Anvers, Antwerp)",279,1600
+Amsterdam,227,1600
+Bologna,174,1600
+Roma,168,1600
+London,147,1600
+Venezia,136,1600
+Firenze,115,1600
+Haarlem,115,1600
+Napoli,113,1600
+Como,91,1600
+Utrecht,87,1600
+Genova,82,1600
+'S-Gravenhage',77,1600
+Stockholm,76,1600
+Bruxelles (Brussels),73,1600
+Nuernberg,70,1600
+Erfurt,65,1600
+Milano,65,1600
+Madrid (Madjrit),64,1600
+Paris,1216,1700
+London,619,1700
+Wien (Vienna),333,1700
+Stockholm,256,1700
+Berlin,241,1700
+Dresden,182,1700
+Roma,170,1700
+"Kobenhaven (Copenhagen, Kopenhagen)",157,1700
+Stuttgart,156,1700
+Venezia,154,1700
+Napoli,139,1700
+Erfurt,126,1700
+Lyon,124,1700
+Zuerich,119,1700
+Leipzig,118,1700
+Hamburg,117,1700
+Gotha,113,1700
+Kassel,111,1700
+Milano,110,1700
+Amsterdam,108,1700
+Paris,4157,1800
+Wien (Vienna),2381,1800
+London,2366,1800
+Berlin,1742,1800
+Stockholm,1658,1800
+"Kobenhaven (Copenhagen, Kopenhagen)",1241,1800
+Muenchen,799,1800
+Hamburg,688,1800
+Dresden,611,1800
+Stuttgart,589,1800
+Barcelona (Barshaluna),580,1800
+Bruxelles (Brussels),560,1800
+Frankfurt A Main,555,1800
+"Praha (Prag, Prague)",539,1800
+Roma,512,1800
+Leipzig,510,1800
+Zuerich,508,1800
+Madrid (Madjrit),442,1800
+Lyon,439,1800
+Milano,429,1800
