@@ -1,0 +1,2890 @@
+matched_city,century,domain_level1,city_lat,city_lon,count
+"(Gazi)Antep (Ayntab, Antaph, Hamtab, Ayintab)",1800.0,Culture,37.07,37.389999,1
+Aachen,1400.0,Culture,50.766998,6.0999999,1
+Aachen,1500.0,Culture,50.766998,6.0999999,3
+Aachen,1600.0,Culture,50.766998,6.0999999,6
+Aachen,1700.0,Culture,50.766998,6.0999999,17
+Aachen,1800.0,Culture,50.766998,6.0999999,206
+Aalst (Alost),1400.0,Culture,50.932999,4.033,2
+Aalst (Alost),1500.0,Culture,50.932999,4.033,2
+Aalst (Alost),1600.0,Culture,50.932999,4.033,5
+Aalst (Alost),1700.0,Culture,50.932999,4.033,5
+Aalst (Alost),1800.0,Culture,50.932999,4.033,26
+Abbeville,1300.0,Culture,50.099998,1.8329999,1
+Abbeville,1400.0,Culture,50.099998,1.8329999,2
+Abbeville,1500.0,Culture,50.099998,1.8329999,4
+Abbeville,1600.0,Culture,50.099998,1.8329999,9
+Abbeville,1700.0,Culture,50.099998,1.8329999,21
+Abbeville,1800.0,Culture,50.099998,1.8329999,31
+Aberdeen,1300.0,Culture,57.150002,-2.1240001,1
+Aberdeen,1500.0,Culture,57.150002,-2.1240001,5
+Aberdeen,1600.0,Culture,57.150002,-2.1240001,5
+Aberdeen,1700.0,Culture,57.150002,-2.1240001,21
+Aberdeen,1800.0,Culture,57.150002,-2.1240001,75
+Acireale,1600.0,Culture,37.617001,15.167,3
+Acireale,1700.0,Culture,37.617001,15.167,4
+Acireale,1800.0,Culture,37.617001,15.167,14
+"Acra (Akka, Acre, Ptolemeis, Akko, Akkon)",1200.0,Culture,32.924,35.073002,1
+"Acra (Akka, Acre, Ptolemeis, Akko, Akkon)",1500.0,Culture,32.924,35.073002,1
+"Acra (Akka, Acre, Ptolemeis, Akko, Akkon)",1700.0,Culture,32.924,35.073002,2
+"Acra (Akka, Acre, Ptolemeis, Akko, Akkon)",1800.0,Culture,32.924,35.073002,6
+Aden (Adan),1800.0,Culture,12.97,45.029999,1
+"Adrianople (Edirne, Hadrianopolis, Adrianopel)",1400.0,Culture,41.667,26.566999,3
+"Adrianople (Edirne, Hadrianopolis, Adrianopel)",1600.0,Culture,41.667,26.566999,1
+"Adrianople (Edirne, Hadrianopolis, Adrianopel)",1800.0,Culture,41.667,26.566999,8
+Afragola,1500.0,Culture,40.917,14.3,2
+Afragola,1600.0,Culture,40.917,14.3,3
+Afragola,1700.0,Culture,40.917,14.3,4
+Afragola,1800.0,Culture,40.917,14.3,6
+"Afyon (Afyan, Afyan Kara Hissar, Akroenos, Akroinos, Afyun)",1400.0,Culture,38.830002,30.5,1
+"Afyon (Afyan, Afyan Kara Hissar, Akroenos, Akroinos, Afyun)",1800.0,Culture,38.830002,30.5,1
+Agen,1500.0,Culture,44.200001,0.63300002,3
+Agen,1600.0,Culture,44.200001,0.63300002,1
+Agen,1700.0,Culture,44.200001,0.63300002,6
+Agen,1800.0,Culture,44.200001,0.63300002,36
+Agrigento,1200.0,Culture,37.317001,13.567,1
+Agrigento,1800.0,Culture,37.317001,13.567,10
+Aix,1400.0,Culture,43.533001,5.4330001,1
+Aix,1500.0,Culture,43.533001,5.4330001,5
+Aix,1600.0,Culture,43.533001,5.4330001,25
+Aix,1700.0,Culture,43.533001,5.4330001,27
+Aix,1800.0,Culture,43.533001,5.4330001,86
+"Al-Djazair (Algiers, Iconum, Alger)",1700.0,Culture,36.763,3.0510001,1
+"Al-Djazair (Algiers, Iconum, Alger)",1800.0,Culture,36.763,3.0510001,57
+Albi,1500.0,Culture,43.932999,2.1500001,1
+Albi,1600.0,Culture,43.932999,2.1500001,4
+Albi,1700.0,Culture,43.932999,2.1500001,3
+Albi,1800.0,Culture,43.932999,2.1500001,26
+Alcala-de-Henares,1200.0,Culture,40.483002,-3.3670001,1
+Alcala-de-Henares,1400.0,Culture,40.483002,-3.3670001,1
+Alcala-de-Henares,1500.0,Culture,40.483002,-3.3670001,5
+Alcala-de-Henares,1600.0,Culture,40.483002,-3.3670001,3
+Alcala-de-Henares,1700.0,Culture,40.483002,-3.3670001,1
+Alcala-de-Henares,1800.0,Culture,40.483002,-3.3670001,8
+Alcala-la-Real,1500.0,Culture,37.466999,-3.9330001,2
+Alcala-la-Real,1600.0,Culture,37.466999,-3.9330001,1
+Alcala-la-Real,1700.0,Culture,37.466999,-3.9330001,2
+Alcala-la-Real,1800.0,Culture,37.466999,-3.9330001,2
+Alcamo,1500.0,Culture,37.98,12.97,1
+Alcamo,1800.0,Culture,37.98,12.97,4
+Alcazar de San Juan,1500.0,Culture,39.400002,-3.2,3
+Alcazar de San Juan,1600.0,Culture,39.400002,-3.2,1
+Alcazar de San Juan,1800.0,Culture,39.400002,-3.2,14
+Alcoy,1400.0,Culture,38.700001,-0.46700001,1
+Alcoy,1500.0,Culture,38.700001,-0.46700001,1
+Alcoy,1600.0,Culture,38.700001,-0.46700001,1
+Alcoy,1700.0,Culture,38.700001,-0.46700001,2
+Alcoy,1800.0,Culture,38.700001,-0.46700001,34
+Alencon,1400.0,Culture,48.432999,0.082999997,1
+Alencon,1500.0,Culture,48.432999,0.082999997,1
+Alencon,1600.0,Culture,48.432999,0.082999997,7
+Alencon,1700.0,Culture,48.432999,0.082999997,11
+Alencon,1800.0,Culture,48.432999,0.082999997,53
+"Aleppo (Haleb, Halab, Beroea)",1300.0,Culture,36.200001,37.167,1
+"Aleppo (Haleb, Halab, Beroea)",1800.0,Culture,36.200001,37.167,5
+Alessandria,1200.0,Culture,44.900002,8.6169996,1
+Alessandria,1400.0,Culture,44.900002,8.6169996,3
+Alessandria,1500.0,Culture,44.900002,8.6169996,3
+Alessandria,1600.0,Culture,44.900002,8.6169996,1
+Alessandria,1700.0,Culture,44.900002,8.6169996,8
+Alessandria,1800.0,Culture,44.900002,8.6169996,58
+Alexandria (Iskandariya),1800.0,Culture,31.200001,29.9,32
+Alicante (Lakant),1500.0,Culture,38.349998,-0.48300001,2
+Alicante (Lakant),1700.0,Culture,38.349998,-0.48300001,3
+Alicante (Lakant),1800.0,Culture,38.349998,-0.48300001,23
+Alkmaar,1400.0,Culture,52.632999,4.75,2
+Alkmaar,1500.0,Culture,52.632999,4.75,7
+Alkmaar,1600.0,Culture,52.632999,4.75,10
+Alkmaar,1700.0,Culture,52.632999,4.75,3
+Alkmaar,1800.0,Culture,52.632999,4.75,19
+Almeria (Al-Mariyya),1200.0,Culture,36.833,-2.45,2
+Almeria (Al-Mariyya),1700.0,Culture,36.833,-2.45,1
+Almeria (Al-Mariyya),1800.0,Culture,36.833,-2.45,28
+Altamura,1600.0,Culture,40.817001,16.549999,1
+Altamura,1700.0,Culture,40.817001,16.549999,4
+Altamura,1800.0,Culture,40.817001,16.549999,2
+Altona,1400.0,Culture,53.549999,9.9329996,1
+Altona,1500.0,Culture,53.549999,9.9329996,4
+Altona,1600.0,Culture,53.549999,9.9329996,15
+Altona,1700.0,Culture,53.549999,9.9329996,45
+Altona,1800.0,Culture,53.549999,9.9329996,162
+Amalfi,1800.0,Culture,40.632999,14.6,12
+"Amasya (Amaseia, Amasia)",1400.0,Culture,40.650002,35.830002,2
+"Amasya (Amaseia, Amasia)",1800.0,Culture,40.650002,35.830002,2
+Amiens,1200.0,Culture,49.900002,2.3,1
+Amiens,1300.0,Culture,49.900002,2.3,1
+Amiens,1400.0,Culture,49.900002,2.3,4
+Amiens,1500.0,Culture,49.900002,2.3,4
+Amiens,1600.0,Culture,49.900002,2.3,12
+Amiens,1700.0,Culture,49.900002,2.3,20
+Amiens,1800.0,Culture,49.900002,2.3,64
+Amsterdam,1400.0,Culture,52.349998,4.9169998,2
+Amsterdam,1500.0,Culture,52.349998,4.9169998,60
+Amsterdam,1600.0,Culture,52.349998,4.9169998,227
+Amsterdam,1700.0,Culture,52.349998,4.9169998,108
+Amsterdam,1800.0,Culture,52.349998,4.9169998,275
+Ancona,1200.0,Culture,43.632999,13.5,1
+Ancona,1400.0,Culture,43.632999,13.5,1
+Ancona,1500.0,Culture,43.632999,13.5,6
+Ancona,1600.0,Culture,43.632999,13.5,10
+Ancona,1700.0,Culture,43.632999,13.5,13
+Ancona,1800.0,Culture,43.632999,13.5,48
+Andria,1700.0,Culture,41.216999,16.283001,1
+Andria,1800.0,Culture,41.216999,16.283001,6
+Andujar,1600.0,Culture,38.049999,-4.0700002,2
+Andujar,1700.0,Culture,38.049999,-4.0700002,1
+Andujar,1800.0,Culture,38.049999,-4.0700002,1
+Angers,1500.0,Culture,47.466999,-0.55000001,4
+Angers,1600.0,Culture,47.466999,-0.55000001,3
+Angers,1700.0,Culture,47.466999,-0.55000001,9
+Angers,1800.0,Culture,47.466999,-0.55000001,68
+Angouleme,1400.0,Culture,45.650002,0.15000001,1
+Angouleme,1500.0,Culture,45.650002,0.15000001,3
+Angouleme,1600.0,Culture,45.650002,0.15000001,3
+Angouleme,1700.0,Culture,45.650002,0.15000001,1
+Angouleme,1800.0,Culture,45.650002,0.15000001,50
+"Ani (anikoyu, Abnicum)",1800.0,Culture,40.529999,43.57,14
+"Ankara (Ancyra, Angora, Enguru, Ankuriyya)",1300.0,Culture,39.919998,32.919998,1
+"Ankara (Ancyra, Angora, Enguru, Ankuriyya)",1500.0,Culture,39.919998,32.919998,1
+Ansbach,1400.0,Culture,49.299999,10.583,3
+Ansbach,1500.0,Culture,49.299999,10.583,3
+Ansbach,1600.0,Culture,49.299999,10.583,14
+Ansbach,1700.0,Culture,49.299999,10.583,21
+Ansbach,1800.0,Culture,49.299999,10.583,53
+Antequera,1500.0,Culture,37.016998,-4.5500002,3
+Antequera,1600.0,Culture,37.016998,-4.5500002,3
+Antequera,1800.0,Culture,37.016998,-4.5500002,6
+"Antwerpen (Anvers, Antwerp)",1400.0,Culture,51.216999,4.4169998,9
+"Antwerpen (Anvers, Antwerp)",1500.0,Culture,51.216999,4.4169998,224
+"Antwerpen (Anvers, Antwerp)",1600.0,Culture,51.216999,4.4169998,279
+"Antwerpen (Anvers, Antwerp)",1700.0,Culture,51.216999,4.4169998,47
+"Antwerpen (Anvers, Antwerp)",1800.0,Culture,51.216999,4.4169998,213
+Aquila (L'Aquila),1200.0,Culture,42.349998,13.37,1
+Aquila (L'Aquila),1400.0,Culture,42.349998,13.37,9
+Aquila (L'Aquila),1500.0,Culture,42.349998,13.37,9
+Aquila (L'Aquila),1600.0,Culture,42.349998,13.37,9
+Aquila (L'Aquila),1700.0,Culture,42.349998,13.37,9
+Aquila (L'Aquila),1800.0,Culture,42.349998,13.37,18
+"Arabkir (Arapkir, Eski Arabkir)",1800.0,Culture,39.049999,38.5,6
+Aracena,1400.0,Culture,37.882999,-6.5500002,1
+Aracena,1500.0,Culture,37.882999,-6.5500002,1
+Aracena,1600.0,Culture,37.882999,-6.5500002,1
+Aracena,1700.0,Culture,37.882999,-6.5500002,1
+Aracena,1800.0,Culture,37.882999,-6.5500002,8
+Arad (Aradui Nou),1700.0,Culture,46.182999,21.316999,4
+Arad (Aradui Nou),1800.0,Culture,46.182999,21.316999,29
+Araiano Irpino,1600.0,Culture,41.150002,15.08,1
+Araiano Irpino,1700.0,Culture,41.150002,15.08,2
+Araiano Irpino,1800.0,Culture,41.150002,15.08,16
+Arcos de la Frontera (rakush),1600.0,Culture,36.75,-5.8000002,1
+Arcos de la Frontera (rakush),1700.0,Culture,36.75,-5.8000002,8
+Arcos de la Frontera (rakush),1800.0,Culture,36.75,-5.8000002,9
+Arezzo,1200.0,Culture,43.417,11.883,3
+Arezzo,1300.0,Culture,43.417,11.883,8
+Arezzo,1400.0,Culture,43.417,11.883,25
+Arezzo,1500.0,Culture,43.417,11.883,30
+Arezzo,1600.0,Culture,43.417,11.883,5
+Arezzo,1700.0,Culture,43.417,11.883,15
+Arezzo,1800.0,Culture,43.417,11.883,34
+Arjona,1600.0,Culture,37.932999,-4.0500002,1
+Arjona,1800.0,Culture,37.932999,-4.0500002,1
+Arles,1200.0,Culture,43.667,4.6329999,1
+Arles,1300.0,Culture,43.667,4.6329999,1
+Arles,1500.0,Culture,43.667,4.6329999,2
+Arles,1600.0,Culture,43.667,4.6329999,4
+Arles,1700.0,Culture,43.667,4.6329999,7
+Arles,1800.0,Culture,43.667,4.6329999,9
+Armagh,1700.0,Culture,53.917,-7.5830002,8
+Armagh,1800.0,Culture,53.917,-7.5830002,28
+Arnhem,1500.0,Culture,51.983002,5.9169998,1
+Arnhem,1600.0,Culture,51.983002,5.9169998,8
+Arnhem,1700.0,Culture,51.983002,5.9169998,3
+Arnhem,1800.0,Culture,51.983002,5.9169998,21
+Arpino,1400.0,Culture,41.650002,13.6,5
+Arpino,1500.0,Culture,41.650002,13.6,5
+Arpino,1600.0,Culture,41.650002,13.6,5
+Arpino,1700.0,Culture,41.650002,13.6,7
+Arpino,1800.0,Culture,41.650002,13.6,41
+Arras (Atrecht),1200.0,Culture,50.283001,2.783,2
+Arras (Atrecht),1300.0,Culture,50.283001,2.783,1
+Arras (Atrecht),1400.0,Culture,50.283001,2.783,2
+Arras (Atrecht),1500.0,Culture,50.283001,2.783,3
+Arras (Atrecht),1600.0,Culture,50.283001,2.783,1
+Arras (Atrecht),1700.0,Culture,50.283001,2.783,5
+Arras (Atrecht),1800.0,Culture,50.283001,2.783,27
+Ascoli Piceno,1200.0,Culture,42.849998,13.567,1
+Ascoli Piceno,1300.0,Culture,42.849998,13.567,1
+Ascoli Piceno,1400.0,Culture,42.849998,13.567,3
+Ascoli Piceno,1500.0,Culture,42.849998,13.567,6
+Ascoli Piceno,1600.0,Culture,42.849998,13.567,12
+Ascoli Piceno,1700.0,Culture,42.849998,13.567,9
+Ascoli Piceno,1800.0,Culture,42.849998,13.567,48
+Ashton-upon-Lyne,1700.0,Culture,53.492001,-2.0829999,4
+Ashton-upon-Lyne,1800.0,Culture,53.492001,-2.0829999,12
+Asti,1200.0,Culture,44.900002,8.1999998,1
+Asti,1400.0,Culture,44.900002,8.1999998,4
+Asti,1500.0,Culture,44.900002,8.1999998,4
+Asti,1600.0,Culture,44.900002,8.1999998,4
+Asti,1700.0,Culture,44.900002,8.1999998,7
+Asti,1800.0,Culture,44.900002,8.1999998,43
+"Aswan (Uswan, Syene, Swenet)",1600.0,Culture,24.08,32.900002,1
+"Aswan (Uswan, Syene, Swenet)",1800.0,Culture,24.08,32.900002,1
+Asyut (Isiu),1800.0,Culture,27.18,31.17,2
+"Athens (Athen, Atina)",1800.0,Culture,37.983002,23.733,63
+Auch,1500.0,Culture,43.650002,0.583,5
+Auch,1600.0,Culture,43.650002,0.583,2
+Auch,1700.0,Culture,43.650002,0.583,3
+Auch,1800.0,Culture,43.650002,0.583,12
+Augsburg,1400.0,Culture,48.367001,10.883,27
+Augsburg,1500.0,Culture,48.367001,10.883,30
+Augsburg,1600.0,Culture,48.367001,10.883,54
+Augsburg,1700.0,Culture,48.367001,10.883,66
+Augsburg,1800.0,Culture,48.367001,10.883,129
+Augusta,1200.0,Culture,37.216999,15.217,1
+Augusta,1500.0,Culture,37.216999,15.217,1
+Augusta,1600.0,Culture,37.216999,15.217,2
+Augusta,1800.0,Culture,37.216999,15.217,3
+Auxerre,1300.0,Culture,47.799999,3.5669999,1
+Auxerre,1400.0,Culture,47.799999,3.5669999,1
+Auxerre,1500.0,Culture,47.799999,3.5669999,1
+Auxerre,1600.0,Culture,47.799999,3.5669999,6
+Auxerre,1700.0,Culture,47.799999,3.5669999,14
+Auxerre,1800.0,Culture,47.799999,3.5669999,70
+Avellino,1400.0,Culture,40.82,14.78,1
+Avellino,1600.0,Culture,40.82,14.78,8
+Avellino,1700.0,Culture,40.82,14.78,3
+Avellino,1800.0,Culture,40.82,14.78,11
+Aversa,1200.0,Culture,40.966999,14.2,1
+Aversa,1500.0,Culture,40.966999,14.2,5
+Aversa,1600.0,Culture,40.966999,14.2,3
+Aversa,1700.0,Culture,40.966999,14.2,6
+Aversa,1800.0,Culture,40.966999,14.2,18
+Avignon,1400.0,Culture,43.950001,4.8169999,4
+Avignon,1500.0,Culture,43.950001,4.8169999,6
+Avignon,1600.0,Culture,43.950001,4.8169999,17
+Avignon,1700.0,Culture,43.950001,4.8169999,46
+Avignon,1800.0,Culture,43.950001,4.8169999,107
+Avila,1500.0,Culture,40.650002,-4.6999998,7
+Avila,1600.0,Culture,40.650002,-4.6999998,1
+Avila,1700.0,Culture,40.650002,-4.6999998,1
+Avila,1800.0,Culture,40.650002,-4.6999998,10
+"Aydin (Aidin, Guzel Hissar, Tralles, Tralleis, Kaisareia, Dia, Seleucia ad Meandr)",1800.0,Culture,37.830002,27.799999,2
+"Ayvalik (Aywalik, Kydonia)",1800.0,Culture,39.299999,26.67,5
+Badajoz (Batalyaws),1400.0,Culture,38.882999,-6.967,1
+Badajoz (Batalyaws),1500.0,Culture,38.882999,-6.967,4
+Badajoz (Batalyaws),1600.0,Culture,38.882999,-6.967,2
+Badajoz (Batalyaws),1700.0,Culture,38.882999,-6.967,1
+Badajoz (Batalyaws),1800.0,Culture,38.882999,-6.967,13
+Baena (Bayyana),1300.0,Culture,37.617001,-4.3169999,1
+Baena (Bayyana),1500.0,Culture,37.617001,-4.3169999,2
+Baena (Bayyana),1800.0,Culture,37.617001,-4.3169999,3
+Baeza (Bayyasa),1400.0,Culture,37.983002,-3.467,1
+Baeza (Bayyasa),1500.0,Culture,37.983002,-3.467,3
+Baeza (Bayyasa),1800.0,Culture,37.983002,-3.467,12
+Baghdad (Bagdad),1200.0,Culture,33.339001,44.394001,1
+Baghdad (Bagdad),1800.0,Culture,33.339001,44.394001,9
+"Balikesir (Akira, Palaiokastron, Mysie, Balikesri, Balikeshir, Hadria Metherai)",1400.0,Culture,39.650002,27.879999,1
+"Balikesir (Akira, Palaiokastron, Mysie, Balikesri, Balikeshir, Hadria Metherai)",1800.0,Culture,39.650002,27.879999,1
+Bamberg,1300.0,Culture,49.867001,10.867,1
+Bamberg,1400.0,Culture,49.867001,10.867,6
+Bamberg,1500.0,Culture,49.867001,10.867,9
+Bamberg,1600.0,Culture,49.867001,10.867,7
+Bamberg,1700.0,Culture,49.867001,10.867,32
+Bamberg,1800.0,Culture,49.867001,10.867,104
+Banja Luka (Banjaluka),1700.0,Culture,44.776001,17.186001,1
+Banja Luka (Banjaluka),1800.0,Culture,44.776001,17.186001,6
+Banska Stiavnica (Schemnitz),1400.0,Culture,48.450001,18.9,1
+Banska Stiavnica (Schemnitz),1500.0,Culture,48.450001,18.9,3
+Banska Stiavnica (Schemnitz),1600.0,Culture,48.450001,18.9,3
+Banska Stiavnica (Schemnitz),1700.0,Culture,48.450001,18.9,6
+Banska Stiavnica (Schemnitz),1800.0,Culture,48.450001,18.9,32
+Bar-le-duc,1400.0,Culture,48.783001,5.1669998,1
+Bar-le-duc,1500.0,Culture,48.783001,5.1669998,7
+Bar-le-duc,1600.0,Culture,48.783001,5.1669998,15
+Bar-le-duc,1700.0,Culture,48.783001,5.1669998,13
+Bar-le-duc,1800.0,Culture,48.783001,5.1669998,40
+Barbastro,1500.0,Culture,42.033001,0.133,2
+Barbastro,1700.0,Culture,42.033001,0.133,3
+Barbastro,1800.0,Culture,42.033001,0.133,14
+Barcelona (Barshaluna),1200.0,Culture,41.382999,2.1830001,1
+Barcelona (Barshaluna),1300.0,Culture,41.382999,2.1830001,5
+Barcelona (Barshaluna),1400.0,Culture,41.382999,2.1830001,3
+Barcelona (Barshaluna),1500.0,Culture,41.382999,2.1830001,6
+Barcelona (Barshaluna),1600.0,Culture,41.382999,2.1830001,12
+Barcelona (Barshaluna),1700.0,Culture,41.382999,2.1830001,48
+Barcelona (Barshaluna),1800.0,Culture,41.382999,2.1830001,580
+Bari,1400.0,Culture,41.132999,16.85,1
+Bari,1500.0,Culture,41.132999,16.85,4
+Bari,1600.0,Culture,41.132999,16.85,6
+Bari,1700.0,Culture,41.132999,16.85,4
+Bari,1800.0,Culture,41.132999,16.85,30
+Barletta,1500.0,Culture,41.317001,16.283001,1
+Barletta,1800.0,Culture,41.317001,16.283001,7
+Barmen,1300.0,Culture,51.283001,7.217,1
+Barmen,1500.0,Culture,51.283001,7.217,3
+Barmen,1700.0,Culture,51.283001,7.217,11
+Barmen,1800.0,Culture,51.283001,7.217,262
+Basel,1400.0,Culture,47.567001,7.5999999,5
+Basel,1500.0,Culture,47.567001,7.5999999,8
+Basel,1600.0,Culture,47.567001,7.5999999,14
+Basel,1700.0,Culture,47.567001,7.5999999,57
+Basel,1800.0,Culture,47.567001,7.5999999,352
+Bassano,1300.0,Culture,45.77,11.73,1
+Bassano,1400.0,Culture,45.77,11.73,3
+Bassano,1500.0,Culture,45.77,11.73,18
+Bassano,1600.0,Culture,45.77,11.73,11
+Bassano,1700.0,Culture,45.77,11.73,31
+Bassano,1800.0,Culture,45.77,11.73,32
+Bastia,1700.0,Culture,42.702999,9.4499998,2
+Bastia,1800.0,Culture,42.702999,9.4499998,11
+Bath,1500.0,Culture,51.377998,-2.3659999,2
+Bath,1600.0,Culture,51.377998,-2.3659999,8
+Bath,1700.0,Culture,51.377998,-2.3659999,39
+Bath,1800.0,Culture,51.377998,-2.3659999,88
+Bautzen,1400.0,Culture,51.182999,14.433,1
+Bautzen,1500.0,Culture,51.182999,14.433,6
+Bautzen,1600.0,Culture,51.182999,14.433,11
+Bautzen,1700.0,Culture,51.182999,14.433,44
+Bautzen,1800.0,Culture,51.182999,14.433,130
+Bayeux,1300.0,Culture,49.266998,-0.69999999,1
+Bayeux,1400.0,Culture,49.266998,-0.69999999,1
+Bayeux,1500.0,Culture,49.266998,-0.69999999,2
+Bayeux,1600.0,Culture,49.266998,-0.69999999,8
+Bayeux,1700.0,Culture,49.266998,-0.69999999,15
+Bayeux,1800.0,Culture,49.266998,-0.69999999,35
+Bayonne,1400.0,Culture,43.483002,-1.483,1
+Bayonne,1500.0,Culture,43.483002,-1.483,3
+Bayonne,1600.0,Culture,43.483002,-1.483,2
+Bayonne,1700.0,Culture,43.483002,-1.483,9
+Bayonne,1800.0,Culture,43.483002,-1.483,63
+Bayreuth,1400.0,Culture,49.950001,11.583,4
+Bayreuth,1500.0,Culture,49.950001,11.583,8
+Bayreuth,1600.0,Culture,49.950001,11.583,15
+Bayreuth,1700.0,Culture,49.950001,11.583,38
+Bayreuth,1800.0,Culture,49.950001,11.583,83
+Bayrut (Beirut),1800.0,Culture,33.872002,35.509998,28
+Beauvais,1500.0,Culture,49.432999,2.0829999,11
+Beauvais,1600.0,Culture,49.432999,2.0829999,5
+Beauvais,1700.0,Culture,49.432999,2.0829999,15
+Beauvais,1800.0,Culture,49.432999,2.0829999,35
+Bekes,1800.0,Culture,46.766998,21.132999,16
+Bekescsaba (Tschabe),1400.0,Culture,46.682999,21.1,1
+Bekescsaba (Tschabe),1800.0,Culture,46.682999,21.1,9
+Belfast,1700.0,Culture,54.583,-5.9330001,9
+Belfast,1800.0,Culture,54.583,-5.9330001,67
+"Belgrade (Singidunum, Belgrad, Belgrado)",1700.0,Culture,44.833,20.5,4
+"Belgrade (Singidunum, Belgrad, Belgrado)",1800.0,Culture,44.833,20.5,51
+Benevento (Benevent),1500.0,Culture,41.132999,14.75,1
+Benevento (Benevent),1600.0,Culture,41.132999,14.75,5
+Benevento (Benevent),1700.0,Culture,41.132999,14.75,9
+Benevento (Benevent),1800.0,Culture,41.132999,14.75,21
+Bergamo,1400.0,Culture,45.682999,9.717,26
+Bergamo,1500.0,Culture,45.682999,9.717,27
+Bergamo,1600.0,Culture,45.682999,9.717,30
+Bergamo,1700.0,Culture,45.682999,9.717,45
+Bergamo,1800.0,Culture,45.682999,9.717,80
+Bergen,1500.0,Culture,60.390999,5.3249998,1
+Bergen,1600.0,Culture,60.390999,5.3249998,5
+Bergen,1700.0,Culture,60.390999,5.3249998,4
+Bergen,1800.0,Culture,60.390999,5.3249998,150
+Berlin,1500.0,Culture,52.516998,13.4,5
+Berlin,1600.0,Culture,52.516998,13.4,20
+Berlin,1700.0,Culture,52.516998,13.4,241
+Berlin,1800.0,Culture,52.516998,13.4,1742
+Bern,1200.0,Culture,46.917,7.467,2
+Bern,1300.0,Culture,46.917,7.467,1
+Bern,1400.0,Culture,46.917,7.467,8
+Bern,1500.0,Culture,46.917,7.467,7
+Bern,1600.0,Culture,46.917,7.467,17
+Bern,1700.0,Culture,46.917,7.467,64
+Bern,1800.0,Culture,46.917,7.467,275
+Besancon,1300.0,Culture,47.25,6.033,1
+Besancon,1500.0,Culture,47.25,6.033,9
+Besancon,1600.0,Culture,47.25,6.033,8
+Besancon,1700.0,Culture,47.25,6.033,30
+Besancon,1800.0,Culture,47.25,6.033,111
+Beziers,1500.0,Culture,43.349998,3.25,2
+Beziers,1600.0,Culture,43.349998,3.25,4
+Beziers,1700.0,Culture,43.349998,3.25,8
+Beziers,1800.0,Culture,43.349998,3.25,45
+"Bidlis (Bitlis, Bagesh, Pagish, Badlis, Cymiza, Balaleisa, Balouos)",1500.0,Culture,38.330002,42.080002,2
+"Bidlis (Bitlis, Bagesh, Pagish, Badlis, Cymiza, Balaleisa, Balouos)",1800.0,Culture,38.330002,42.080002,1
+Bilbao,1400.0,Culture,43.25,-2.967,1
+Bilbao,1500.0,Culture,43.25,-2.967,2
+Bilbao,1600.0,Culture,43.25,-2.967,8
+Bilbao,1700.0,Culture,43.25,-2.967,14
+Bilbao,1800.0,Culture,43.25,-2.967,98
+"Bilbeis (Bilbays, Bilbis, Bulbays, Phelbes)",1800.0,Culture,30.42,31.57,1
+Bisceglie,1600.0,Culture,41.233002,16.5,2
+Bisceglie,1700.0,Culture,41.233002,16.5,1
+Bisceglie,1800.0,Culture,41.233002,16.5,3
+Bitola (Bitolj),1700.0,Culture,41.033001,21.333,1
+Bitola (Bitolj),1800.0,Culture,41.033001,21.333,16
+Bitonto,1600.0,Culture,41.099998,16.683001,2
+Bitonto,1700.0,Culture,41.099998,16.683001,5
+Bitonto,1800.0,Culture,41.099998,16.683001,5
+Blackburn,1600.0,Culture,53.743,-2.4779999,2
+Blackburn,1700.0,Culture,53.743,-2.4779999,9
+Blackburn,1800.0,Culture,53.743,-2.4779999,26
+Blois,1500.0,Culture,47.583,1.3329999,4
+Blois,1600.0,Culture,47.583,1.3329999,6
+Blois,1700.0,Culture,47.583,1.3329999,9
+Blois,1800.0,Culture,47.583,1.3329999,45
+Bologna,1200.0,Culture,44.483002,11.333,7
+Bologna,1300.0,Culture,44.483002,11.333,13
+Bologna,1400.0,Culture,44.483002,11.333,23
+Bologna,1500.0,Culture,44.483002,11.333,102
+Bologna,1600.0,Culture,44.483002,11.333,174
+Bologna,1700.0,Culture,44.483002,11.333,96
+Bologna,1800.0,Culture,44.483002,11.333,147
+Bolton,1700.0,Culture,53.571999,-2.4300001,2
+Bolton,1800.0,Culture,53.571999,-2.4300001,20
+"Bone (Bona, Hippo Regius, Al-Annaba)",1800.0,Culture,36.900002,7.7670002,5
+Bonn,1500.0,Culture,50.733002,7.0999999,1
+Bonn,1600.0,Culture,50.733002,7.0999999,4
+Bonn,1700.0,Culture,50.733002,7.0999999,35
+Bonn,1800.0,Culture,50.733002,7.0999999,179
+Bordeaux,1400.0,Culture,44.833,-0.56699997,1
+Bordeaux,1500.0,Culture,44.833,-0.56699997,5
+Bordeaux,1600.0,Culture,44.833,-0.56699997,6
+Bordeaux,1700.0,Culture,44.833,-0.56699997,70
+Bordeaux,1800.0,Culture,44.833,-0.56699997,303
+"Bougie (Bejaia, Bidaya, Saldae)",1800.0,Culture,36.75,5.0830002,1
+Boulogne,1200.0,Culture,50.720001,1.62,1
+Boulogne,1400.0,Culture,50.720001,1.62,2
+Boulogne,1500.0,Culture,50.720001,1.62,1
+Boulogne,1600.0,Culture,50.720001,1.62,1
+Boulogne,1700.0,Culture,50.720001,1.62,8
+Boulogne,1800.0,Culture,50.720001,1.62,61
+Bourges,1400.0,Culture,47.083,2.4000001,5
+Bourges,1500.0,Culture,47.083,2.4000001,4
+Bourges,1600.0,Culture,47.083,2.4000001,5
+Bourges,1700.0,Culture,47.083,2.4000001,5
+Bourges,1800.0,Culture,47.083,2.4000001,39
+Bradford,1700.0,Culture,53.787998,-1.75,5
+Bradford,1800.0,Culture,53.787998,-1.75,48
+Braga,1400.0,Culture,41.549999,-8.4329996,1
+Braga,1500.0,Culture,41.549999,-8.4329996,7
+Braga,1600.0,Culture,41.549999,-8.4329996,3
+Braga,1700.0,Culture,41.549999,-8.4329996,8
+Braga,1800.0,Culture,41.549999,-8.4329996,35
+"Braila (Barbosi, Ibrail, Ibraila)",1800.0,Culture,45.266998,27.983,34
+Brandenburg,1300.0,Culture,52.417,12.55,1
+Brandenburg,1400.0,Culture,52.417,12.55,1
+Brandenburg,1500.0,Culture,52.417,12.55,1
+Brandenburg,1600.0,Culture,52.417,12.55,2
+Brandenburg,1700.0,Culture,52.417,12.55,15
+Brandenburg,1800.0,Culture,52.417,12.55,43
+Brasov (Kronstadt),1500.0,Culture,45.632999,25.583,3
+Brasov (Kronstadt),1600.0,Culture,45.632999,25.583,2
+Brasov (Kronstadt),1700.0,Culture,45.632999,25.583,2
+Brasov (Kronstadt),1800.0,Culture,45.632999,25.583,47
+Bratislava (Pressburg),1500.0,Culture,48.150002,17.117001,1
+Bratislava (Pressburg),1600.0,Culture,48.150002,17.117001,7
+Bratislava (Pressburg),1700.0,Culture,48.150002,17.117001,24
+Bratislava (Pressburg),1800.0,Culture,48.150002,17.117001,87
+Braunschweig,1400.0,Culture,52.266998,10.533,2
+Braunschweig,1500.0,Culture,52.266998,10.533,4
+Braunschweig,1600.0,Culture,52.266998,10.533,21
+Braunschweig,1700.0,Culture,52.266998,10.533,42
+Braunschweig,1800.0,Culture,52.266998,10.533,216
+Bremen,1300.0,Culture,53.083,8.8000002,2
+Bremen,1500.0,Culture,53.083,8.8000002,5
+Bremen,1600.0,Culture,53.083,8.8000002,16
+Bremen,1700.0,Culture,53.083,8.8000002,37
+Bremen,1800.0,Culture,53.083,8.8000002,322
+Brescia,1400.0,Culture,45.549999,10.25,21
+Brescia,1500.0,Culture,45.549999,10.25,39
+Brescia,1600.0,Culture,45.549999,10.25,33
+Brescia,1700.0,Culture,45.549999,10.25,47
+Brescia,1800.0,Culture,45.549999,10.25,68
+Brest,1400.0,Culture,48.400002,-4.4829998,2
+Brest,1600.0,Culture,48.400002,-4.4829998,4
+Brest,1700.0,Culture,48.400002,-4.4829998,10
+Brest,1800.0,Culture,48.400002,-4.4829998,72
+Bristol,1500.0,Culture,51.477001,-2.569,8
+Bristol,1600.0,Culture,51.477001,-2.569,7
+Bristol,1700.0,Culture,51.477001,-2.569,44
+Bristol,1800.0,Culture,51.477001,-2.569,194
+Brno (Bruenn),1400.0,Culture,49.200001,16.632999,1
+Brno (Bruenn),1600.0,Culture,49.200001,16.632999,5
+Brno (Bruenn),1700.0,Culture,49.200001,16.632999,16
+Brno (Bruenn),1800.0,Culture,49.200001,16.632999,200
+Brugge (bruges),1300.0,Culture,51.216999,3.233,2
+Brugge (bruges),1400.0,Culture,51.216999,3.233,12
+Brugge (bruges),1500.0,Culture,51.216999,3.233,17
+Brugge (bruges),1600.0,Culture,51.216999,3.233,9
+Brugge (bruges),1700.0,Culture,51.216999,3.233,16
+Brugge (bruges),1800.0,Culture,51.216999,3.233,42
+Bruxelles (brussels),1200.0,Culture,50.833,4.3330002,2
+Bruxelles (brussels),1300.0,Culture,50.833,4.3330002,1
+Bruxelles (brussels),1400.0,Culture,50.833,4.3330002,14
+Bruxelles (brussels),1500.0,Culture,50.833,4.3330002,43
+Bruxelles (brussels),1600.0,Culture,50.833,4.3330002,73
+Bruxelles (brussels),1700.0,Culture,50.833,4.3330002,69
+Bruxelles (brussels),1800.0,Culture,50.833,4.3330002,560
+Buda,1600.0,Culture,47.5,19.033001,1
+Buda,1700.0,Culture,47.5,19.033001,4
+Buda,1800.0,Culture,47.5,19.033001,355
+Bukarest (Buekresh),1500.0,Culture,44.432999,26.1,1
+Bukarest (Buekresh),1700.0,Culture,44.432999,26.1,1
+Bukarest (Buekresh),1800.0,Culture,44.432999,26.1,123
+Burgos (Burghush),1300.0,Culture,42.349998,-3.7,1
+Burgos (Burghush),1400.0,Culture,42.349998,-3.7,6
+Burgos (Burghush),1500.0,Culture,42.349998,-3.7,5
+Burgos (Burghush),1600.0,Culture,42.349998,-3.7,4
+Burgos (Burghush),1700.0,Culture,42.349998,-3.7,3
+Burgos (Burghush),1800.0,Culture,42.349998,-3.7,24
+"Bursa (Burusa, Prussa)",1400.0,Culture,40.200001,29.08,1
+"Bursa (Burusa, Prussa)",1500.0,Culture,40.200001,29.08,1
+"Bursa (Burusa, Prussa)",1800.0,Culture,40.200001,29.08,3
+Cabra (Kabra),1800.0,Culture,37.466999,-4.4499998,6
+Cadiz (Kadis),1600.0,Culture,36.534,-6.2989998,2
+Cadiz (Kadis),1700.0,Culture,36.534,-6.2989998,16
+Cadiz (Kadis),1800.0,Culture,36.534,-6.2989998,53
+Caen,1300.0,Culture,49.182999,-0.34999999,1
+Caen,1400.0,Culture,49.182999,-0.34999999,3
+Caen,1500.0,Culture,49.182999,-0.34999999,10
+Caen,1600.0,Culture,49.182999,-0.34999999,23
+Caen,1700.0,Culture,49.182999,-0.34999999,19
+Caen,1800.0,Culture,49.182999,-0.34999999,38
+Cagliari,1500.0,Culture,39.216999,9.1169996,3
+Cagliari,1600.0,Culture,39.216999,9.1169996,1
+Cagliari,1700.0,Culture,39.216999,9.1169996,4
+Cagliari,1800.0,Culture,39.216999,9.1169996,28
+Cahors,1400.0,Culture,44.432999,1.433,1
+Cahors,1500.0,Culture,44.432999,1.433,2
+Cahors,1700.0,Culture,44.432999,1.433,4
+Cahors,1800.0,Culture,44.432999,1.433,22
+Caltagirone,1500.0,Culture,37.233002,14.517,1
+Caltagirone,1600.0,Culture,37.233002,14.517,3
+Caltagirone,1700.0,Culture,37.233002,14.517,1
+Caltagirone,1800.0,Culture,37.233002,14.517,11
+Caltanisetta,1500.0,Culture,37.483002,14.067,1
+Caltanisetta,1600.0,Culture,37.483002,14.067,2
+Caltanisetta,1700.0,Culture,37.483002,14.067,3
+Caltanisetta,1800.0,Culture,37.483002,14.067,17
+Cambrai,1200.0,Culture,50.167,3.233,2
+Cambrai,1500.0,Culture,50.167,3.233,7
+Cambrai,1600.0,Culture,50.167,3.233,2
+Cambrai,1700.0,Culture,50.167,3.233,3
+Cambrai,1800.0,Culture,50.167,3.233,28
+Cambridge,1500.0,Culture,52.205002,0.14399999,10
+Cambridge,1600.0,Culture,52.205002,0.14399999,11
+Cambridge,1700.0,Culture,52.205002,0.14399999,20
+Cambridge,1800.0,Culture,52.205002,0.14399999,71
+Canicatti,1700.0,Culture,37.349998,13.85,1
+Canicatti,1800.0,Culture,37.349998,13.85,5
+Carcassonne,1500.0,Culture,43.216999,2.3499999,2
+Carcassonne,1600.0,Culture,43.216999,2.3499999,1
+Carcassonne,1700.0,Culture,43.216999,2.3499999,7
+Carcassonne,1800.0,Culture,43.216999,2.3499999,33
+Carmagnole,1400.0,Culture,44.849998,7.717,1
+Carmagnole,1700.0,Culture,44.849998,7.717,2
+Carmagnole,1800.0,Culture,44.849998,7.717,15
+Carmona (Karmuna),1500.0,Culture,37.466999,-5.6329999,1
+Carmona (Karmuna),1800.0,Culture,37.466999,-5.6329999,5
+Cartagena (Kartadjanna),1200.0,Culture,37.599998,-0.98299998,1
+Cartagena (Kartadjanna),1500.0,Culture,37.599998,-0.98299998,1
+Cartagena (Kartadjanna),1700.0,Culture,37.599998,-0.98299998,2
+Cartagena (Kartadjanna),1800.0,Culture,37.599998,-0.98299998,21
+Casale,1400.0,Culture,45.132999,8.4499998,2
+Casale,1500.0,Culture,45.132999,8.4499998,4
+Casale,1600.0,Culture,45.132999,8.4499998,2
+Casale,1700.0,Culture,45.132999,8.4499998,6
+Casale,1800.0,Culture,45.132999,8.4499998,16
+Castellon-de-la-Plana,1600.0,Culture,39.983002,-0.033,3
+Castellon-de-la-Plana,1700.0,Culture,39.983002,-0.033,4
+Castellon-de-la-Plana,1800.0,Culture,39.983002,-0.033,24
+Castelvetrano,1500.0,Culture,37.682999,12.783,2
+Castelvetrano,1700.0,Culture,37.682999,12.783,1
+Castelvetrano,1800.0,Culture,37.682999,12.783,1
+Castres,1600.0,Culture,43.599998,2.25,5
+Castres,1700.0,Culture,43.599998,2.25,8
+Castres,1800.0,Culture,43.599998,2.25,17
+Castroreale,1500.0,Culture,38.099998,15.2,2
+Castroreale,1600.0,Culture,38.099998,15.2,5
+Castroreale,1700.0,Culture,38.099998,15.2,3
+Castroreale,1800.0,Culture,38.099998,15.2,9
+Catania,1600.0,Culture,37.5,15.1,3
+Catania,1700.0,Culture,37.5,15.1,15
+Catania,1800.0,Culture,37.5,15.1,91
+Catanzaro,1400.0,Culture,38.900002,16.583,1
+Catanzaro,1500.0,Culture,38.900002,16.583,2
+Catanzaro,1600.0,Culture,38.900002,16.583,6
+Catanzaro,1700.0,Culture,38.900002,16.583,3
+Catanzaro,1800.0,Culture,38.900002,16.583,35
+Cava di Tirreni,1500.0,Culture,40.700001,14.7,1
+Cava di Tirreni,1600.0,Culture,40.700001,14.7,1
+Cava di Tirreni,1800.0,Culture,40.700001,14.7,5
+Cazorla,1400.0,Culture,37.917,-3.0,1
+Cazorla,1500.0,Culture,37.917,-3.0,2
+Cazorla,1600.0,Culture,37.917,-3.0,1
+Cazorla,1800.0,Culture,37.917,-3.0,1
+Ccuneo,1400.0,Culture,44.382999,7.533,1
+Ccuneo,1500.0,Culture,44.382999,7.533,3
+Ccuneo,1600.0,Culture,44.382999,7.533,2
+Ccuneo,1700.0,Culture,44.382999,7.533,4
+Ccuneo,1800.0,Culture,44.382999,7.533,15
+"Ceasarea (Kayseri, Kaysariyya)",1400.0,Culture,38.716999,35.5,1
+"Ceasarea (Kayseri, Kaysariyya)",1700.0,Culture,38.716999,35.5,1
+"Ceasarea (Kayseri, Kaysariyya)",1800.0,Culture,38.716999,35.5,7
+Ceske Budejovice (Budweis),1300.0,Culture,48.983002,14.467,2
+Ceske Budejovice (Budweis),1400.0,Culture,48.983002,14.467,2
+Ceske Budejovice (Budweis),1500.0,Culture,48.983002,14.467,3
+Ceske Budejovice (Budweis),1600.0,Culture,48.983002,14.467,2
+Ceske Budejovice (Budweis),1700.0,Culture,48.983002,14.467,19
+Ceske Budejovice (Budweis),1800.0,Culture,48.983002,14.467,58
+"Ceuta (Sabta, Julia Trajecta)",1700.0,Culture,35.889999,-5.3080001,1
+"Ceuta (Sabta, Julia Trajecta)",1800.0,Culture,35.889999,-5.3080001,1
+Chalon-sur-saone,1300.0,Culture,46.783001,4.8499999,1
+Chalon-sur-saone,1400.0,Culture,46.783001,4.8499999,2
+Chalon-sur-saone,1500.0,Culture,46.783001,4.8499999,5
+Chalon-sur-saone,1600.0,Culture,46.783001,4.8499999,10
+Chalon-sur-saone,1700.0,Culture,46.783001,4.8499999,14
+Chalon-sur-saone,1800.0,Culture,46.783001,4.8499999,75
+Chalons-sur-Marne,1500.0,Culture,48.950001,4.3670001,5
+Chalons-sur-Marne,1600.0,Culture,48.950001,4.3670001,3
+Chalons-sur-Marne,1700.0,Culture,48.950001,4.3670001,7
+Chalons-sur-Marne,1800.0,Culture,48.950001,4.3670001,29
+Chambery,1400.0,Culture,45.599998,5.9000001,2
+Chambery,1500.0,Culture,45.599998,5.9000001,3
+Chambery,1600.0,Culture,45.599998,5.9000001,2
+Chambery,1700.0,Culture,45.599998,5.9000001,8
+Chambery,1800.0,Culture,45.599998,5.9000001,40
+Chartres,1500.0,Culture,48.450001,1.5,10
+Chartres,1600.0,Culture,48.450001,1.5,11
+Chartres,1700.0,Culture,48.450001,1.5,17
+Chartres,1800.0,Culture,48.450001,1.5,40
+Chatham,1300.0,Culture,51.361,0.53500003,1
+Chatham,1400.0,Culture,51.361,0.53500003,1
+Chatham,1500.0,Culture,51.361,0.53500003,15
+Chatham,1600.0,Culture,51.361,0.53500003,8
+Chatham,1700.0,Culture,51.361,0.53500003,20
+Chatham,1800.0,Culture,51.361,0.53500003,94
+Chemnitz (olim Karl-Marx-Stadt),1300.0,Culture,50.833,12.917,1
+Chemnitz (olim Karl-Marx-Stadt),1400.0,Culture,50.833,12.917,3
+Chemnitz (olim Karl-Marx-Stadt),1500.0,Culture,50.833,12.917,19
+Chemnitz (olim Karl-Marx-Stadt),1600.0,Culture,50.833,12.917,30
+Chemnitz (olim Karl-Marx-Stadt),1700.0,Culture,50.833,12.917,61
+Chemnitz (olim Karl-Marx-Stadt),1800.0,Culture,50.833,12.917,289
+Cherbourg,1200.0,Culture,49.650002,-1.65,1
+Cherbourg,1400.0,Culture,49.650002,-1.65,1
+Cherbourg,1500.0,Culture,49.650002,-1.65,1
+Cherbourg,1600.0,Culture,49.650002,-1.65,1
+Cherbourg,1700.0,Culture,49.650002,-1.65,7
+Cherbourg,1800.0,Culture,49.650002,-1.65,41
+Chester,1500.0,Culture,53.192001,-2.891,1
+Chester,1600.0,Culture,53.192001,-2.891,5
+Chester,1700.0,Culture,53.192001,-2.891,14
+Chester,1800.0,Culture,53.192001,-2.891,41
+Chieti,1300.0,Culture,42.349998,14.167,1
+Chieti,1400.0,Culture,42.349998,14.167,2
+Chieti,1500.0,Culture,42.349998,14.167,2
+Chieti,1600.0,Culture,42.349998,14.167,4
+Chieti,1700.0,Culture,42.349998,14.167,4
+Chieti,1800.0,Culture,42.349998,14.167,41
+Chioggia,1500.0,Culture,45.226002,12.289,4
+Chioggia,1600.0,Culture,45.226002,12.289,1
+Chioggia,1700.0,Culture,45.226002,12.289,2
+Chioggia,1800.0,Culture,45.226002,12.289,9
+Chivasso,1400.0,Culture,45.182999,7.8829999,3
+Chivasso,1500.0,Culture,45.182999,7.8829999,2
+Chivasso,1600.0,Culture,45.182999,7.8829999,3
+Chivasso,1700.0,Culture,45.182999,7.8829999,9
+Chivasso,1800.0,Culture,45.182999,7.8829999,28
+Cimpulung (Camplung),1800.0,Culture,47.5,25.620001,8
+Ciudad-Real,1500.0,Culture,38.983002,-3.9330001,1
+Ciudad-Real,1600.0,Culture,38.983002,-3.9330001,1
+Ciudad-Real,1700.0,Culture,38.983002,-3.9330001,4
+Ciudad-Real,1800.0,Culture,38.983002,-3.9330001,6
+Ciudad-Rodrigo,1400.0,Culture,40.599998,-6.533,2
+Ciudad-Rodrigo,1500.0,Culture,40.599998,-6.533,2
+Ciudad-Rodrigo,1700.0,Culture,40.599998,-6.533,2
+Ciudad-Rodrigo,1800.0,Culture,40.599998,-6.533,4
+Clermont-Ferrand,1300.0,Culture,45.783001,3.0829999,1
+Clermont-Ferrand,1500.0,Culture,45.783001,3.0829999,3
+Clermont-Ferrand,1600.0,Culture,45.783001,3.0829999,1
+Clermont-Ferrand,1700.0,Culture,45.783001,3.0829999,14
+Clermont-Ferrand,1800.0,Culture,45.783001,3.0829999,43
+"Cluj (Klausenburg, Napora)",1500.0,Culture,46.766998,23.6,1
+"Cluj (Klausenburg, Napora)",1700.0,Culture,46.766998,23.6,5
+"Cluj (Klausenburg, Napora)",1800.0,Culture,46.766998,23.6,25
+Coimbra Kulumriyya),1400.0,Culture,40.200001,-8.4169998,1
+Coimbra Kulumriyya),1500.0,Culture,40.200001,-8.4169998,5
+Coimbra Kulumriyya),1600.0,Culture,40.200001,-8.4169998,1
+Coimbra Kulumriyya),1700.0,Culture,40.200001,-8.4169998,5
+Coimbra Kulumriyya),1800.0,Culture,40.200001,-8.4169998,38
+Colchester,1200.0,Culture,51.891998,0.89999998,1
+Colchester,1500.0,Culture,51.891998,0.89999998,7
+Colchester,1600.0,Culture,51.891998,0.89999998,9
+Colchester,1700.0,Culture,51.891998,0.89999998,15
+Colchester,1800.0,Culture,51.891998,0.89999998,46
+Colmar,1400.0,Culture,48.083,7.3670001,7
+Colmar,1500.0,Culture,48.083,7.3670001,6
+Colmar,1600.0,Culture,48.083,7.3670001,4
+Colmar,1700.0,Culture,48.083,7.3670001,23
+Colmar,1800.0,Culture,48.083,7.3670001,109
+Como,1200.0,Culture,45.783001,9.0830002,3
+Como,1300.0,Culture,45.783001,9.0830002,8
+Como,1400.0,Culture,45.783001,9.0830002,28
+Como,1500.0,Culture,45.783001,9.0830002,72
+Como,1600.0,Culture,45.783001,9.0830002,91
+Como,1700.0,Culture,45.783001,9.0830002,99
+Como,1800.0,Culture,45.783001,9.0830002,128
+"Constantine (Cirta, Kustantina, Kusantina)",1800.0,Culture,36.349998,6.5999999,12
+"Constantinople (Istanbul, Byzantium, Konstantinopel)",1300.0,Culture,41.016998,28.966999,1
+"Constantinople (Istanbul, Byzantium, Konstantinopel)",1400.0,Culture,41.016998,28.966999,2
+"Constantinople (Istanbul, Byzantium, Konstantinopel)",1500.0,Culture,41.016998,28.966999,2
+"Constantinople (Istanbul, Byzantium, Konstantinopel)",1600.0,Culture,41.016998,28.966999,12
+"Constantinople (Istanbul, Byzantium, Konstantinopel)",1700.0,Culture,41.016998,28.966999,20
+"Constantinople (Istanbul, Byzantium, Konstantinopel)",1800.0,Culture,41.016998,28.966999,236
+Cordoba (Kurtuba),1400.0,Culture,37.882999,-4.7670002,6
+Cordoba (Kurtuba),1500.0,Culture,37.882999,-4.7670002,9
+Cordoba (Kurtuba),1600.0,Culture,37.882999,-4.7670002,9
+Cordoba (Kurtuba),1700.0,Culture,37.882999,-4.7670002,3
+Cordoba (Kurtuba),1800.0,Culture,37.882999,-4.7670002,20
+Cork,1600.0,Culture,51.898998,-8.4960003,3
+Cork,1700.0,Culture,51.898998,-8.4960003,18
+Cork,1800.0,Culture,51.898998,-8.4960003,65
+Corleone,1500.0,Culture,37.817001,13.3,1
+Corleone,1700.0,Culture,37.817001,13.3,4
+Corleone,1800.0,Culture,37.817001,13.3,8
+Cosenza,1500.0,Culture,39.299999,16.25,9
+Cosenza,1600.0,Culture,39.299999,16.25,4
+Cosenza,1700.0,Culture,39.299999,16.25,6
+Cosenza,1800.0,Culture,39.299999,16.25,42
+Coventry,1400.0,Culture,52.403,-1.508,1
+Coventry,1500.0,Culture,52.403,-1.508,8
+Coventry,1600.0,Culture,52.403,-1.508,7
+Coventry,1700.0,Culture,52.403,-1.508,12
+Coventry,1800.0,Culture,52.403,-1.508,50
+Craiova,1700.0,Culture,44.317001,23.799999,1
+Craiova,1800.0,Culture,44.317001,23.799999,20
+Crema,1400.0,Culture,45.367001,9.6829996,11
+Crema,1500.0,Culture,45.367001,9.6829996,12
+Crema,1600.0,Culture,45.367001,9.6829996,7
+Crema,1700.0,Culture,45.367001,9.6829996,13
+Crema,1800.0,Culture,45.367001,9.6829996,33
+Cremona,1400.0,Culture,45.117001,10.033,13
+Cremona,1500.0,Culture,45.117001,10.033,29
+Cremona,1600.0,Culture,45.117001,10.033,23
+Cremona,1700.0,Culture,45.117001,10.033,22
+Cremona,1800.0,Culture,45.117001,10.033,64
+Cuenca (Kunka),1300.0,Culture,40.067001,-2.1329999,1
+Cuenca (Kunka),1500.0,Culture,40.067001,-2.1329999,7
+Cuenca (Kunka),1600.0,Culture,40.067001,-2.1329999,5
+Cuenca (Kunka),1700.0,Culture,40.067001,-2.1329999,2
+Cuenca (Kunka),1800.0,Culture,40.067001,-2.1329999,9
+"Cyrene (Sjahhat, Hadremetum)",1800.0,Culture,32.827999,21.862,1
+"Damascus (Dimaskh, Es-Sham)",1200.0,Culture,33.5,36.299999,1
+"Damascus (Dimaskh, Es-Sham)",1300.0,Culture,33.5,36.299999,1
+"Damascus (Dimaskh, Es-Sham)",1500.0,Culture,33.5,36.299999,1
+"Damascus (Dimaskh, Es-Sham)",1600.0,Culture,33.5,36.299999,1
+"Damascus (Dimaskh, Es-Sham)",1700.0,Culture,33.5,36.299999,1
+"Damascus (Dimaskh, Es-Sham)",1800.0,Culture,33.5,36.299999,10
+"Damietta (Doumyat, Dimyat)",1800.0,Culture,31.419001,31.815001,3
+Dbrecen (Debreczin),1700.0,Culture,47.533001,21.632999,3
+Dbrecen (Debreczin),1800.0,Culture,47.533001,21.632999,25
+Delft,1500.0,Culture,52.0,4.3670001,20
+Delft,1600.0,Culture,52.0,4.3670001,40
+Delft,1700.0,Culture,52.0,4.3670001,2
+Delft,1800.0,Culture,52.0,4.3670001,18
+Deptford,1600.0,Culture,51.479,-0.034000002,4
+Deptford,1700.0,Culture,51.479,-0.034000002,9
+Deptford,1800.0,Culture,51.479,-0.034000002,104
+Derby,1500.0,Culture,52.915001,-1.472,3
+Derby,1600.0,Culture,52.915001,-1.472,3
+Derby,1700.0,Culture,52.915001,-1.472,21
+Derby,1800.0,Culture,52.915001,-1.472,44
+Dessau,1500.0,Culture,51.833,12.25,5
+Dessau,1600.0,Culture,51.833,12.25,12
+Dessau,1700.0,Culture,51.833,12.25,41
+Dessau,1800.0,Culture,51.833,12.25,84
+Deventer,1300.0,Culture,52.25,6.1999998,1
+Deventer,1400.0,Culture,52.25,6.1999998,1
+Deventer,1500.0,Culture,52.25,6.1999998,6
+Deventer,1600.0,Culture,52.25,6.1999998,3
+Deventer,1700.0,Culture,52.25,6.1999998,7
+Deventer,1800.0,Culture,52.25,6.1999998,31
+Dieppe,1500.0,Culture,49.932999,1.0829999,4
+Dieppe,1600.0,Culture,49.932999,1.0829999,7
+Dieppe,1700.0,Culture,49.932999,1.0829999,10
+Dieppe,1800.0,Culture,49.932999,1.0829999,31
+Dijon,1400.0,Culture,47.317001,5.0170002,1
+Dijon,1500.0,Culture,47.317001,5.0170002,7
+Dijon,1600.0,Culture,47.317001,5.0170002,16
+Dijon,1700.0,Culture,47.317001,5.0170002,49
+Dijon,1800.0,Culture,47.317001,5.0170002,78
+Dinan,1700.0,Culture,48.450001,-2.033,3
+Dinan,1800.0,Culture,48.450001,-2.033,16
+"Diyarbakr (Diyarbakir Amid, Amida ad Tygrem, Amid)",1400.0,Culture,37.919998,40.23,1
+"Diyarbakr (Diyarbakir Amid, Amida ad Tygrem, Amid)",1800.0,Culture,37.919998,40.23,6
+Djirokaster (Ergiri),1800.0,Culture,40.083,20.117001,5
+Dordrecht,1400.0,Culture,51.799999,4.6669998,2
+Dordrecht,1500.0,Culture,51.799999,4.6669998,9
+Dordrecht,1600.0,Culture,51.799999,4.6669998,59
+Dordrecht,1700.0,Culture,51.799999,4.6669998,24
+Dordrecht,1800.0,Culture,51.799999,4.6669998,42
+Douai,1200.0,Culture,50.367001,3.0669999,1
+Douai,1400.0,Culture,50.367001,3.0669999,3
+Douai,1500.0,Culture,50.367001,3.0669999,4
+Douai,1600.0,Culture,50.367001,3.0669999,1
+Douai,1700.0,Culture,50.367001,3.0669999,11
+Douai,1800.0,Culture,50.367001,3.0669999,47
+Dover,1500.0,Culture,51.125,1.309,3
+Dover,1600.0,Culture,51.125,1.309,1
+Dover,1700.0,Culture,51.125,1.309,8
+Dover,1800.0,Culture,51.125,1.309,47
+Dresden,1400.0,Culture,51.049999,13.75,2
+Dresden,1500.0,Culture,51.049999,13.75,18
+Dresden,1600.0,Culture,51.049999,13.75,62
+Dresden,1700.0,Culture,51.049999,13.75,182
+Dresden,1800.0,Culture,51.049999,13.75,611
+Drogheda,1600.0,Culture,53.716999,-6.3499999,2
+Drogheda,1700.0,Culture,53.716999,-6.3499999,6
+Drogheda,1800.0,Culture,53.716999,-6.3499999,13
+Dublin,1500.0,Culture,53.333,-6.25,2
+Dublin,1600.0,Culture,53.333,-6.25,12
+Dublin,1700.0,Culture,53.333,-6.25,97
+Dublin,1800.0,Culture,53.333,-6.25,248
+Dudley,1600.0,Culture,52.512001,-2.096,3
+Dudley,1700.0,Culture,52.512001,-2.096,7
+Dudley,1800.0,Culture,52.512001,-2.096,18
+Duesseldorf,1400.0,Culture,51.216999,6.7670002,1
+Duesseldorf,1600.0,Culture,51.216999,6.7670002,5
+Duesseldorf,1700.0,Culture,51.216999,6.7670002,29
+Duesseldorf,1800.0,Culture,51.216999,6.7670002,336
+Dundalk,1800.0,Culture,54.0,-6.4169998,13
+Dundee,1400.0,Culture,56.48,-3.0309999,1
+Dundee,1600.0,Culture,56.48,-3.0309999,1
+Dundee,1700.0,Culture,56.48,-3.0309999,3
+Dundee,1800.0,Culture,56.48,-3.0309999,30
+"Dunkerque (Duinkerken, Duenkirchen)",1500.0,Culture,51.049999,2.3670001,1
+"Dunkerque (Duinkerken, Duenkirchen)",1600.0,Culture,51.049999,2.3670001,4
+"Dunkerque (Duinkerken, Duenkirchen)",1700.0,Culture,51.049999,2.3670001,9
+"Dunkerque (Duinkerken, Duenkirchen)",1800.0,Culture,51.049999,2.3670001,14
+"Durres (Dyrrachium, Durazzo)",1200.0,Culture,41.317001,19.433001,1
+"Durres (Dyrrachium, Durazzo)",1800.0,Culture,41.317001,19.433001,2
+Ecija (Istidja),1400.0,Culture,37.533001,-5.0830002,1
+Ecija (Istidja),1500.0,Culture,37.533001,-5.0830002,4
+Ecija (Istidja),1800.0,Culture,37.533001,-5.0830002,4
+Edinburgh,1200.0,Culture,55.949001,-3.161,1
+Edinburgh,1400.0,Culture,55.949001,-3.161,3
+Edinburgh,1500.0,Culture,55.949001,-3.161,6
+Edinburgh,1600.0,Culture,55.949001,-3.161,7
+Edinburgh,1700.0,Culture,55.949001,-3.161,93
+Edinburgh,1800.0,Culture,55.949001,-3.161,212
+Eger (Erlau),1700.0,Culture,47.900002,20.370001,1
+Eger (Erlau),1800.0,Culture,47.900002,20.370001,10
+Elberfeld,1600.0,Culture,51.266998,7.1329999,1
+Elberfeld,1700.0,Culture,51.266998,7.1329999,8
+Elberfeld,1800.0,Culture,51.266998,7.1329999,165
+Elblag (Elbing),1500.0,Culture,54.167,19.382999,6
+Elblag (Elbing),1600.0,Culture,54.167,19.382999,5
+Elblag (Elbing),1700.0,Culture,54.167,19.382999,4
+Elblag (Elbing),1800.0,Culture,54.167,19.382999,60
+Elche (Alsh),1500.0,Culture,38.25,-0.68000001,1
+Elche (Alsh),1600.0,Culture,38.25,-0.68000001,1
+Elche (Alsh),1800.0,Culture,38.25,-0.68000001,15
+Elvas,1500.0,Culture,38.882999,-7.1669998,4
+Elvas,1600.0,Culture,38.882999,-7.1669998,1
+Elvas,1700.0,Culture,38.882999,-7.1669998,1
+Elvas,1800.0,Culture,38.882999,-7.1669998,4
+Emden,1400.0,Culture,53.367001,7.217,2
+Emden,1500.0,Culture,53.367001,7.217,4
+Emden,1600.0,Culture,53.367001,7.217,9
+Emden,1700.0,Culture,53.367001,7.217,6
+Emden,1800.0,Culture,53.367001,7.217,66
+Enkhuizen,1500.0,Culture,52.716999,5.283,2
+Enkhuizen,1600.0,Culture,52.716999,5.283,9
+Enkhuizen,1700.0,Culture,52.716999,5.283,2
+Enkhuizen,1800.0,Culture,52.716999,5.283,2
+Enna (Kasr Yannik),1500.0,Culture,37.567001,14.267,1
+Enna (Kasr Yannik),1700.0,Culture,37.567001,14.267,1
+Enna (Kasr Yannik),1800.0,Culture,37.567001,14.267,9
+"Ephese (Arsinoe, Aya Soluk, Hagios Theologos, Selcuk)",1200.0,Culture,37.950001,27.379999,1
+Erfurt,1400.0,Culture,50.983002,11.033,4
+Erfurt,1500.0,Culture,50.983002,11.033,12
+Erfurt,1600.0,Culture,50.983002,11.033,65
+Erfurt,1700.0,Culture,50.983002,11.033,126
+Erfurt,1800.0,Culture,50.983002,11.033,273
+"Erzincan (Erzindjan, Aringan, Arzandjan)",1800.0,Culture,39.75,39.5,1
+"Erzurum (Antisparate, Theodosiopolis, Karin, Karnoi)",1500.0,Culture,39.91,41.290001,1
+"Erzurum (Antisparate, Theodosiopolis, Karin, Karnoi)",1800.0,Culture,39.91,41.290001,1
+Estepa,1600.0,Culture,37.299999,-4.9000001,1
+Estepa,1800.0,Culture,37.299999,-4.9000001,2
+Evora,1400.0,Culture,38.567001,-7.9000001,3
+Evora,1500.0,Culture,38.567001,-7.9000001,9
+Evora,1600.0,Culture,38.567001,-7.9000001,1
+Evora,1700.0,Culture,38.567001,-7.9000001,4
+Evora,1800.0,Culture,38.567001,-7.9000001,10
+Evreux,1300.0,Culture,49.016998,1.15,1
+Evreux,1500.0,Culture,49.016998,1.15,2
+Evreux,1600.0,Culture,49.016998,1.15,9
+Evreux,1700.0,Culture,49.016998,1.15,15
+Evreux,1800.0,Culture,49.016998,1.15,40
+Exeter,1500.0,Culture,50.722,-3.523,8
+Exeter,1600.0,Culture,50.722,-3.523,5
+Exeter,1700.0,Culture,50.722,-3.523,34
+Exeter,1800.0,Culture,50.722,-3.523,79
+Faenza,1200.0,Culture,44.283001,11.883,1
+Faenza,1300.0,Culture,44.283001,11.883,1
+Faenza,1400.0,Culture,44.283001,11.883,15
+Faenza,1500.0,Culture,44.283001,11.883,18
+Faenza,1600.0,Culture,44.283001,11.883,4
+Faenza,1700.0,Culture,44.283001,11.883,31
+Faenza,1800.0,Culture,44.283001,11.883,79
+Falaise,1500.0,Culture,48.900002,-0.2,5
+Falaise,1600.0,Culture,48.900002,-0.2,5
+Falaise,1700.0,Culture,48.900002,-0.2,2
+Falaise,1800.0,Culture,48.900002,-0.2,39
+Ferrara,1300.0,Culture,44.833,11.583,3
+Ferrara,1400.0,Culture,44.833,11.583,26
+Ferrara,1500.0,Culture,44.833,11.583,50
+Ferrara,1600.0,Culture,44.833,11.583,20
+Ferrara,1700.0,Culture,44.833,11.583,19
+Ferrara,1800.0,Culture,44.833,11.583,79
+Ferrol,1500.0,Culture,43.483002,-8.2329998,1
+Ferrol,1600.0,Culture,43.483002,-8.2329998,2
+Ferrol,1700.0,Culture,43.483002,-8.2329998,2
+Ferrol,1800.0,Culture,43.483002,-8.2329998,25
+"Fez (Fas, Fez)",1400.0,Culture,34.053001,-4.9829998,1
+"Fez (Fas, Fez)",1500.0,Culture,34.053001,-4.9829998,1
+"Fez (Fas, Fez)",1700.0,Culture,34.053001,-4.9829998,2
+Firenze,1200.0,Culture,43.766998,11.25,25
+Firenze,1300.0,Culture,43.766998,11.25,58
+Firenze,1400.0,Culture,43.766998,11.25,186
+Firenze,1500.0,Culture,43.766998,11.25,159
+Firenze,1600.0,Culture,43.766998,11.25,115
+Firenze,1700.0,Culture,43.766998,11.25,104
+Firenze,1800.0,Culture,43.766998,11.25,376
+Flensburg,1500.0,Culture,54.783001,9.4329996,5
+Flensburg,1600.0,Culture,54.783001,9.4329996,20
+Flensburg,1700.0,Culture,54.783001,9.4329996,36
+Flensburg,1800.0,Culture,54.783001,9.4329996,145
+Foggia,1200.0,Culture,41.450001,15.57,1
+Foggia,1500.0,Culture,41.450001,15.57,1
+Foggia,1800.0,Culture,41.450001,15.57,8
+Forli,1300.0,Culture,44.223999,12.053,3
+Forli,1400.0,Culture,44.223999,12.053,9
+Forli,1500.0,Culture,44.223999,12.053,13
+Forli,1600.0,Culture,44.223999,12.053,9
+Forli,1700.0,Culture,44.223999,12.053,20
+Forli,1800.0,Culture,44.223999,12.053,42
+Fossano,1400.0,Culture,44.549999,7.717,1
+Fossano,1500.0,Culture,44.549999,7.717,1
+Fossano,1600.0,Culture,44.549999,7.717,1
+Fossano,1700.0,Culture,44.549999,7.717,2
+Fossano,1800.0,Culture,44.549999,7.717,2
+Francavilla,1500.0,Culture,40.533001,17.583,3
+Francavilla,1600.0,Culture,40.533001,17.583,2
+Francavilla,1700.0,Culture,40.533001,17.583,3
+Francavilla,1800.0,Culture,40.533001,17.583,9
+Frankfurt a Main,1300.0,Culture,50.117001,8.6829996,2
+Frankfurt a Main,1400.0,Culture,50.117001,8.6829996,3
+Frankfurt a Main,1500.0,Culture,50.117001,8.6829996,13
+Frankfurt a Main,1600.0,Culture,50.117001,8.6829996,21
+Frankfurt a Main,1700.0,Culture,50.117001,8.6829996,105
+Frankfurt a Main,1800.0,Culture,50.117001,8.6829996,555
+Frankfurt a Oder,1400.0,Culture,52.349998,14.55,1
+Frankfurt a Oder,1500.0,Culture,52.349998,14.55,4
+Frankfurt a Oder,1600.0,Culture,52.349998,14.55,7
+Frankfurt a Oder,1700.0,Culture,52.349998,14.55,16
+Frankfurt a Oder,1800.0,Culture,52.349998,14.55,86
+Freiberg,1200.0,Culture,50.917,13.367,2
+Freiberg,1400.0,Culture,50.917,13.367,1
+Freiberg,1500.0,Culture,50.917,13.367,10
+Freiberg,1600.0,Culture,50.917,13.367,18
+Freiberg,1700.0,Culture,50.917,13.367,44
+Freiberg,1800.0,Culture,50.917,13.367,145
+Freiburg,1300.0,Culture,48.0,7.8499999,2
+Freiburg,1400.0,Culture,48.0,7.8499999,4
+Freiburg,1500.0,Culture,48.0,7.8499999,1
+Freiburg,1600.0,Culture,48.0,7.8499999,10
+Freiburg,1700.0,Culture,48.0,7.8499999,42
+Freiburg,1800.0,Culture,48.0,7.8499999,143
+Fuerth,1400.0,Culture,49.466999,10.967,1
+Fuerth,1600.0,Culture,49.466999,10.967,3
+Fuerth,1700.0,Culture,49.466999,10.967,18
+Fuerth,1800.0,Culture,49.466999,10.967,40
+"Fustat (Cairo, ~Heliopolis, Al-Kahira)",1200.0,Culture,30.049999,31.25,2
+"Fustat (Cairo, ~Heliopolis, Al-Kahira)",1700.0,Culture,30.049999,31.25,1
+"Fustat (Cairo, ~Heliopolis, Al-Kahira)",1800.0,Culture,30.049999,31.25,38
+"Gabes (Kabes, Kabis, Tacape)",1800.0,Culture,33.882999,10.117,1
+Gaeta,1400.0,Culture,41.200001,13.583,3
+Gaeta,1500.0,Culture,41.200001,13.583,2
+Gaeta,1600.0,Culture,41.200001,13.583,3
+Gaeta,1700.0,Culture,41.200001,13.583,3
+Gaeta,1800.0,Culture,41.200001,13.583,6
+Gallipoli,1500.0,Culture,40.056,17.976,4
+Gallipoli,1600.0,Culture,40.056,17.976,3
+Gallipoli,1700.0,Culture,40.056,17.976,2
+Gallipoli,1800.0,Culture,40.056,17.976,10
+Gallipoli (Gelibolu),1500.0,Culture,40.419998,26.68,1
+Gallipoli (Gelibolu),1700.0,Culture,40.419998,26.68,1
+Gallipoli (Gelibolu),1800.0,Culture,40.419998,26.68,1
+Galway,1700.0,Culture,53.271999,-9.0489998,3
+Galway,1800.0,Culture,53.271999,-9.0489998,18
+Gdansk (Danzig),1500.0,Culture,54.349998,18.667,3
+Gdansk (Danzig),1600.0,Culture,54.349998,18.667,21
+Gdansk (Danzig),1700.0,Culture,54.349998,18.667,24
+Gdansk (Danzig),1800.0,Culture,54.349998,18.667,111
+"Geneve (Geneva, Genf)",1200.0,Culture,46.200001,6.1669998,1
+"Geneve (Geneva, Genf)",1400.0,Culture,46.200001,6.1669998,1
+"Geneve (Geneva, Genf)",1500.0,Culture,46.200001,6.1669998,2
+"Geneve (Geneva, Genf)",1600.0,Culture,46.200001,6.1669998,9
+"Geneve (Geneva, Genf)",1700.0,Culture,46.200001,6.1669998,82
+"Geneve (Geneva, Genf)",1800.0,Culture,46.200001,6.1669998,267
+Genova,1300.0,Culture,44.417,8.9499998,3
+Genova,1400.0,Culture,44.417,8.9499998,6
+Genova,1500.0,Culture,44.417,8.9499998,41
+Genova,1600.0,Culture,44.417,8.9499998,82
+Genova,1700.0,Culture,44.417,8.9499998,46
+Genova,1800.0,Culture,44.417,8.9499998,148
+"Gent (Gand, Ghent)",1400.0,Culture,51.049999,3.717,17
+"Gent (Gand, Ghent)",1500.0,Culture,51.049999,3.717,20
+"Gent (Gand, Ghent)",1600.0,Culture,51.049999,3.717,16
+"Gent (Gand, Ghent)",1700.0,Culture,51.049999,3.717,20
+"Gent (Gand, Ghent)",1800.0,Culture,51.049999,3.717,117
+Gerona (Djarunda),1200.0,Culture,41.983002,2.8169999,2
+Gerona (Djarunda),1300.0,Culture,41.983002,2.8169999,1
+Gerona (Djarunda),1400.0,Culture,41.983002,2.8169999,2
+Gerona (Djarunda),1500.0,Culture,41.983002,2.8169999,3
+Gerona (Djarunda),1600.0,Culture,41.983002,2.8169999,1
+Gerona (Djarunda),1700.0,Culture,41.983002,2.8169999,4
+Gerona (Djarunda),1800.0,Culture,41.983002,2.8169999,56
+Gibraltar,1700.0,Culture,36.143002,-5.3530002,3
+Gibraltar,1800.0,Culture,36.143002,-5.3530002,17
+Glasgow,1500.0,Culture,55.862,-4.2449999,3
+Glasgow,1600.0,Culture,55.862,-4.2449999,1
+Glasgow,1700.0,Culture,55.862,-4.2449999,31
+Glasgow,1800.0,Culture,55.862,-4.2449999,188
+Goerlitz,1400.0,Culture,51.167,15.0,1
+Goerlitz,1500.0,Culture,51.167,15.0,7
+Goerlitz,1600.0,Culture,51.167,15.0,10
+Goerlitz,1700.0,Culture,51.167,15.0,29
+Goerlitz,1800.0,Culture,51.167,15.0,63
+"Goeteborg, (Loedoense, Gothenburg)",1600.0,Culture,57.716999,11.967,7
+"Goeteborg, (Loedoense, Gothenburg)",1700.0,Culture,57.716999,11.967,35
+"Goeteborg, (Loedoense, Gothenburg)",1800.0,Culture,57.716999,11.967,348
+Gorizia,1700.0,Culture,45.950001,13.633,5
+Gorizia,1800.0,Culture,45.950001,13.633,45
+Goslar,1500.0,Culture,51.900002,10.433,1
+Goslar,1600.0,Culture,51.900002,10.433,4
+Goslar,1700.0,Culture,51.900002,10.433,18
+Goslar,1800.0,Culture,51.900002,10.433,66
+Gotha,1200.0,Culture,50.950001,10.717,2
+Gotha,1300.0,Culture,50.950001,10.717,1
+Gotha,1400.0,Culture,50.950001,10.717,2
+Gotha,1500.0,Culture,50.950001,10.717,21
+Gotha,1600.0,Culture,50.950001,10.717,55
+Gotha,1700.0,Culture,50.950001,10.717,113
+Gotha,1800.0,Culture,50.950001,10.717,156
+Gouda,1300.0,Culture,52.016998,4.6999998,1
+Gouda,1400.0,Culture,52.016998,4.6999998,2
+Gouda,1500.0,Culture,52.016998,4.6999998,11
+Gouda,1600.0,Culture,52.016998,4.6999998,15
+Gouda,1700.0,Culture,52.016998,4.6999998,1
+Gouda,1800.0,Culture,52.016998,4.6999998,11
+Granada (Gharnata),1200.0,Culture,37.182999,-3.5999999,4
+Granada (Gharnata),1300.0,Culture,37.182999,-3.5999999,2
+Granada (Gharnata),1500.0,Culture,37.182999,-3.5999999,6
+Granada (Gharnata),1600.0,Culture,37.182999,-3.5999999,8
+Granada (Gharnata),1700.0,Culture,37.182999,-3.5999999,4
+Granada (Gharnata),1800.0,Culture,37.182999,-3.5999999,62
+Gravina,1500.0,Culture,40.817001,16.417,2
+Gravina,1600.0,Culture,40.817001,16.417,1
+Gravina,1700.0,Culture,40.817001,16.417,2
+Gravina,1800.0,Culture,40.817001,16.417,4
+Graz,1400.0,Culture,47.067001,15.45,1
+Graz,1600.0,Culture,47.067001,15.45,11
+Graz,1700.0,Culture,47.067001,15.45,34
+Graz,1800.0,Culture,47.067001,15.45,185
+Great-Yarmouth,1400.0,Culture,52.605999,1.73,1
+Great-Yarmouth,1500.0,Culture,52.605999,1.73,2
+Great-Yarmouth,1600.0,Culture,52.605999,1.73,1
+Great-Yarmouth,1700.0,Culture,52.605999,1.73,5
+Great-Yarmouth,1800.0,Culture,52.605999,1.73,20
+Greenock,1700.0,Culture,55.951,-4.763,6
+Greenock,1800.0,Culture,55.951,-4.763,35
+Greenwich,1500.0,Culture,51.479,0.0089999996,1
+Greenwich,1700.0,Culture,51.479,0.0089999996,5
+Greenwich,1800.0,Culture,51.479,0.0089999996,83
+Grenoble,1500.0,Culture,45.167,5.717,2
+Grenoble,1600.0,Culture,45.167,5.717,5
+Grenoble,1700.0,Culture,45.167,5.717,15
+Grenoble,1800.0,Culture,45.167,5.717,70
+Groningen,1400.0,Culture,53.216999,6.5500002,2
+Groningen,1500.0,Culture,53.216999,6.5500002,2
+Groningen,1600.0,Culture,53.216999,6.5500002,4
+Groningen,1700.0,Culture,53.216999,6.5500002,12
+Groningen,1800.0,Culture,53.216999,6.5500002,41
+Gualdalajara,1200.0,Culture,40.630001,-3.1700001,1
+Gualdalajara,1300.0,Culture,40.630001,-3.1700001,1
+Gualdalajara,1400.0,Culture,40.630001,-3.1700001,2
+Gualdalajara,1500.0,Culture,40.630001,-3.1700001,5
+Gualdalajara,1600.0,Culture,40.630001,-3.1700001,4
+Gualdalajara,1700.0,Culture,40.630001,-3.1700001,1
+Gualdalajara,1800.0,Culture,40.630001,-3.1700001,9
+Gyoengyoes,1800.0,Culture,47.783001,19.933001,7
+Gyoer (Raab),1600.0,Culture,47.682999,17.632999,1
+Gyoer (Raab),1700.0,Culture,47.682999,17.632999,8
+Gyoer (Raab),1800.0,Culture,47.682999,17.632999,39
+Haarlem,1300.0,Culture,52.367001,4.6500001,2
+Haarlem,1400.0,Culture,52.367001,4.6500001,4
+Haarlem,1500.0,Culture,52.367001,4.6500001,43
+Haarlem,1600.0,Culture,52.367001,4.6500001,115
+Haarlem,1700.0,Culture,52.367001,4.6500001,24
+Haarlem,1800.0,Culture,52.367001,4.6500001,37
+Halberstadt,1400.0,Culture,51.900002,11.05,1
+Halberstadt,1500.0,Culture,51.900002,11.05,1
+Halberstadt,1600.0,Culture,51.900002,11.05,10
+Halberstadt,1700.0,Culture,51.900002,11.05,36
+Halberstadt,1800.0,Culture,51.900002,11.05,86
+Halifax,1700.0,Culture,53.726002,-1.8559999,6
+Halifax,1800.0,Culture,53.726002,-1.8559999,25
+Halle,1400.0,Culture,51.5,12.0,1
+Halle,1500.0,Culture,51.5,12.0,18
+Halle,1600.0,Culture,51.5,12.0,38
+Halle,1700.0,Culture,51.5,12.0,76
+Halle,1800.0,Culture,51.5,12.0,164
+Hamburg,1400.0,Culture,53.549999,10.0,1
+Hamburg,1500.0,Culture,53.549999,10.0,17
+Hamburg,1600.0,Culture,53.549999,10.0,59
+Hamburg,1700.0,Culture,53.549999,10.0,117
+Hamburg,1800.0,Culture,53.549999,10.0,688
+Hanau,1400.0,Culture,50.132999,8.9169998,3
+Hanau,1500.0,Culture,50.132999,8.9169998,7
+Hanau,1600.0,Culture,50.132999,8.9169998,11
+Hanau,1700.0,Culture,50.132999,8.9169998,21
+Hanau,1800.0,Culture,50.132999,8.9169998,127
+Hannover,1300.0,Culture,52.367001,9.717,1
+Hannover,1400.0,Culture,52.367001,9.717,1
+Hannover,1500.0,Culture,52.367001,9.717,10
+Hannover,1600.0,Culture,52.367001,9.717,21
+Hannover,1700.0,Culture,52.367001,9.717,95
+Hannover,1800.0,Culture,52.367001,9.717,412
+Heidelberg,1200.0,Culture,49.419998,8.7200003,1
+Heidelberg,1400.0,Culture,49.419998,8.7200003,3
+Heidelberg,1500.0,Culture,49.419998,8.7200003,7
+Heidelberg,1600.0,Culture,49.419998,8.7200003,5
+Heidelberg,1700.0,Culture,49.419998,8.7200003,26
+Heidelberg,1800.0,Culture,49.419998,8.7200003,123
+Hildesheim,1300.0,Culture,52.150002,9.967,1
+Hildesheim,1400.0,Culture,52.150002,9.967,1
+Hildesheim,1500.0,Culture,52.150002,9.967,3
+Hildesheim,1600.0,Culture,52.150002,9.967,7
+Hildesheim,1700.0,Culture,52.150002,9.967,24
+Hildesheim,1800.0,Culture,52.150002,9.967,73
+Hilla (Al-Hilla),1400.0,Culture,32.48,44.23,1
+Hinojosa-del-Duque,1600.0,Culture,38.5,-5.1500001,1
+Hinojosa-del-Duque,1800.0,Culture,38.5,-5.1500001,4
+Hodmezoevasarhely,1800.0,Culture,46.417,20.333,14
+Hondschoote,1600.0,Culture,50.983002,2.5829999,1
+Hondschoote,1700.0,Culture,50.983002,2.5829999,1
+Hondschoote,1800.0,Culture,50.983002,2.5829999,3
+Hoorn,1500.0,Culture,52.650002,5.0669999,3
+Hoorn,1600.0,Culture,52.650002,5.0669999,14
+Hoorn,1700.0,Culture,52.650002,5.0669999,1
+Hoorn,1800.0,Culture,52.650002,5.0669999,6
+Huddersfield,1600.0,Culture,53.645,-1.781,1
+Huddersfield,1800.0,Culture,53.645,-1.781,19
+Huesca,1500.0,Culture,42.132999,-0.417,1
+Huesca,1600.0,Culture,42.132999,-0.417,8
+Huesca,1700.0,Culture,42.132999,-0.417,2
+Huesca,1800.0,Culture,42.132999,-0.417,12
+Hull,1500.0,Culture,53.75,-0.33899999,1
+Hull,1600.0,Culture,53.75,-0.33899999,3
+Hull,1700.0,Culture,53.75,-0.33899999,9
+Hull,1800.0,Culture,53.75,-0.33899999,66
+"Iasa (Iasi, Jassy, Iasey)",1800.0,Culture,47.167,27.6,58
+"Iconum (Konya, Konia)",1800.0,Culture,37.867001,32.516998,1
+Ieper (Ypres),1300.0,Culture,50.849998,2.8829999,1
+Ieper (Ypres),1500.0,Culture,50.849998,2.8829999,4
+Ieper (Ypres),1600.0,Culture,50.849998,2.8829999,7
+Ieper (Ypres),1700.0,Culture,50.849998,2.8829999,3
+Ieper (Ypres),1800.0,Culture,50.849998,2.8829999,19
+Innsbruck,1400.0,Culture,47.266998,11.4,2
+Innsbruck,1500.0,Culture,47.266998,11.4,3
+Innsbruck,1600.0,Culture,47.266998,11.4,30
+Innsbruck,1700.0,Culture,47.266998,11.4,40
+Innsbruck,1800.0,Culture,47.266998,11.4,116
+Inverness,1600.0,Culture,57.48,-4.2270002,3
+Inverness,1700.0,Culture,57.48,-4.2270002,5
+Inverness,1800.0,Culture,57.48,-4.2270002,20
+"Ioannina (Cassiope, Janina, Yanina, Yania, Yannina)",1700.0,Culture,39.669998,20.83,2
+"Ioannina (Cassiope, Janina, Yanina, Yania, Yannina)",1800.0,Culture,39.669998,20.83,9
+Ipswich,1300.0,Culture,52.056,1.158,1
+Ipswich,1400.0,Culture,52.056,1.158,1
+Ipswich,1600.0,Culture,52.056,1.158,1
+Ipswich,1700.0,Culture,52.056,1.158,17
+Ipswich,1800.0,Culture,52.056,1.158,39
+"Iraklion (Candie, Candia, Heraklion, Heracleion, Kandiye)",1300.0,Culture,35.330002,25.15,3
+"Iraklion (Candie, Candia, Heraklion, Heracleion, Kandiye)",1400.0,Culture,35.330002,25.15,5
+"Iraklion (Candie, Candia, Heraklion, Heracleion, Kandiye)",1500.0,Culture,35.330002,25.15,4
+"Iraklion (Candie, Candia, Heraklion, Heracleion, Kandiye)",1800.0,Culture,35.330002,25.15,9
+"Isparta (Apollina Sozopolis, Sagalassos, Sabarta, Hamidabad)",1800.0,Culture,37.77,30.549999,1
+Issoudin,1300.0,Culture,46.950001,2.0,2
+Issoudin,1400.0,Culture,46.950001,2.0,3
+Issoudin,1500.0,Culture,46.950001,2.0,6
+Issoudin,1600.0,Culture,46.950001,2.0,15
+Issoudin,1700.0,Culture,46.950001,2.0,21
+Issoudin,1800.0,Culture,46.950001,2.0,77
+"Izmit (Kocaeli, Nikomedia, Nicomedia, Izmid)",1800.0,Culture,40.77,29.93,2
+Jaen (Djayyan),1500.0,Culture,37.766998,-3.783,1
+Jaen (Djayyan),1600.0,Culture,37.766998,-3.783,3
+Jaen (Djayyan),1800.0,Culture,37.766998,-3.783,11
+Jaroslav (Jaroslaw),1500.0,Culture,50.016998,22.683001,1
+Jaroslav (Jaroslaw),1600.0,Culture,50.016998,22.683001,3
+Jaroslav (Jaroslaw),1700.0,Culture,50.016998,22.683001,6
+Jaroslav (Jaroslaw),1800.0,Culture,50.016998,22.683001,43
+Jaszbereny,1700.0,Culture,47.5,19.917,4
+Jaszbereny,1800.0,Culture,47.5,19.917,11
+Jativa (Shatiba),1300.0,Culture,38.983002,-0.51700002,1
+Jativa (Shatiba),1400.0,Culture,38.983002,-0.51700002,1
+Jativa (Shatiba),1500.0,Culture,38.983002,-0.51700002,1
+Jativa (Shatiba),1600.0,Culture,38.983002,-0.51700002,4
+Jativa (Shatiba),1700.0,Culture,38.983002,-0.51700002,8
+Jativa (Shatiba),1800.0,Culture,38.983002,-0.51700002,23
+Jerez de la Frontera (Sharish),1600.0,Culture,36.682999,-6.1329999,2
+Jerez de la Frontera (Sharish),1700.0,Culture,36.682999,-6.1329999,3
+Jerez de la Frontera (Sharish),1800.0,Culture,36.682999,-6.1329999,44
+Jerez-de-los-Caballeros,1400.0,Culture,38.317001,-6.7670002,1
+Jerez-de-los-Caballeros,1500.0,Culture,38.317001,-6.7670002,3
+Jerez-de-los-Caballeros,1700.0,Culture,38.317001,-6.7670002,3
+Jerez-de-los-Caballeros,1800.0,Culture,38.317001,-6.7670002,6
+"Jerusalem (Aelia Capitolina, Al-Quds, Al-Kuds",1700.0,Culture,31.767,35.233002,1
+"Jerusalem (Aelia Capitolina, Al-Quds, Al-Kuds",1800.0,Culture,31.767,35.233002,11
+Jihlava (Iglau),1300.0,Culture,49.400002,15.583,2
+Jihlava (Iglau),1400.0,Culture,49.400002,15.583,1
+Jihlava (Iglau),1500.0,Culture,49.400002,15.583,2
+Jihlava (Iglau),1600.0,Culture,49.400002,15.583,3
+Jihlava (Iglau),1700.0,Culture,49.400002,15.583,17
+Jihlava (Iglau),1800.0,Culture,49.400002,15.583,64
+Kalat Beni Hammad (Beni Hammad),1800.0,Culture,35.813,4.8099999,2
+Kampen,1500.0,Culture,52.549999,5.9169998,9
+Kampen,1600.0,Culture,52.549999,5.9169998,5
+Kampen,1700.0,Culture,52.549999,5.9169998,3
+Kampen,1800.0,Culture,52.549999,5.9169998,13
+Karlskrona,1600.0,Culture,56.167,15.583,3
+Karlskrona,1700.0,Culture,56.167,15.583,24
+Karlskrona,1800.0,Culture,56.167,15.583,114
+Kassel,1300.0,Culture,51.317001,9.5,1
+Kassel,1400.0,Culture,51.317001,9.5,2
+Kassel,1500.0,Culture,51.317001,9.5,14
+Kassel,1600.0,Culture,51.317001,9.5,20
+Kassel,1700.0,Culture,51.317001,9.5,111
+Kassel,1800.0,Culture,51.317001,9.5,311
+Kastamonu (Kastamuni),1400.0,Culture,41.369999,33.779999,1
+Kastamonu (Kastamuni),1800.0,Culture,41.369999,33.779999,4
+Kecskemet,1700.0,Culture,46.900002,19.783001,2
+Kecskemet,1800.0,Culture,46.900002,19.783001,13
+"Kerkira (Corfu, Corfou, Kerkyra)",1500.0,Culture,39.599998,19.93,2
+"Kerkira (Corfu, Corfou, Kerkyra)",1700.0,Culture,39.599998,19.93,10
+"Kerkira (Corfu, Corfou, Kerkyra)",1800.0,Culture,39.599998,19.93,24
+"Khios (Chios, Scio)",1400.0,Culture,38.380001,26.120001,1
+"Khios (Chios, Scio)",1500.0,Culture,38.380001,26.120001,2
+"Khios (Chios, Scio)",1800.0,Culture,38.380001,26.120001,1
+Kilkenny,1500.0,Culture,52.653999,-7.2519999,1
+Kilkenny,1600.0,Culture,52.653999,-7.2519999,4
+Kilkenny,1700.0,Culture,52.653999,-7.2519999,17
+Kilkenny,1800.0,Culture,52.653999,-7.2519999,40
+Kilmallock,1600.0,Culture,52.400002,-8.5769997,1
+Kilmallock,1700.0,Culture,52.400002,-8.5769997,4
+Kilmallock,1800.0,Culture,52.400002,-8.5769997,9
+King's Lynn,1500.0,Culture,52.757999,0.39399999,2
+King's Lynn,1600.0,Culture,52.757999,0.39399999,1
+King's Lynn,1700.0,Culture,52.757999,0.39399999,9
+King's Lynn,1800.0,Culture,52.757999,0.39399999,22
+Kirshehir (Aquae Saravenae),1200.0,Culture,39.150002,34.169998,1
+Klagenfurt,1400.0,Culture,46.625,14.305,1
+Klagenfurt,1600.0,Culture,46.625,14.305,4
+Klagenfurt,1700.0,Culture,46.625,14.305,9
+Klagenfurt,1800.0,Culture,46.625,14.305,64
+"Kobenhaven (Copenhagen, Kopenhagen)",1500.0,Culture,55.667,12.583,6
+"Kobenhaven (Copenhagen, Kopenhagen)",1600.0,Culture,55.667,12.583,23
+"Kobenhaven (Copenhagen, Kopenhagen)",1700.0,Culture,55.667,12.583,157
+"Kobenhaven (Copenhagen, Kopenhagen)",1800.0,Culture,55.667,12.583,1241
+Koeln,1200.0,Culture,50.932999,6.9499998,1
+Koeln,1300.0,Culture,50.932999,6.9499998,3
+Koeln,1400.0,Culture,50.932999,6.9499998,3
+Koeln,1500.0,Culture,50.932999,6.9499998,20
+Koeln,1600.0,Culture,50.932999,6.9499998,8
+Koeln,1700.0,Culture,50.932999,6.9499998,37
+Koeln,1800.0,Culture,50.932999,6.9499998,415
+"Korinthos (Corinth, Corinthe, Goerdes)",1800.0,Culture,37.93,22.93,5
+Kortrijk (Courtrai),1400.0,Culture,50.833,3.267,1
+Kortrijk (Courtrai),1500.0,Culture,50.833,3.267,12
+Kortrijk (Courtrai),1600.0,Culture,50.833,3.267,2
+Kortrijk (Courtrai),1700.0,Culture,50.833,3.267,4
+Kortrijk (Courtrai),1800.0,Culture,50.833,3.267,31
+Krakow (Krakau),1400.0,Culture,50.083,19.917,5
+Krakow (Krakau),1500.0,Culture,50.083,19.917,6
+Krakow (Krakau),1600.0,Culture,50.083,19.917,6
+Krakow (Krakau),1700.0,Culture,50.083,19.917,14
+Krakow (Krakau),1800.0,Culture,50.083,19.917,135
+Krefeld,1200.0,Culture,51.333,6.5669999,1
+Krefeld,1300.0,Culture,51.333,6.5669999,1
+Krefeld,1400.0,Culture,51.333,6.5669999,6
+Krefeld,1500.0,Culture,51.333,6.5669999,6
+Krefeld,1600.0,Culture,51.333,6.5669999,11
+Krefeld,1700.0,Culture,51.333,6.5669999,12
+Krefeld,1800.0,Culture,51.333,6.5669999,186
+Kufa,1800.0,Culture,32.032001,44.393002,2
+"Kutahya (Kutahiya, Cotayaeum, Kotiaenon)",1800.0,Culture,39.419998,29.98,1
+Kutna Hora (Kuttenberg),1300.0,Culture,49.950001,15.267,3
+Kutna Hora (Kuttenberg),1500.0,Culture,49.950001,15.267,5
+Kutna Hora (Kuttenberg),1600.0,Culture,49.950001,15.267,4
+Kutna Hora (Kuttenberg),1700.0,Culture,49.950001,15.267,26
+Kutna Hora (Kuttenberg),1800.0,Culture,49.950001,15.267,91
+La Coruna,1500.0,Culture,43.367001,-8.3830004,1
+La Coruna,1700.0,Culture,43.367001,-8.3830004,2
+La Coruna,1800.0,Culture,43.367001,-8.3830004,62
+La Rochelle,1400.0,Culture,46.167,-1.15,1
+La Rochelle,1500.0,Culture,46.167,-1.15,1
+La Rochelle,1600.0,Culture,46.167,-1.15,4
+La Rochelle,1700.0,Culture,46.167,-1.15,13
+La Rochelle,1800.0,Culture,46.167,-1.15,32
+Lanciano,1300.0,Culture,42.233002,14.383,1
+Lanciano,1500.0,Culture,42.233002,14.383,2
+Lanciano,1600.0,Culture,42.233002,14.383,5
+Lanciano,1700.0,Culture,42.233002,14.383,7
+Lanciano,1800.0,Culture,42.233002,14.383,36
+Laon,1400.0,Culture,49.567001,3.6170001,2
+Laon,1500.0,Culture,49.567001,3.6170001,5
+Laon,1600.0,Culture,49.567001,3.6170001,4
+Laon,1700.0,Culture,49.567001,3.6170001,9
+Laon,1800.0,Culture,49.567001,3.6170001,35
+"Larisa (Larissa, Ienitcher)",1700.0,Culture,39.630001,22.42,1
+"Latakia (Ladikiyeh, Laodicia)",1800.0,Culture,35.516998,35.783001,2
+Laval,1400.0,Culture,48.067001,-0.76700002,3
+Laval,1600.0,Culture,48.067001,-0.76700002,5
+Laval,1700.0,Culture,48.067001,-0.76700002,14
+Laval,1800.0,Culture,48.067001,-0.76700002,65
+Le Havre,1500.0,Culture,49.5,0.133,1
+Le Havre,1600.0,Culture,49.5,0.133,5
+Le Havre,1700.0,Culture,49.5,0.133,13
+Le Havre,1800.0,Culture,49.5,0.133,104
+Le Mans,1400.0,Culture,48.0,0.2,1
+Le Mans,1500.0,Culture,48.0,0.2,6
+Le Mans,1600.0,Culture,48.0,0.2,5
+Le Mans,1700.0,Culture,48.0,0.2,8
+Le Mans,1800.0,Culture,48.0,0.2,38
+Le Puy (- en Velay),1500.0,Culture,45.029999,3.8800001,2
+Le Puy (- en Velay),1600.0,Culture,45.029999,3.8800001,3
+Le Puy (- en Velay),1700.0,Culture,45.029999,3.8800001,3
+Le Puy (- en Velay),1800.0,Culture,45.029999,3.8800001,20
+Lecce,1400.0,Culture,40.382999,18.183001,1
+Lecce,1500.0,Culture,40.382999,18.183001,3
+Lecce,1600.0,Culture,40.382999,18.183001,10
+Lecce,1700.0,Culture,40.382999,18.183001,8
+Lecce,1800.0,Culture,40.382999,18.183001,28
+Leeds,1600.0,Culture,53.806,-1.5369999,3
+Leeds,1700.0,Culture,53.806,-1.5369999,13
+Leeds,1800.0,Culture,53.806,-1.5369999,60
+Leeuwarden,1400.0,Culture,53.200001,5.783,1
+Leeuwarden,1500.0,Culture,53.200001,5.783,11
+Leeuwarden,1600.0,Culture,53.200001,5.783,20
+Leeuwarden,1700.0,Culture,53.200001,5.783,25
+Leeuwarden,1800.0,Culture,53.200001,5.783,46
+Leicester,1500.0,Culture,52.634998,-1.135,8
+Leicester,1600.0,Culture,52.634998,-1.135,13
+Leicester,1700.0,Culture,52.634998,-1.135,19
+Leicester,1800.0,Culture,52.634998,-1.135,66
+Leiden,1400.0,Culture,52.150002,4.5,10
+Leiden,1500.0,Culture,52.150002,4.5,17
+Leiden,1600.0,Culture,52.150002,4.5,54
+Leiden,1700.0,Culture,52.150002,4.5,4
+Leiden,1800.0,Culture,52.150002,4.5,34
+Leipzig,1500.0,Culture,51.299999,12.333,16
+Leipzig,1600.0,Culture,51.299999,12.333,62
+Leipzig,1700.0,Culture,51.299999,12.333,118
+Leipzig,1800.0,Culture,51.299999,12.333,510
+Leon (Liyun),1400.0,Culture,42.599998,-5.5669999,1
+Leon (Liyun),1500.0,Culture,42.599998,-5.5669999,5
+Leon (Liyun),1700.0,Culture,42.599998,-5.5669999,1
+Leon (Liyun),1800.0,Culture,42.599998,-5.5669999,22
+Leonforte,1800.0,Culture,37.632999,14.383,3
+Lerida (Larida),1500.0,Culture,41.617001,0.61699998,3
+Lerida (Larida),1600.0,Culture,41.617001,0.61699998,1
+Lerida (Larida),1700.0,Culture,41.617001,0.61699998,5
+Lerida (Larida),1800.0,Culture,41.617001,0.61699998,25
+"Leuven (Loewen, Louvain)",1200.0,Culture,50.882999,4.6999998,2
+"Leuven (Loewen, Louvain)",1300.0,Culture,50.882999,4.6999998,1
+"Leuven (Loewen, Louvain)",1400.0,Culture,50.882999,4.6999998,6
+"Leuven (Loewen, Louvain)",1500.0,Culture,50.882999,4.6999998,10
+"Leuven (Loewen, Louvain)",1600.0,Culture,50.882999,4.6999998,3
+"Leuven (Loewen, Louvain)",1700.0,Culture,50.882999,4.6999998,11
+"Leuven (Loewen, Louvain)",1800.0,Culture,50.882999,4.6999998,35
+Liberec (Reichenberg),1400.0,Culture,50.783001,15.05,1
+Liberec (Reichenberg),1500.0,Culture,50.783001,15.05,3
+Liberec (Reichenberg),1600.0,Culture,50.783001,15.05,16
+Liberec (Reichenberg),1700.0,Culture,50.783001,15.05,23
+Liberec (Reichenberg),1800.0,Culture,50.783001,15.05,163
+Licata,1600.0,Culture,37.099998,13.933,1
+Licata,1800.0,Culture,37.099998,13.933,2
+"Liege (Luik, Luettich)",1200.0,Culture,50.632999,5.5669999,3
+"Liege (Luik, Luettich)",1300.0,Culture,50.632999,5.5669999,5
+"Liege (Luik, Luettich)",1400.0,Culture,50.632999,5.5669999,5
+"Liege (Luik, Luettich)",1500.0,Culture,50.632999,5.5669999,23
+"Liege (Luik, Luettich)",1600.0,Culture,50.632999,5.5669999,25
+"Liege (Luik, Luettich)",1700.0,Culture,50.632999,5.5669999,35
+"Liege (Luik, Luettich)",1800.0,Culture,50.632999,5.5669999,183
+Lier,1400.0,Culture,51.132999,4.5669999,1
+Lier,1500.0,Culture,51.132999,4.5669999,9
+Lier,1600.0,Culture,51.132999,4.5669999,2
+Lier,1700.0,Culture,51.132999,4.5669999,7
+Lier,1800.0,Culture,51.132999,4.5669999,14
+Lille (Rijssel),1400.0,Culture,50.632999,3.0669999,3
+Lille (Rijssel),1500.0,Culture,50.632999,3.0669999,1
+Lille (Rijssel),1600.0,Culture,50.632999,3.0669999,13
+Lille (Rijssel),1700.0,Culture,50.632999,3.0669999,31
+Lille (Rijssel),1800.0,Culture,50.632999,3.0669999,143
+Limerick,1700.0,Culture,52.665001,-8.6230001,5
+Limerick,1800.0,Culture,52.665001,-8.6230001,27
+Limoges,1500.0,Culture,45.849998,1.25,8
+Limoges,1600.0,Culture,45.849998,1.25,4
+Limoges,1700.0,Culture,45.849998,1.25,6
+Limoges,1800.0,Culture,45.849998,1.25,73
+Linz,1400.0,Culture,48.299999,14.3,2
+Linz,1500.0,Culture,48.299999,14.3,1
+Linz,1600.0,Culture,48.299999,14.3,13
+Linz,1700.0,Culture,48.299999,14.3,25
+Linz,1800.0,Culture,48.299999,14.3,165
+Liria,1400.0,Culture,39.632999,-0.60000002,1
+Liria,1600.0,Culture,39.632999,-0.60000002,1
+Liria,1700.0,Culture,39.632999,-0.60000002,3
+Liria,1800.0,Culture,39.632999,-0.60000002,7
+"Lisboa (Lisbon, Lissabon, Al Ushbuna)",1200.0,Culture,38.716999,-9.1330004,4
+"Lisboa (Lisbon, Lissabon, Al Ushbuna)",1300.0,Culture,38.716999,-9.1330004,2
+"Lisboa (Lisbon, Lissabon, Al Ushbuna)",1400.0,Culture,38.716999,-9.1330004,7
+"Lisboa (Lisbon, Lissabon, Al Ushbuna)",1500.0,Culture,38.716999,-9.1330004,31
+"Lisboa (Lisbon, Lissabon, Al Ushbuna)",1600.0,Culture,38.716999,-9.1330004,33
+"Lisboa (Lisbon, Lissabon, Al Ushbuna)",1700.0,Culture,38.716999,-9.1330004,63
+"Lisboa (Lisbon, Lissabon, Al Ushbuna)",1800.0,Culture,38.716999,-9.1330004,233
+Lisieux,1500.0,Culture,49.150002,0.233,4
+Lisieux,1600.0,Culture,49.150002,0.233,5
+Lisieux,1700.0,Culture,49.150002,0.233,13
+Lisieux,1800.0,Culture,49.150002,0.233,26
+Liverpool,1300.0,Culture,53.416,-2.9400001,1
+Liverpool,1500.0,Culture,53.416,-2.9400001,3
+Liverpool,1600.0,Culture,53.416,-2.9400001,2
+Liverpool,1700.0,Culture,53.416,-2.9400001,28
+Liverpool,1800.0,Culture,53.416,-2.9400001,221
+Livorno,1600.0,Culture,43.549999,10.317,1
+Livorno,1700.0,Culture,43.549999,10.317,20
+Livorno,1800.0,Culture,43.549999,10.317,118
+"Ljubljana (Emona, Laibach)",1500.0,Culture,46.055,14.514,2
+"Ljubljana (Emona, Laibach)",1600.0,Culture,46.055,14.514,5
+"Ljubljana (Emona, Laibach)",1700.0,Culture,46.055,14.514,11
+"Ljubljana (Emona, Laibach)",1800.0,Culture,46.055,14.514,105
+Llerena,1500.0,Culture,38.233002,-6.0170002,4
+Llerena,1600.0,Culture,38.233002,-6.0170002,2
+Llerena,1700.0,Culture,38.233002,-6.0170002,1
+Llerena,1800.0,Culture,38.233002,-6.0170002,4
+Llucera,1700.0,Culture,41.5,15.333,1
+Llucera,1800.0,Culture,41.5,15.333,9
+Lodi,1400.0,Culture,45.317001,9.5,5
+Lodi,1500.0,Culture,45.317001,9.5,3
+Lodi,1600.0,Culture,45.317001,9.5,2
+Lodi,1700.0,Culture,45.317001,9.5,4
+Lodi,1800.0,Culture,45.317001,9.5,28
+Loja (Lawsha),1300.0,Culture,37.167,-4.1500001,1
+Loja (Lawsha),1800.0,Culture,37.167,-4.1500001,4
+Lokeren,1400.0,Culture,51.099998,3.983,1
+Lokeren,1600.0,Culture,51.099998,3.983,1
+Lokeren,1800.0,Culture,51.099998,3.983,3
+London,1300.0,Culture,51.516998,-0.105,3
+London,1400.0,Culture,51.516998,-0.105,4
+London,1500.0,Culture,51.516998,-0.105,75
+London,1600.0,Culture,51.516998,-0.105,147
+London,1700.0,Culture,51.516998,-0.105,619
+London,1800.0,Culture,51.516998,-0.105,2366
+Londonderry,1600.0,Culture,55.0,-7.3330002,3
+Londonderry,1700.0,Culture,55.0,-7.3330002,2
+Londonderry,1800.0,Culture,55.0,-7.3330002,29
+Lorca (Lurka),1500.0,Culture,37.667,-1.7,3
+Lorca (Lurka),1600.0,Culture,37.667,-1.7,2
+Lorca (Lurka),1700.0,Culture,37.667,-1.7,3
+Lorca (Lurka),1800.0,Culture,37.667,-1.7,13
+Lucca,1200.0,Culture,43.833,10.483,7
+Lucca,1300.0,Culture,43.833,10.483,1
+Lucca,1400.0,Culture,43.833,10.483,7
+Lucca,1500.0,Culture,43.833,10.483,25
+Lucca,1600.0,Culture,43.833,10.483,33
+Lucca,1700.0,Culture,43.833,10.483,49
+Lucca,1800.0,Culture,43.833,10.483,79
+Lucena,1500.0,Culture,37.400002,-4.4829998,2
+Lucena,1600.0,Culture,37.400002,-4.4829998,1
+Lucena,1700.0,Culture,37.400002,-4.4829998,1
+Lucena,1800.0,Culture,37.400002,-4.4829998,4
+Luebeck,1300.0,Culture,53.867001,10.7,1
+Luebeck,1400.0,Culture,53.867001,10.7,5
+Luebeck,1500.0,Culture,53.867001,10.7,11
+Luebeck,1600.0,Culture,53.867001,10.7,28
+Luebeck,1700.0,Culture,53.867001,10.7,43
+Luebeck,1800.0,Culture,53.867001,10.7,173
+Lueneburg,1500.0,Culture,53.25,10.4,8
+Lueneburg,1600.0,Culture,53.25,10.4,4
+Lueneburg,1700.0,Culture,53.25,10.4,15
+Lueneburg,1800.0,Culture,53.25,10.4,48
+Luneville,1300.0,Culture,48.599998,6.5,1
+Luneville,1500.0,Culture,48.599998,6.5,3
+Luneville,1600.0,Culture,48.599998,6.5,4
+Luneville,1700.0,Culture,48.599998,6.5,29
+Luneville,1800.0,Culture,48.599998,6.5,67
+Luxemburg (Luxembourg),1600.0,Culture,49.599998,6.1500001,3
+Luxemburg (Luxembourg),1700.0,Culture,49.599998,6.1500001,6
+Luxemburg (Luxembourg),1800.0,Culture,49.599998,6.1500001,65
+Lyon,1300.0,Culture,45.75,4.8499999,1
+Lyon,1400.0,Culture,45.75,4.8499999,3
+Lyon,1500.0,Culture,45.75,4.8499999,14
+Lyon,1600.0,Culture,45.75,4.8499999,47
+Lyon,1700.0,Culture,45.75,4.8499999,124
+Lyon,1800.0,Culture,45.75,4.8499999,439
+Maastricht,1200.0,Culture,50.849998,5.6830001,1
+Maastricht,1300.0,Culture,50.849998,5.6830001,2
+Maastricht,1400.0,Culture,50.849998,5.6830001,1
+Maastricht,1500.0,Culture,50.849998,5.6830001,2
+Maastricht,1600.0,Culture,50.849998,5.6830001,5
+Maastricht,1700.0,Culture,50.849998,5.6830001,9
+Maastricht,1800.0,Culture,50.849998,5.6830001,37
+Macclesfield,1600.0,Culture,53.257999,-2.1270001,1
+Macclesfield,1700.0,Culture,53.257999,-2.1270001,2
+Macclesfield,1800.0,Culture,53.257999,-2.1270001,6
+Macerata,1200.0,Culture,43.299999,13.45,2
+Macerata,1300.0,Culture,43.299999,13.45,6
+Macerata,1400.0,Culture,43.299999,13.45,10
+Macerata,1500.0,Culture,43.299999,13.45,13
+Macerata,1600.0,Culture,43.299999,13.45,8
+Macerata,1700.0,Culture,43.299999,13.45,23
+Macerata,1800.0,Culture,43.299999,13.45,67
+Macon,1400.0,Culture,46.299999,4.8330002,1
+Macon,1500.0,Culture,46.299999,4.8330002,2
+Macon,1600.0,Culture,46.299999,4.8330002,7
+Macon,1700.0,Culture,46.299999,4.8330002,13
+Macon,1800.0,Culture,46.299999,4.8330002,65
+Maddaloni,1300.0,Culture,41.033001,14.383,1
+Maddaloni,1500.0,Culture,41.033001,14.383,2
+Maddaloni,1700.0,Culture,41.033001,14.383,3
+Maddaloni,1800.0,Culture,41.033001,14.383,26
+Madrid (Madjrit),1300.0,Culture,40.400002,-3.6830001,1
+Madrid (Madjrit),1400.0,Culture,40.400002,-3.6830001,2
+Madrid (Madjrit),1500.0,Culture,40.400002,-3.6830001,43
+Madrid (Madjrit),1600.0,Culture,40.400002,-3.6830001,64
+Madrid (Madjrit),1700.0,Culture,40.400002,-3.6830001,49
+Madrid (Madjrit),1800.0,Culture,40.400002,-3.6830001,442
+Magdeburg,1500.0,Culture,52.167,11.667,10
+Magdeburg,1600.0,Culture,52.167,11.667,7
+Magdeburg,1700.0,Culture,52.167,11.667,36
+Magdeburg,1800.0,Culture,52.167,11.667,219
+Mahon,1400.0,Culture,39.882999,4.25,1
+Mahon,1700.0,Culture,39.882999,4.25,4
+Mahon,1800.0,Culture,39.882999,4.25,14
+Mainz,1300.0,Culture,49.998001,8.2729998,2
+Mainz,1400.0,Culture,49.998001,8.2729998,5
+Mainz,1500.0,Culture,49.998001,8.2729998,4
+Mainz,1600.0,Culture,49.998001,8.2729998,6
+Mainz,1700.0,Culture,49.998001,8.2729998,58
+Mainz,1800.0,Culture,49.998001,8.2729998,338
+Mako (Makowa),1800.0,Culture,46.216999,20.483,19
+Malaga (Malaka),1500.0,Culture,36.716999,-4.4169998,1
+Malaga (Malaka),1700.0,Culture,36.716999,-4.4169998,8
+Malaga (Malaka),1800.0,Culture,36.716999,-4.4169998,69
+"Malatya (Melitene, Malatiya)",1800.0,Culture,38.360001,38.310001,1
+Manchester,1600.0,Culture,53.483002,-2.2490001,1
+Manchester,1700.0,Culture,53.483002,-2.2490001,16
+Manchester,1800.0,Culture,53.483002,-2.2490001,109
+"Manisa (Magnesia, Maghnisa, Magnesia ad Sipylum)",1800.0,Culture,38.599998,27.450001,1
+Mannheim,1700.0,Culture,49.487999,8.4650002,74
+Mannheim,1800.0,Culture,49.487999,8.4650002,142
+Manresa,1200.0,Culture,41.733002,1.8329999,2
+Manresa,1300.0,Culture,41.733002,1.8329999,2
+Manresa,1500.0,Culture,41.733002,1.8329999,2
+Manresa,1600.0,Culture,41.733002,1.8329999,8
+Manresa,1700.0,Culture,41.733002,1.8329999,6
+Manresa,1800.0,Culture,41.733002,1.8329999,36
+Mansura (al-Mansura),1800.0,Culture,31.07,31.68,1
+Mantua,1200.0,Culture,45.150002,10.8,1
+Mantua,1300.0,Culture,45.150002,10.8,1
+Mantua,1400.0,Culture,45.150002,10.8,15
+Mantua,1500.0,Culture,45.150002,10.8,35
+Mantua,1600.0,Culture,45.150002,10.8,12
+Mantua,1700.0,Culture,45.150002,10.8,23
+Mantua,1800.0,Culture,45.150002,10.8,58
+Marakesh (Marrakush),1300.0,Culture,31.632999,-8.0,1
+"Marash (Maras, Germanik, Kahraman(marash), Germanikeia)",1700.0,Culture,37.610001,36.939999,1
+"Marash (Maras, Germanik, Kahraman(marash), Germanikeia)",1800.0,Culture,37.610001,36.939999,2
+Marchena,1500.0,Culture,37.330002,-5.4000001,1
+Marchena,1800.0,Culture,37.330002,-5.4000001,7
+"Mardin (Maridin, Marde, Margdis)",1200.0,Culture,37.299999,40.73,2
+"Mardin (Maridin, Marde, Margdis)",1300.0,Culture,37.299999,40.73,1
+Marsala,1600.0,Culture,37.799999,12.433,1
+Marsala,1800.0,Culture,37.799999,12.433,1
+Marseille,1200.0,Culture,43.299999,5.4000001,1
+Marseille,1500.0,Culture,43.299999,5.4000001,5
+Marseille,1600.0,Culture,43.299999,5.4000001,22
+Marseille,1700.0,Culture,43.299999,5.4000001,68
+Marseille,1800.0,Culture,43.299999,5.4000001,281
+Martina Franca,1600.0,Culture,40.700001,17.333,2
+Martina Franca,1700.0,Culture,40.700001,17.333,1
+Martina Franca,1800.0,Culture,40.700001,17.333,2
+Martos,1800.0,Culture,37.716999,-3.967,3
+Mascali,1500.0,Culture,37.75,15.2,1
+Mascali,1800.0,Culture,37.75,15.2,12
+Mataro,1300.0,Culture,41.533001,2.45,1
+Mataro,1500.0,Culture,41.533001,2.45,2
+Mataro,1600.0,Culture,41.533001,2.45,1
+Mataro,1700.0,Culture,41.533001,2.45,3
+Mataro,1800.0,Culture,41.533001,2.45,34
+Matera,1500.0,Culture,40.667,16.6,3
+Matera,1600.0,Culture,40.667,16.6,3
+Matera,1700.0,Culture,40.667,16.6,6
+Matera,1800.0,Culture,40.667,16.6,7
+Mazzarino,1600.0,Culture,37.299999,14.217,1
+Mazzarino,1800.0,Culture,37.299999,14.217,1
+Mechelen (Malines),1400.0,Culture,51.033001,4.467,7
+Mechelen (Malines),1500.0,Culture,51.033001,4.467,45
+Mechelen (Malines),1600.0,Culture,51.033001,4.467,23
+Mechelen (Malines),1700.0,Culture,51.033001,4.467,9
+Mechelen (Malines),1800.0,Culture,51.033001,4.467,16
+Mecklenburg,1500.0,Culture,53.849998,11.467,2
+Mecklenburg,1600.0,Culture,53.849998,11.467,2
+Mecklenburg,1700.0,Culture,53.849998,11.467,11
+Mecklenburg,1800.0,Culture,53.849998,11.467,33
+Medina (Madinah),1700.0,Culture,24.466999,39.599998,1
+"Medina al-Fayyum (Madinat al-Fayyum, al-Faiyum, Crocodilopolis)",1300.0,Culture,29.299999,30.83,1
+"Medina al-Fayyum (Madinat al-Fayyum, al-Faiyum, Crocodilopolis)",1800.0,Culture,29.299999,30.83,1
+Medina de rio Seco,1500.0,Culture,41.882999,-5.033,2
+Medina de rio Seco,1600.0,Culture,41.882999,-5.033,1
+Medina de rio Seco,1800.0,Culture,41.882999,-5.033,4
+Medina del Campo,1400.0,Culture,41.299999,-4.9169998,1
+Medina del Campo,1500.0,Culture,41.299999,-4.9169998,4
+Medina del Campo,1600.0,Culture,41.299999,-4.9169998,2
+Medina del Campo,1700.0,Culture,41.299999,-4.9169998,3
+Medina del Campo,1800.0,Culture,41.299999,-4.9169998,9
+Meknes (Miknas),1700.0,Culture,33.895,-5.5500002,2
+Melfi,1400.0,Culture,41.0,15.65,2
+Melfi,1500.0,Culture,41.0,15.65,5
+Melfi,1600.0,Culture,41.0,15.65,2
+Melfi,1700.0,Culture,41.0,15.65,2
+Melfi,1800.0,Culture,41.0,15.65,34
+"Melilla (Malibya, Rusadir)",1700.0,Culture,35.317001,-2.95,1
+Merida (Marida),1400.0,Culture,38.917,-6.3330002,1
+Merida (Marida),1500.0,Culture,38.917,-6.3330002,2
+Merida (Marida),1600.0,Culture,38.917,-6.3330002,1
+Merida (Marida),1700.0,Culture,38.917,-6.3330002,3
+Merida (Marida),1800.0,Culture,38.917,-6.3330002,6
+Messina,1200.0,Culture,38.182999,15.567,2
+Messina,1300.0,Culture,38.182999,15.567,1
+Messina,1400.0,Culture,38.182999,15.567,8
+Messina,1500.0,Culture,38.182999,15.567,20
+Messina,1600.0,Culture,38.182999,15.567,25
+Messina,1700.0,Culture,38.182999,15.567,11
+Messina,1800.0,Culture,38.182999,15.567,82
+Metz,1400.0,Culture,49.132999,6.1669998,1
+Metz,1500.0,Culture,49.132999,6.1669998,7
+Metz,1600.0,Culture,49.132999,6.1669998,5
+Metz,1700.0,Culture,49.132999,6.1669998,28
+Metz,1800.0,Culture,49.132999,6.1669998,133
+Milano,1200.0,Culture,45.466999,9.1999998,2
+Milano,1300.0,Culture,45.466999,9.1999998,1
+Milano,1400.0,Culture,45.466999,9.1999998,30
+Milano,1500.0,Culture,45.466999,9.1999998,33
+Milano,1600.0,Culture,45.466999,9.1999998,65
+Milano,1700.0,Culture,45.466999,9.1999998,110
+Milano,1800.0,Culture,45.466999,9.1999998,429
+Miskolc,1700.0,Culture,48.099998,20.783001,3
+Miskolc,1800.0,Culture,48.099998,20.783001,23
+Mistretta,1600.0,Culture,37.93,14.37,1
+Mistretta,1800.0,Culture,37.93,14.37,7
+Modena,1300.0,Culture,44.667,10.917,4
+Modena,1400.0,Culture,44.667,10.917,22
+Modena,1500.0,Culture,44.667,10.917,34
+Modena,1600.0,Culture,44.667,10.917,30
+Modena,1700.0,Culture,44.667,10.917,20
+Modena,1800.0,Culture,44.667,10.917,80
+Modica,1800.0,Culture,36.867001,14.767,1
+Molfetta,1400.0,Culture,41.200001,16.6,1
+Molfetta,1600.0,Culture,41.200001,16.6,3
+Molfetta,1700.0,Culture,41.200001,16.6,3
+Molfetta,1800.0,Culture,41.200001,16.6,5
+Mondovi,1500.0,Culture,44.382999,7.8169999,2
+Mondovi,1600.0,Culture,44.382999,7.8169999,2
+Mondovi,1700.0,Culture,44.382999,7.8169999,5
+Mondovi,1800.0,Culture,44.382999,7.8169999,20
+Monopoli,1400.0,Culture,40.950001,17.299999,1
+Monopoli,1600.0,Culture,40.950001,17.299999,1
+Monopoli,1700.0,Culture,40.950001,17.299999,3
+Monopoli,1800.0,Culture,40.950001,17.299999,7
+Mons (Bergen),1200.0,Culture,50.450001,3.9330001,1
+Mons (Bergen),1400.0,Culture,50.450001,3.9330001,8
+Mons (Bergen),1500.0,Culture,50.450001,3.9330001,12
+Mons (Bergen),1600.0,Culture,50.450001,3.9330001,11
+Mons (Bergen),1700.0,Culture,50.450001,3.9330001,23
+Mons (Bergen),1800.0,Culture,50.450001,3.9330001,85
+Montauban,1500.0,Culture,44.016998,1.35,1
+Montauban,1700.0,Culture,44.016998,1.35,6
+Montauban,1800.0,Culture,44.016998,1.35,36
+Montoro,1500.0,Culture,38.016998,-4.3829999,1
+Montoro,1600.0,Culture,38.016998,-4.3829999,1
+Montoro,1800.0,Culture,38.016998,-4.3829999,2
+Montpellier,1200.0,Culture,43.599998,3.8829999,1
+Montpellier,1500.0,Culture,43.599998,3.8829999,1
+Montpellier,1600.0,Culture,43.599998,3.8829999,7
+Montpellier,1700.0,Culture,43.599998,3.8829999,37
+Montpellier,1800.0,Culture,43.599998,3.8829999,80
+Monza,1200.0,Culture,45.583,9.2670002,1
+Monza,1400.0,Culture,45.583,9.2670002,4
+Monza,1500.0,Culture,45.583,9.2670002,4
+Monza,1600.0,Culture,45.583,9.2670002,1
+Monza,1700.0,Culture,45.583,9.2670002,11
+Monza,1800.0,Culture,45.583,9.2670002,41
+Morella,1400.0,Culture,40.617001,-0.1,1
+Morella,1500.0,Culture,40.617001,-0.1,3
+Morella,1600.0,Culture,40.617001,-0.1,3
+Morella,1700.0,Culture,40.617001,-0.1,9
+Morella,1800.0,Culture,40.617001,-0.1,9
+Mosul (Al-Mawsil),1300.0,Culture,36.333,43.132999,1
+Mosul (Al-Mawsil),1500.0,Culture,36.333,43.132999,1
+Mosul (Al-Mawsil),1800.0,Culture,36.333,43.132999,2
+Motril,1700.0,Culture,36.75,-3.517,1
+Motril,1800.0,Culture,36.75,-3.517,7
+Moulins,1400.0,Culture,46.57,3.3299999,1
+Moulins,1500.0,Culture,46.57,3.3299999,1
+Moulins,1600.0,Culture,46.57,3.3299999,5
+Moulins,1700.0,Culture,46.57,3.3299999,5
+Moulins,1800.0,Culture,46.57,3.3299999,43
+Muelheim an der Ruhr,1300.0,Culture,51.432999,6.8829999,1
+Muelheim an der Ruhr,1400.0,Culture,51.432999,6.8829999,2
+Muelheim an der Ruhr,1500.0,Culture,51.432999,6.8829999,2
+Muelheim an der Ruhr,1700.0,Culture,51.432999,6.8829999,10
+Muelheim an der Ruhr,1800.0,Culture,51.432999,6.8829999,149
+Muenchen,1300.0,Culture,48.150002,11.583,1
+Muenchen,1400.0,Culture,48.150002,11.583,1
+Muenchen,1500.0,Culture,48.150002,11.583,20
+Muenchen,1600.0,Culture,48.150002,11.583,19
+Muenchen,1700.0,Culture,48.150002,11.583,77
+Muenchen,1800.0,Culture,48.150002,11.583,799
+Muenster,1300.0,Culture,51.966999,7.6329999,1
+Muenster,1400.0,Culture,51.966999,7.6329999,6
+Muenster,1500.0,Culture,51.966999,7.6329999,4
+Muenster,1600.0,Culture,51.966999,7.6329999,5
+Muenster,1700.0,Culture,51.966999,7.6329999,22
+Muenster,1800.0,Culture,51.966999,7.6329999,114
+Murcia (Mursiya),1400.0,Culture,37.983002,-1.117,1
+Murcia (Mursiya),1500.0,Culture,37.983002,-1.117,6
+Murcia (Mursiya),1600.0,Culture,37.983002,-1.117,1
+Murcia (Mursiya),1700.0,Culture,37.983002,-1.117,8
+Murcia (Mursiya),1800.0,Culture,37.983002,-1.117,39
+Namur (Namen),1300.0,Culture,50.466999,4.8670001,1
+Namur (Namen),1400.0,Culture,50.466999,4.8670001,3
+Namur (Namen),1500.0,Culture,50.466999,4.8670001,5
+Namur (Namen),1600.0,Culture,50.466999,4.8670001,10
+Namur (Namen),1700.0,Culture,50.466999,4.8670001,24
+Namur (Namen),1800.0,Culture,50.466999,4.8670001,95
+Nancy,1200.0,Culture,48.682999,6.1999998,1
+Nancy,1500.0,Culture,48.682999,6.1999998,8
+Nancy,1600.0,Culture,48.682999,6.1999998,18
+Nancy,1700.0,Culture,48.682999,6.1999998,42
+Nancy,1800.0,Culture,48.682999,6.1999998,111
+Nantes,1400.0,Culture,47.216999,-1.55,1
+Nantes,1500.0,Culture,47.216999,-1.55,4
+Nantes,1600.0,Culture,47.216999,-1.55,5
+Nantes,1700.0,Culture,47.216999,-1.55,29
+Nantes,1800.0,Culture,47.216999,-1.55,186
+Napoli,1200.0,Culture,40.833,14.25,4
+Napoli,1300.0,Culture,40.833,14.25,3
+Napoli,1400.0,Culture,40.833,14.25,16
+Napoli,1500.0,Culture,40.833,14.25,49
+Napoli,1600.0,Culture,40.833,14.25,113
+Napoli,1700.0,Culture,40.833,14.25,139
+Napoli,1800.0,Culture,40.833,14.25,426
+Narbonne,1200.0,Culture,43.182999,3.0,1
+Narbonne,1500.0,Culture,43.182999,3.0,1
+Narbonne,1700.0,Culture,43.182999,3.0,2
+Narbonne,1800.0,Culture,43.182999,3.0,24
+Naro,1500.0,Culture,37.299999,13.8,1
+Naro,1700.0,Culture,37.299999,13.8,1
+Naro,1800.0,Culture,37.299999,13.8,4
+Nevers,1600.0,Culture,46.983002,3.1670001,4
+Nevers,1700.0,Culture,46.983002,3.1670001,3
+Nevers,1800.0,Culture,46.983002,3.1670001,49
+New-Ross,1700.0,Culture,52.396999,-6.9369998,1
+New-Ross,1800.0,Culture,52.396999,-6.9369998,3
+Newcastle-upon-Tine,1600.0,Culture,54.973999,-1.602,3
+Newcastle-upon-Tine,1700.0,Culture,54.973999,-1.602,44
+Newcastle-upon-Tine,1800.0,Culture,54.973999,-1.602,111
+Newry,1700.0,Culture,54.18,-6.3299999,6
+Newry,1800.0,Culture,54.18,-6.3299999,24
+Nice,1400.0,Culture,43.700001,7.25,3
+Nice,1500.0,Culture,43.700001,7.25,3
+Nice,1600.0,Culture,43.700001,7.25,1
+Nice,1700.0,Culture,43.700001,7.25,23
+Nice,1800.0,Culture,43.700001,7.25,115
+"Nicea (Isnik, Iznik, Nikaia)",1200.0,Culture,40.432999,29.716999,1
+Nicosia,1500.0,Culture,37.75,14.4,1
+Nicosia,1600.0,Culture,37.75,14.4,2
+Nicosia,1800.0,Culture,37.75,14.4,4
+"Nicosia (Lefkosha, Leukosia)",1500.0,Culture,35.169998,33.369999,1
+"Nicosia (Lefkosha, Leukosia)",1800.0,Culture,35.169998,33.369999,5
+Nijmegen,1300.0,Culture,51.833,5.8670001,1
+Nijmegen,1400.0,Culture,51.833,5.8670001,6
+Nijmegen,1500.0,Culture,51.833,5.8670001,6
+Nijmegen,1600.0,Culture,51.833,5.8670001,9
+Nijmegen,1700.0,Culture,51.833,5.8670001,2
+Nijmegen,1800.0,Culture,51.833,5.8670001,35
+Nikopol (Nikbudi),1800.0,Culture,43.700001,24.9,8
+Nimes,1400.0,Culture,43.833,4.3499999,2
+Nimes,1600.0,Culture,43.833,4.3499999,7
+Nimes,1700.0,Culture,43.833,4.3499999,19
+Nimes,1800.0,Culture,43.833,4.3499999,91
+Niort,1200.0,Culture,46.299999,-0.44999999,1
+Niort,1400.0,Culture,46.299999,-0.44999999,1
+Niort,1500.0,Culture,46.299999,-0.44999999,4
+Niort,1600.0,Culture,46.299999,-0.44999999,2
+Niort,1700.0,Culture,46.299999,-0.44999999,7
+Niort,1800.0,Culture,46.299999,-0.44999999,41
+"Nis (Naissus, Nish)",1800.0,Culture,43.317001,21.9,3
+Noerdlingen,1300.0,Culture,48.849998,10.5,1
+Noerdlingen,1400.0,Culture,48.849998,10.5,9
+Noerdlingen,1500.0,Culture,48.849998,10.5,10
+Noerdlingen,1600.0,Culture,48.849998,10.5,12
+Noerdlingen,1700.0,Culture,48.849998,10.5,30
+Noerdlingen,1800.0,Culture,48.849998,10.5,51
+Norwich,1400.0,Culture,52.627998,1.303,2
+Norwich,1500.0,Culture,52.627998,1.303,8
+Norwich,1600.0,Culture,52.627998,1.303,5
+Norwich,1700.0,Culture,52.627998,1.303,52
+Norwich,1800.0,Culture,52.627998,1.303,76
+Noto,1700.0,Culture,36.882999,15.067,2
+Noto,1800.0,Culture,36.882999,15.067,5
+Nottingham,1400.0,Culture,52.967999,-1.159,2
+Nottingham,1500.0,Culture,52.967999,-1.159,15
+Nottingham,1600.0,Culture,52.967999,-1.159,17
+Nottingham,1700.0,Culture,52.967999,-1.159,51
+Nottingham,1800.0,Culture,52.967999,-1.159,179
+Novara,1300.0,Culture,45.466999,8.6330004,2
+Novara,1400.0,Culture,45.466999,8.6330004,9
+Novara,1500.0,Culture,45.466999,8.6330004,8
+Novara,1600.0,Culture,45.466999,8.6330004,14
+Novara,1700.0,Culture,45.466999,8.6330004,11
+Novara,1800.0,Culture,45.466999,8.6330004,52
+Nuernberg,1400.0,Culture,49.450001,11.083,33
+Nuernberg,1500.0,Culture,49.450001,11.083,46
+Nuernberg,1600.0,Culture,49.450001,11.083,70
+Nuernberg,1700.0,Culture,49.450001,11.083,87
+Nuernberg,1800.0,Culture,49.450001,11.083,175
+Ocana,1300.0,Culture,39.932999,-3.517,2
+Ocana,1400.0,Culture,39.932999,-3.517,1
+Ocana,1500.0,Culture,39.932999,-3.517,5
+Ocana,1600.0,Culture,39.932999,-3.517,2
+Ocana,1700.0,Culture,39.932999,-3.517,4
+Ocana,1800.0,Culture,39.932999,-3.517,24
+"Ohrid (Lynchnidus, Okhri)",1800.0,Culture,41.117001,20.799999,10
+Oldham,1700.0,Culture,53.536999,-2.1129999,1
+Oldham,1800.0,Culture,53.536999,-2.1129999,7
+Olomouc (Olmuetz),1400.0,Culture,49.583,17.25,3
+Olomouc (Olmuetz),1500.0,Culture,49.583,17.25,3
+Olomouc (Olmuetz),1600.0,Culture,49.583,17.25,9
+Olomouc (Olmuetz),1700.0,Culture,49.583,17.25,14
+Olomouc (Olmuetz),1800.0,Culture,49.583,17.25,139
+Olot,1700.0,Culture,42.182999,2.483,4
+Olot,1800.0,Culture,42.182999,2.483,29
+Onteniente,1500.0,Culture,38.817001,-0.61699998,1
+Onteniente,1600.0,Culture,38.817001,-0.61699998,1
+Onteniente,1700.0,Culture,38.817001,-0.61699998,3
+Onteniente,1800.0,Culture,38.817001,-0.61699998,8
+"Oran (Wahran, Portus Divinus)",1800.0,Culture,35.75,-0.63,16
+Orihuela,1500.0,Culture,38.083,-0.94999999,1
+Orihuela,1600.0,Culture,38.083,-0.94999999,1
+Orihuela,1700.0,Culture,38.083,-0.94999999,1
+Orihuela,1800.0,Culture,38.083,-0.94999999,7
+Orleans,1200.0,Culture,47.917,1.9,2
+Orleans,1500.0,Culture,47.917,1.9,12
+Orleans,1600.0,Culture,47.917,1.9,12
+Orleans,1700.0,Culture,47.917,1.9,29
+Orleans,1800.0,Culture,47.917,1.9,68
+Orvieto,1200.0,Culture,42.716999,12.117,1
+Orvieto,1300.0,Culture,42.716999,12.117,2
+Orvieto,1400.0,Culture,42.716999,12.117,2
+Orvieto,1500.0,Culture,42.716999,12.117,10
+Orvieto,1600.0,Culture,42.716999,12.117,4
+Orvieto,1700.0,Culture,42.716999,12.117,4
+Orvieto,1800.0,Culture,42.716999,12.117,15
+Oslo,1700.0,Culture,59.917,10.75,9
+Oslo,1800.0,Culture,59.917,10.75,210
+Osnabrueck,1300.0,Culture,52.266998,8.0500002,2
+Osnabrueck,1400.0,Culture,52.266998,8.0500002,2
+Osnabrueck,1500.0,Culture,52.266998,8.0500002,3
+Osnabrueck,1600.0,Culture,52.266998,8.0500002,10
+Osnabrueck,1700.0,Culture,52.266998,8.0500002,19
+Osnabrueck,1800.0,Culture,52.266998,8.0500002,147
+Ostende,1700.0,Culture,51.216999,2.9170001,2
+Ostende,1800.0,Culture,51.216999,2.9170001,15
+Osuna,1500.0,Culture,37.233002,-5.1170001,2
+Osuna,1700.0,Culture,37.233002,-5.1170001,1
+Osuna,1800.0,Culture,37.233002,-5.1170001,5
+Otranto,1800.0,Culture,40.150002,18.5,4
+Ovar,1600.0,Culture,40.867001,-8.6330004,1
+Ovar,1800.0,Culture,40.867001,-8.6330004,24
+Oxford,1500.0,Culture,51.754002,-1.2539999,5
+Oxford,1600.0,Culture,51.754002,-1.2539999,10
+Oxford,1700.0,Culture,51.754002,-1.2539999,21
+Oxford,1800.0,Culture,51.754002,-1.2539999,81
+Padova (Padua),1200.0,Culture,45.417,11.883,1
+Padova (Padua),1300.0,Culture,45.417,11.883,3
+Padova (Padua),1400.0,Culture,45.417,11.883,16
+Padova (Padua),1500.0,Culture,45.417,11.883,25
+Padova (Padua),1600.0,Culture,45.417,11.883,24
+Padova (Padua),1700.0,Culture,45.417,11.883,24
+Padova (Padua),1800.0,Culture,45.417,11.883,52
+Paisley,1500.0,Culture,55.841,-4.4200001,1
+Paisley,1700.0,Culture,55.841,-4.4200001,17
+Paisley,1800.0,Culture,55.841,-4.4200001,33
+Palencia,1200.0,Culture,42.016998,-4.533,1
+Palencia,1300.0,Culture,42.016998,-4.533,1
+Palencia,1400.0,Culture,42.016998,-4.533,3
+Palencia,1500.0,Culture,42.016998,-4.533,8
+Palencia,1600.0,Culture,42.016998,-4.533,1
+Palencia,1700.0,Culture,42.016998,-4.533,3
+Palencia,1800.0,Culture,42.016998,-4.533,17
+Palermo (Balarm),1300.0,Culture,38.117001,13.367,1
+Palermo (Balarm),1400.0,Culture,38.117001,13.367,7
+Palermo (Balarm),1500.0,Culture,38.117001,13.367,13
+Palermo (Balarm),1600.0,Culture,38.117001,13.367,26
+Palermo (Balarm),1700.0,Culture,38.117001,13.367,37
+Palermo (Balarm),1800.0,Culture,38.117001,13.367,139
+Palma,1300.0,Culture,39.567001,2.6500001,4
+Palma,1500.0,Culture,39.567001,2.6500001,1
+Palma,1600.0,Culture,39.567001,2.6500001,4
+Palma,1700.0,Culture,39.567001,2.6500001,6
+Palma,1800.0,Culture,39.567001,2.6500001,62
+Pamplona (Bambluna),1300.0,Culture,42.817001,-1.633,1
+Pamplona (Bambluna),1400.0,Culture,42.817001,-1.633,1
+Pamplona (Bambluna),1500.0,Culture,42.817001,-1.633,5
+Pamplona (Bambluna),1600.0,Culture,42.817001,-1.633,8
+Pamplona (Bambluna),1700.0,Culture,42.817001,-1.633,4
+Pamplona (Bambluna),1800.0,Culture,42.817001,-1.633,34
+"Panczova (Pancevo, Pancsova)",1800.0,Culture,44.867001,20.65,9
+Paris,1200.0,Culture,48.867001,2.3329999,5
+Paris,1300.0,Culture,48.867001,2.3329999,2
+Paris,1400.0,Culture,48.867001,2.3329999,10
+Paris,1500.0,Culture,48.867001,2.3329999,86
+Paris,1600.0,Culture,48.867001,2.3329999,490
+Paris,1700.0,Culture,48.867001,2.3329999,1216
+Paris,1800.0,Culture,48.867001,2.3329999,4157
+Parma,1400.0,Culture,44.799999,10.333,19
+Parma,1500.0,Culture,44.799999,10.333,26
+Parma,1600.0,Culture,44.799999,10.333,33
+Parma,1700.0,Culture,44.799999,10.333,59
+Parma,1800.0,Culture,44.799999,10.333,111
+Partanna,1800.0,Culture,37.720001,12.9,1
+Partinico,1800.0,Culture,38.049999,13.12,4
+Passau,1400.0,Culture,48.583,13.483,2
+Passau,1500.0,Culture,48.583,13.483,4
+Passau,1600.0,Culture,48.583,13.483,11
+Passau,1700.0,Culture,48.583,13.483,23
+Passau,1800.0,Culture,48.583,13.483,86
+"Patrai (Patras, Baliabadra)",1800.0,Culture,38.25,21.73,14
+Pavia,1400.0,Culture,45.167,9.1669998,12
+Pavia,1500.0,Culture,45.167,9.1669998,1
+Pavia,1600.0,Culture,45.167,9.1669998,6
+Pavia,1700.0,Culture,45.167,9.1669998,10
+Pavia,1800.0,Culture,45.167,9.1669998,48
+Perpignan,1300.0,Culture,42.682999,2.8829999,2
+Perpignan,1500.0,Culture,42.682999,2.8829999,1
+Perpignan,1600.0,Culture,42.682999,2.8829999,3
+Perpignan,1700.0,Culture,42.682999,2.8829999,7
+Perpignan,1800.0,Culture,42.682999,2.8829999,52
+Perth,1500.0,Culture,56.396,-3.434,1
+Perth,1600.0,Culture,56.396,-3.434,3
+Perth,1700.0,Culture,56.396,-3.434,13
+Perth,1800.0,Culture,56.396,-3.434,31
+Perugia,1200.0,Culture,43.132999,12.367,2
+Perugia,1300.0,Culture,43.132999,12.367,4
+Perugia,1400.0,Culture,43.132999,12.367,21
+Perugia,1500.0,Culture,43.132999,12.367,38
+Perugia,1600.0,Culture,43.132999,12.367,20
+Perugia,1700.0,Culture,43.132999,12.367,10
+Perugia,1800.0,Culture,43.132999,12.367,45
+Pesaro,1300.0,Culture,43.900002,12.9,1
+Pesaro,1400.0,Culture,43.900002,12.9,12
+Pesaro,1500.0,Culture,43.900002,12.9,28
+Pesaro,1600.0,Culture,43.900002,12.9,17
+Pesaro,1700.0,Culture,43.900002,12.9,26
+Pesaro,1800.0,Culture,43.900002,12.9,56
+Pest,1500.0,Culture,47.5,19.083,1
+Pest,1700.0,Culture,47.5,19.083,4
+Pest,1800.0,Culture,47.5,19.083,116
+Piacenza,1300.0,Culture,45.016998,9.6669998,1
+Piacenza,1400.0,Culture,45.016998,9.6669998,2
+Piacenza,1500.0,Culture,45.016998,9.6669998,5
+Piacenza,1600.0,Culture,45.016998,9.6669998,7
+Piacenza,1700.0,Culture,45.016998,9.6669998,20
+Piacenza,1800.0,Culture,45.016998,9.6669998,44
+Piazza Armerina,1500.0,Culture,37.382999,14.367,1
+Piazza Armerina,1800.0,Culture,37.382999,14.367,4
+Pisa,1200.0,Culture,43.716999,10.383,5
+Pisa,1300.0,Culture,43.716999,10.383,10
+Pisa,1400.0,Culture,43.716999,10.383,3
+Pisa,1500.0,Culture,43.716999,10.383,7
+Pisa,1600.0,Culture,43.716999,10.383,6
+Pisa,1700.0,Culture,43.716999,10.383,8
+Pisa,1800.0,Culture,43.716999,10.383,55
+Pistoia,1200.0,Culture,43.917,10.9,2
+Pistoia,1300.0,Culture,43.917,10.9,2
+Pistoia,1400.0,Culture,43.917,10.9,10
+Pistoia,1500.0,Culture,43.917,10.9,12
+Pistoia,1600.0,Culture,43.917,10.9,20
+Pistoia,1700.0,Culture,43.917,10.9,23
+Pistoia,1800.0,Culture,43.917,10.9,46
+Plasencia,1400.0,Culture,40.033001,-6.0830002,2
+Plasencia,1500.0,Culture,40.033001,-6.0830002,3
+Plasencia,1700.0,Culture,40.033001,-6.0830002,1
+Plasencia,1800.0,Culture,40.033001,-6.0830002,4
+"Plovdiv (Philippolis, Filibe)",1800.0,Culture,42.150002,24.75,10
+Plymouth,1500.0,Culture,50.388,-4.1459999,1
+Plymouth,1700.0,Culture,50.388,-4.1459999,18
+Plymouth,1800.0,Culture,50.388,-4.1459999,51
+Plzen (Pilsen),1300.0,Culture,49.75,13.367,1
+Plzen (Pilsen),1400.0,Culture,49.75,13.367,3
+Plzen (Pilsen),1500.0,Culture,49.75,13.367,3
+Plzen (Pilsen),1600.0,Culture,49.75,13.367,7
+Plzen (Pilsen),1700.0,Culture,49.75,13.367,20
+Plzen (Pilsen),1800.0,Culture,49.75,13.367,104
+Poitiers,1400.0,Culture,46.583,0.333,2
+Poitiers,1500.0,Culture,46.583,0.333,3
+Poitiers,1600.0,Culture,46.583,0.333,3
+Poitiers,1700.0,Culture,46.583,0.333,6
+Poitiers,1800.0,Culture,46.583,0.333,52
+Polizzi Generosa,1500.0,Culture,37.817001,14.0,5
+Polizzi Generosa,1700.0,Culture,37.817001,14.0,1
+Polizzi Generosa,1800.0,Culture,37.817001,14.0,8
+Porto (Oporto),1200.0,Culture,41.150002,-8.6169996,1
+Porto (Oporto),1400.0,Culture,41.150002,-8.6169996,2
+Porto (Oporto),1500.0,Culture,41.150002,-8.6169996,8
+Porto (Oporto),1600.0,Culture,41.150002,-8.6169996,3
+Porto (Oporto),1700.0,Culture,41.150002,-8.6169996,8
+Porto (Oporto),1800.0,Culture,41.150002,-8.6169996,116
+Portsmouth,1400.0,Culture,50.808998,-1.0700001,1
+Portsmouth,1500.0,Culture,50.808998,-1.0700001,3
+Portsmouth,1600.0,Culture,50.808998,-1.0700001,2
+Portsmouth,1700.0,Culture,50.808998,-1.0700001,16
+Portsmouth,1800.0,Culture,50.808998,-1.0700001,72
+Poznan (Posen),1400.0,Culture,52.417,16.966999,2
+Poznan (Posen),1500.0,Culture,52.417,16.966999,3
+Poznan (Posen),1600.0,Culture,52.417,16.966999,2
+Poznan (Posen),1700.0,Culture,52.417,16.966999,11
+Poznan (Posen),1800.0,Culture,52.417,16.966999,105
+Ppotsdam,1500.0,Culture,52.400002,13.067,2
+Ppotsdam,1600.0,Culture,52.400002,13.067,3
+Ppotsdam,1700.0,Culture,52.400002,13.067,40
+Ppotsdam,1800.0,Culture,52.400002,13.067,108
+"Praha (Prag, Prague)",1200.0,Culture,50.083,14.467,1
+"Praha (Prag, Prague)",1300.0,Culture,50.083,14.467,4
+"Praha (Prag, Prague)",1400.0,Culture,50.083,14.467,3
+"Praha (Prag, Prague)",1500.0,Culture,50.083,14.467,6
+"Praha (Prag, Prague)",1600.0,Culture,50.083,14.467,26
+"Praha (Prag, Prague)",1700.0,Culture,50.083,14.467,93
+"Praha (Prag, Prague)",1800.0,Culture,50.083,14.467,539
+Prato,1200.0,Culture,43.882999,11.1,1
+Prato,1300.0,Culture,43.882999,11.1,1
+Prato,1400.0,Culture,43.882999,11.1,7
+Prato,1500.0,Culture,43.882999,11.1,2
+Prato,1600.0,Culture,43.882999,11.1,7
+Prato,1700.0,Culture,43.882999,11.1,6
+Prato,1800.0,Culture,43.882999,11.1,37
+Prenzlau,1600.0,Culture,53.317001,13.867,2
+Prenzlau,1700.0,Culture,53.317001,13.867,15
+Prenzlau,1800.0,Culture,53.317001,13.867,64
+Preslav (Viliki Preslav),1800.0,Culture,43.167,26.816999,2
+Preston,1500.0,Culture,53.759998,-2.7049999,2
+Preston,1600.0,Culture,53.759998,-2.7049999,2
+Preston,1700.0,Culture,53.759998,-2.7049999,12
+Preston,1800.0,Culture,53.759998,-2.7049999,35
+Priego-de-Cordoba,1700.0,Culture,37.432999,-4.1830001,2
+Priego-de-Cordoba,1800.0,Culture,37.432999,-4.1830001,3
+Prizrend (Prizren),1500.0,Culture,42.215,20.74,1
+Prizrend (Prizren),1600.0,Culture,42.215,20.74,1
+Prizrend (Prizren),1700.0,Culture,42.215,20.74,2
+Prizrend (Prizren),1800.0,Culture,42.215,20.74,2
+Procida,1300.0,Culture,40.766998,14.033,1
+Procida,1600.0,Culture,40.766998,14.033,1
+Procida,1700.0,Culture,40.766998,14.033,2
+Procida,1800.0,Culture,40.766998,14.033,5
+Provins,1400.0,Culture,48.549999,3.3,1
+Provins,1500.0,Culture,48.549999,3.3,6
+Provins,1600.0,Culture,48.549999,3.3,6
+Provins,1700.0,Culture,48.549999,3.3,13
+Provins,1800.0,Culture,48.549999,3.3,71
+Puerto-de-Santa-Maria,1700.0,Culture,36.599998,-6.2329998,2
+Puerto-de-Santa-Maria,1800.0,Culture,36.599998,-6.2329998,8
+Putignano,1500.0,Culture,40.849998,17.117001,1
+Putignano,1600.0,Culture,40.849998,17.117001,2
+Putignano,1700.0,Culture,40.849998,17.117001,3
+Putignano,1800.0,Culture,40.849998,17.117001,8
+"Qalyub (Qaliub, Kalyub)",1800.0,Culture,30.200001,31.200001,1
+Quedlinburg,1300.0,Culture,51.783001,11.15,1
+Quedlinburg,1500.0,Culture,51.783001,11.15,3
+Quedlinburg,1600.0,Culture,51.783001,11.15,11
+Quedlinburg,1700.0,Culture,51.783001,11.15,46
+Quedlinburg,1800.0,Culture,51.783001,11.15,87
+"Rabat (Ribat al Fath, Sale)",1800.0,Culture,34.0,-6.4499998,3
+Ragusa (Raghusa),1800.0,Culture,36.917,14.733,4
+Ravenna,1200.0,Culture,44.417999,12.201,2
+Ravenna,1400.0,Culture,44.417999,12.201,3
+Ravenna,1500.0,Culture,44.417999,12.201,8
+Ravenna,1600.0,Culture,44.417999,12.201,2
+Ravenna,1700.0,Culture,44.417999,12.201,6
+Ravenna,1800.0,Culture,44.417999,12.201,28
+Reading,1500.0,Culture,51.455002,-0.97100002,4
+Reading,1600.0,Culture,51.455002,-0.97100002,5
+Reading,1700.0,Culture,51.455002,-0.97100002,32
+Reading,1800.0,Culture,51.455002,-0.97100002,86
+Regensburg,1300.0,Culture,49.016998,12.1,1
+Regensburg,1400.0,Culture,49.016998,12.1,8
+Regensburg,1500.0,Culture,49.016998,12.1,10
+Regensburg,1600.0,Culture,49.016998,12.1,10
+Regensburg,1700.0,Culture,49.016998,12.1,39
+Regensburg,1800.0,Culture,49.016998,12.1,89
+Reggio nell Emilia,1400.0,Culture,44.716999,10.6,6
+Reggio nell Emilia,1500.0,Culture,44.716999,10.6,14
+Reggio nell Emilia,1600.0,Culture,44.716999,10.6,12
+Reggio nell Emilia,1700.0,Culture,44.716999,10.6,10
+Reggio nell Emilia,1800.0,Culture,44.716999,10.6,40
+Reims,1200.0,Culture,49.25,4.033,1
+Reims,1300.0,Culture,49.25,4.033,3
+Reims,1400.0,Culture,49.25,4.033,1
+Reims,1500.0,Culture,49.25,4.033,2
+Reims,1600.0,Culture,49.25,4.033,12
+Reims,1700.0,Culture,49.25,4.033,25
+Reims,1800.0,Culture,49.25,4.033,96
+Renfrew,1700.0,Culture,55.868,-4.4050002,2
+Renfrew,1800.0,Culture,55.868,-4.4050002,10
+Rennes,1500.0,Culture,48.083,-1.683,2
+Rennes,1600.0,Culture,48.083,-1.683,6
+Rennes,1700.0,Culture,48.083,-1.683,12
+Rennes,1800.0,Culture,48.083,-1.683,79
+Requena,1400.0,Culture,39.483002,-1.1,1
+Requena,1600.0,Culture,39.483002,-1.1,1
+Requena,1800.0,Culture,39.483002,-1.1,5
+Reus,1300.0,Culture,41.150002,1.117,1
+Reus,1400.0,Culture,41.150002,1.117,2
+Reus,1500.0,Culture,41.150002,1.117,1
+Reus,1600.0,Culture,41.150002,1.117,6
+Reus,1700.0,Culture,41.150002,1.117,4
+Reus,1800.0,Culture,41.150002,1.117,85
+Rimini,1200.0,Culture,44.063,12.581,3
+Rimini,1400.0,Culture,44.063,12.581,8
+Rimini,1500.0,Culture,44.063,12.581,7
+Rimini,1600.0,Culture,44.063,12.581,10
+Rimini,1700.0,Culture,44.063,12.581,13
+Rimini,1800.0,Culture,44.063,12.581,25
+Riom,1500.0,Culture,45.900002,3.1170001,2
+Riom,1600.0,Culture,45.900002,3.1170001,5
+Riom,1700.0,Culture,45.900002,3.1170001,6
+Riom,1800.0,Culture,45.900002,3.1170001,24
+Rochdale,1800.0,Culture,53.618,-2.1589999,14
+Rochefort,1500.0,Culture,45.939999,-0.95999998,1
+Rochefort,1700.0,Culture,45.939999,-0.95999998,1
+Rochefort,1800.0,Culture,45.939999,-0.95999998,24
+Roma,1200.0,Culture,41.900002,12.483,2
+Roma,1300.0,Culture,41.900002,12.483,2
+Roma,1400.0,Culture,41.900002,12.483,6
+Roma,1500.0,Culture,41.900002,12.483,59
+Roma,1600.0,Culture,41.900002,12.483,168
+Roma,1700.0,Culture,41.900002,12.483,170
+Roma,1800.0,Culture,41.900002,12.483,512
+Ronda (Runda),1500.0,Culture,36.733002,-5.1669998,2
+Ronda (Runda),1700.0,Culture,36.733002,-5.1669998,2
+Ronda (Runda),1800.0,Culture,36.733002,-5.1669998,10
+Rostock,1500.0,Culture,54.083,12.133,3
+Rostock,1600.0,Culture,54.083,12.133,11
+Rostock,1700.0,Culture,54.083,12.133,20
+Rostock,1800.0,Culture,54.083,12.133,132
+Rotterdam,1500.0,Culture,51.917,4.5,6
+Rotterdam,1600.0,Culture,51.917,4.5,45
+Rotterdam,1700.0,Culture,51.917,4.5,13
+Rotterdam,1800.0,Culture,51.917,4.5,104
+Rouen,1300.0,Culture,49.432999,1.0829999,1
+Rouen,1400.0,Culture,49.432999,1.0829999,2
+Rouen,1500.0,Culture,49.432999,1.0829999,18
+Rouen,1600.0,Culture,49.432999,1.0829999,39
+Rouen,1700.0,Culture,49.432999,1.0829999,87
+Rouen,1800.0,Culture,49.432999,1.0829999,216
+Rovinj (Rovigno),1400.0,Culture,45.084,13.636,2
+Rovinj (Rovigno),1500.0,Culture,45.084,13.636,1
+Rovinj (Rovigno),1600.0,Culture,45.084,13.636,1
+Rovinj (Rovigno),1700.0,Culture,45.084,13.636,2
+Rovinj (Rovigno),1800.0,Culture,45.084,13.636,23
+"Ruse (Sexaginta Prista, Rousse)",1800.0,Culture,43.833,25.950001,10
+"Salamanca (Shalamaka, Shalamantika)",1400.0,Culture,40.966999,-5.6500001,3
+"Salamanca (Shalamaka, Shalamantika)",1500.0,Culture,40.966999,-5.6500001,6
+"Salamanca (Shalamaka, Shalamantika)",1600.0,Culture,40.966999,-5.6500001,1
+"Salamanca (Shalamaka, Shalamantika)",1700.0,Culture,40.966999,-5.6500001,8
+"Salamanca (Shalamaka, Shalamantika)",1800.0,Culture,40.966999,-5.6500001,20
+Salemi,1800.0,Culture,37.817001,12.8,1
+Salerno,1400.0,Culture,40.682999,14.783,2
+Salerno,1500.0,Culture,40.682999,14.783,1
+Salerno,1600.0,Culture,40.682999,14.783,4
+Salerno,1700.0,Culture,40.682999,14.783,4
+Salerno,1800.0,Culture,40.682999,14.783,23
+Salford,1700.0,Culture,53.483002,-2.2939999,2
+Salford,1800.0,Culture,53.483002,-2.2939999,32
+"Saloniki (Thesaloniki, Selanik)",1500.0,Culture,40.632999,22.933001,2
+"Saloniki (Thesaloniki, Selanik)",1600.0,Culture,40.632999,22.933001,1
+"Saloniki (Thesaloniki, Selanik)",1700.0,Culture,40.632999,22.933001,1
+"Saloniki (Thesaloniki, Selanik)",1800.0,Culture,40.632999,22.933001,15
+Saluzzo,1400.0,Culture,44.650002,7.4829998,1
+Saluzzo,1500.0,Culture,44.650002,7.4829998,2
+Saluzzo,1600.0,Culture,44.650002,7.4829998,1
+Saluzzo,1700.0,Culture,44.650002,7.4829998,7
+Saluzzo,1800.0,Culture,44.650002,7.4829998,14
+Salzburg,1300.0,Culture,47.799999,13.033,1
+Salzburg,1400.0,Culture,47.799999,13.033,2
+Salzburg,1500.0,Culture,47.799999,13.033,3
+Salzburg,1600.0,Culture,47.799999,13.033,21
+Salzburg,1700.0,Culture,47.799999,13.033,33
+Salzburg,1800.0,Culture,47.799999,13.033,117
+San-Fernando,1500.0,Culture,36.466999,-6.1999998,1
+San-Fernando,1600.0,Culture,36.466999,-6.1999998,1
+San-Fernando,1800.0,Culture,36.466999,-6.1999998,11
+San-Filippo di Mela,1500.0,Culture,38.18,15.283,1
+San-Filippo di Mela,1700.0,Culture,38.18,15.283,1
+San-Filippo di Mela,1800.0,Culture,38.18,15.283,2
+San-Lucar-de-Barrameda,1500.0,Culture,36.783001,-6.3499999,1
+San-Lucar-de-Barrameda,1700.0,Culture,36.783001,-6.3499999,2
+San-Lucar-de-Barrameda,1800.0,Culture,36.783001,-6.3499999,4
+San-Sebastian,1400.0,Culture,43.317001,-1.983,3
+San-Sebastian,1500.0,Culture,43.317001,-1.983,4
+San-Sebastian,1600.0,Culture,43.317001,-1.983,4
+San-Sebastian,1700.0,Culture,43.317001,-1.983,12
+San-Sebastian,1800.0,Culture,43.317001,-1.983,71
+San-Severo,1400.0,Culture,41.682999,15.383,1
+San-Severo,1500.0,Culture,41.682999,15.383,2
+San-Severo,1600.0,Culture,41.682999,15.383,1
+San-Severo,1700.0,Culture,41.682999,15.383,1
+San-Severo,1800.0,Culture,41.682999,15.383,9
+Sanaa (Sana'a),1200.0,Culture,15.35,44.200001,1
+Sanaa (Sana'a),1800.0,Culture,15.35,44.200001,1
+Santander,1400.0,Culture,43.465,-3.8039999,5
+Santander,1500.0,Culture,43.465,-3.8039999,4
+Santander,1600.0,Culture,43.465,-3.8039999,1
+Santander,1700.0,Culture,43.465,-3.8039999,5
+Santander,1800.0,Culture,43.465,-3.8039999,51
+Santarem (Shantarim),1400.0,Culture,39.233002,-8.6829996,1
+Santarem (Shantarim),1500.0,Culture,39.233002,-8.6829996,4
+Santarem (Shantarim),1600.0,Culture,39.233002,-8.6829996,1
+Santarem (Shantarim),1700.0,Culture,39.233002,-8.6829996,3
+Santarem (Shantarim),1800.0,Culture,39.233002,-8.6829996,23
+Santiago (Shant Yacub),1200.0,Culture,42.882999,-8.5500002,1
+Santiago (Shant Yacub),1300.0,Culture,42.882999,-8.5500002,1
+Santiago (Shant Yacub),1500.0,Culture,42.882999,-8.5500002,1
+Santiago (Shant Yacub),1600.0,Culture,42.882999,-8.5500002,1
+Santiago (Shant Yacub),1700.0,Culture,42.882999,-8.5500002,9
+Santiago (Shant Yacub),1800.0,Culture,42.882999,-8.5500002,59
+Sarajevo (Aquae Sulphurae),1400.0,Culture,43.849998,18.382999,1
+Sarajevo (Aquae Sulphurae),1500.0,Culture,43.849998,18.382999,2
+Sarajevo (Aquae Sulphurae),1700.0,Culture,43.849998,18.382999,3
+Sarajevo (Aquae Sulphurae),1800.0,Culture,43.849998,18.382999,12
+Sarno,1400.0,Culture,40.817001,14.617,1
+Sarno,1500.0,Culture,40.817001,14.617,4
+Sarno,1600.0,Culture,40.817001,14.617,1
+Sarno,1700.0,Culture,40.817001,14.617,2
+Sarno,1800.0,Culture,40.817001,14.617,10
+Sassari,1500.0,Culture,40.727001,8.5600004,2
+Sassari,1700.0,Culture,40.727001,8.5600004,5
+Sassari,1800.0,Culture,40.727001,8.5600004,44
+Satu Mare,1700.0,Culture,47.799999,22.882999,1
+Satu Mare,1800.0,Culture,47.799999,22.882999,23
+Saumur,1400.0,Culture,47.266998,-0.082999997,2
+Saumur,1500.0,Culture,47.266998,-0.082999997,5
+Saumur,1600.0,Culture,47.266998,-0.082999997,9
+Saumur,1700.0,Culture,47.266998,-0.082999997,2
+Saumur,1800.0,Culture,47.266998,-0.082999997,33
+Savigliano,1400.0,Culture,44.632999,7.6669998,1
+Savigliano,1500.0,Culture,44.632999,7.6669998,1
+Savigliano,1700.0,Culture,44.632999,7.6669998,5
+Savigliano,1800.0,Culture,44.632999,7.6669998,7
+Savona,1500.0,Culture,44.283001,8.5,2
+Savona,1600.0,Culture,44.283001,8.5,6
+Savona,1700.0,Culture,44.283001,8.5,7
+Savona,1800.0,Culture,44.283001,8.5,28
+Schwaz,1600.0,Culture,47.330002,11.73,4
+Schwaz,1700.0,Culture,47.330002,11.73,12
+Schwaz,1800.0,Culture,47.330002,11.73,46
+Schwerin,1500.0,Culture,53.632999,11.383,1
+Schwerin,1600.0,Culture,53.632999,11.383,1
+Schwerin,1700.0,Culture,53.632999,11.383,24
+Schwerin,1800.0,Culture,53.632999,11.383,128
+Sciacca,1400.0,Culture,37.5,13.1,1
+Sciacca,1500.0,Culture,37.5,13.1,1
+Sciacca,1600.0,Culture,37.5,13.1,3
+Sciacca,1700.0,Culture,37.5,13.1,6
+Sciacca,1800.0,Culture,37.5,13.1,4
+Scicli,1800.0,Culture,36.783001,14.7,1
+Sedan,1500.0,Culture,49.700001,4.9499998,5
+Sedan,1600.0,Culture,49.700001,4.9499998,4
+Sedan,1700.0,Culture,49.700001,4.9499998,22
+Sedan,1800.0,Culture,49.700001,4.9499998,85
+Sedgley,1700.0,Culture,52.548,-2.125,1
+Sedgley,1800.0,Culture,52.548,-2.125,2
+Segovia (Shakubiya),1400.0,Culture,40.950001,-4.1170001,2
+Segovia (Shakubiya),1500.0,Culture,40.950001,-4.1170001,10
+Segovia (Shakubiya),1600.0,Culture,40.950001,-4.1170001,2
+Segovia (Shakubiya),1700.0,Culture,40.950001,-4.1170001,4
+Segovia (Shakubiya),1800.0,Culture,40.950001,-4.1170001,24
+"Serrai (Ceres, Seres, Serres, Siris, Siroz, Serrhes)",1800.0,Culture,41.049999,23.549999,2
+Sete,1600.0,Culture,43.400002,3.6830001,1
+Sete,1700.0,Culture,43.400002,3.6830001,4
+Sete,1800.0,Culture,43.400002,3.6830001,17
+Setubal,1500.0,Culture,38.529999,-8.8999996,3
+Setubal,1700.0,Culture,38.529999,-8.8999996,2
+Setubal,1800.0,Culture,38.529999,-8.8999996,12
+"Sevilla(Seville, Ishbiliya)",1200.0,Culture,37.376999,-5.987,2
+"Sevilla(Seville, Ishbiliya)",1400.0,Culture,37.376999,-5.987,3
+"Sevilla(Seville, Ishbiliya)",1500.0,Culture,37.376999,-5.987,42
+"Sevilla(Seville, Ishbiliya)",1600.0,Culture,37.376999,-5.987,38
+"Sevilla(Seville, Ishbiliya)",1700.0,Culture,37.376999,-5.987,23
+"Sevilla(Seville, Ishbiliya)",1800.0,Culture,37.376999,-5.987,171
+Sheffield,1500.0,Culture,53.382999,-1.466,2
+Sheffield,1600.0,Culture,53.382999,-1.466,2
+Sheffield,1700.0,Culture,53.382999,-1.466,14
+Sheffield,1800.0,Culture,53.382999,-1.466,55
+"Shkoder (Scodra, Ishkodra)",1400.0,Culture,42.068001,19.513,2
+"Shkoder (Scodra, Ishkodra)",1800.0,Culture,42.068001,19.513,14
+Shrewsbury,1500.0,Culture,52.707001,-2.7479999,5
+Shrewsbury,1600.0,Culture,52.707001,-2.7479999,7
+Shrewsbury,1700.0,Culture,52.707001,-2.7479999,27
+Shrewsbury,1800.0,Culture,52.707001,-2.7479999,37
+"Shumen (Shumnu, Sumen, Kolanovgrad)",1800.0,Culture,43.266998,26.917,6
+Sibiu (Hermannstadt),1500.0,Culture,45.799999,24.15,1
+Sibiu (Hermannstadt),1600.0,Culture,45.799999,24.15,2
+Sibiu (Hermannstadt),1700.0,Culture,45.799999,24.15,7
+Sibiu (Hermannstadt),1800.0,Culture,45.799999,24.15,36
+"Sidon (Saida, Sayda)",1300.0,Culture,33.563,35.368999,1
+"Sidon (Saida, Sayda)",1800.0,Culture,33.563,35.368999,1
+Siena,1200.0,Culture,43.317001,11.35,21
+Siena,1300.0,Culture,43.317001,11.35,32
+Siena,1400.0,Culture,43.317001,11.35,39
+Siena,1500.0,Culture,43.317001,11.35,58
+Siena,1600.0,Culture,43.317001,11.35,33
+Siena,1700.0,Culture,43.317001,11.35,18
+Siena,1800.0,Culture,43.317001,11.35,50
+Silistra (Durostorum),1700.0,Culture,44.117001,27.267,1
+Silistra (Durostorum),1800.0,Culture,44.117001,27.267,4
+"Sinope (Sinop, Sinub)",1800.0,Culture,42.016998,35.150002,1
+Siracusa (Sirkusa),1500.0,Culture,37.067001,15.3,1
+Siracusa (Sirkusa),1600.0,Culture,37.067001,15.3,3
+Siracusa (Sirkusa),1700.0,Culture,37.067001,15.3,2
+Siracusa (Sirkusa),1800.0,Culture,37.067001,15.3,9
+"Siwas (Sivas, Sebaste, Sabastea)",1400.0,Culture,39.73,37.02,1
+"Siwas (Sivas, Sebaste, Sabastea)",1800.0,Culture,39.73,37.02,4
+"Skopje (Saipi, Uskub)",1800.0,Culture,42.000999,21.434,7
+Sliven,1700.0,Culture,42.667,26.316999,1
+Sliven,1800.0,Culture,42.667,26.316999,10
+Smyrna (Izmir),1700.0,Culture,38.417,27.15,3
+Smyrna (Izmir),1800.0,Culture,38.417,27.15,25
+Soest,1400.0,Culture,51.583,8.1169996,3
+Soest,1500.0,Culture,51.583,8.1169996,11
+Soest,1600.0,Culture,51.583,8.1169996,7
+Soest,1700.0,Culture,51.583,8.1169996,19
+Soest,1800.0,Culture,51.583,8.1169996,156
+"Sofia (Serdica, Sofya, Triaditsa)",1700.0,Culture,42.682999,23.316999,2
+"Sofia (Serdica, Sofya, Triaditsa)",1800.0,Culture,42.682999,23.316999,15
+Sombor,1700.0,Culture,45.773998,19.112,5
+Sombor,1800.0,Culture,45.773998,19.112,47
+Sopron (Oedenburg),1600.0,Culture,47.682999,16.6,12
+Sopron (Oedenburg),1700.0,Culture,47.682999,16.6,18
+Sopron (Oedenburg),1800.0,Culture,47.682999,16.6,64
+"Sousse (Susa, Hadremetum)",1800.0,Culture,35.826,10.641,2
+South-Shields,1700.0,Culture,54.992001,-1.429,2
+South-Shields,1800.0,Culture,54.992001,-1.429,9
+Speyer,1400.0,Culture,49.320999,8.4320002,1
+Speyer,1500.0,Culture,49.320999,8.4320002,6
+Speyer,1600.0,Culture,49.320999,8.4320002,7
+Speyer,1700.0,Culture,49.320999,8.4320002,43
+Speyer,1800.0,Culture,49.320999,8.4320002,255
+Spoleto,1200.0,Culture,42.733002,12.733,4
+Spoleto,1300.0,Culture,42.733002,12.733,4
+Spoleto,1400.0,Culture,42.733002,12.733,14
+Spoleto,1500.0,Culture,42.733002,12.733,15
+Spoleto,1600.0,Culture,42.733002,12.733,28
+Spoleto,1700.0,Culture,42.733002,12.733,14
+Spoleto,1800.0,Culture,42.733002,12.733,78
+St Omer,1400.0,Culture,50.75,2.25,1
+St Omer,1500.0,Culture,50.75,2.25,7
+St Omer,1600.0,Culture,50.75,2.25,4
+St Omer,1700.0,Culture,50.75,2.25,8
+St Omer,1800.0,Culture,50.75,2.25,30
+St-Andrews,1700.0,Culture,56.338001,-2.7850001,12
+St-Andrews,1800.0,Culture,56.338001,-2.7850001,28
+St-Etienne,1500.0,Culture,45.43,4.3899999,3
+St-Etienne,1600.0,Culture,45.43,4.3899999,1
+St-Etienne,1700.0,Culture,45.43,4.3899999,7
+St-Etienne,1800.0,Culture,45.43,4.3899999,69
+St-Germain,1500.0,Culture,48.900002,2.0829999,4
+St-Germain,1600.0,Culture,48.900002,2.0829999,10
+St-Germain,1700.0,Culture,48.900002,2.0829999,22
+St-Germain,1800.0,Culture,48.900002,2.0829999,77
+St-Jean-d'Angely,1400.0,Culture,45.950001,-0.51700002,2
+St-Jean-d'Angely,1500.0,Culture,45.950001,-0.51700002,2
+St-Jean-d'Angely,1600.0,Culture,45.950001,-0.51700002,1
+St-Jean-d'Angely,1700.0,Culture,45.950001,-0.51700002,7
+St-Jean-d'Angely,1800.0,Culture,45.950001,-0.51700002,23
+St-Malo,1600.0,Culture,48.639999,-2.0799999,3
+St-Malo,1700.0,Culture,48.639999,-2.0799999,8
+St-Malo,1800.0,Culture,48.639999,-2.0799999,39
+St-Niklaas,1400.0,Culture,51.167,4.1329999,1
+St-Niklaas,1500.0,Culture,51.167,4.1329999,7
+St-Niklaas,1700.0,Culture,51.167,4.1329999,2
+St-Niklaas,1800.0,Culture,51.167,4.1329999,11
+St-Quentin,1300.0,Culture,49.849998,3.29,1
+St-Quentin,1400.0,Culture,49.849998,3.29,1
+St-Quentin,1500.0,Culture,49.849998,3.29,5
+St-Quentin,1600.0,Culture,49.849998,3.29,6
+St-Quentin,1700.0,Culture,49.849998,3.29,17
+St-Quentin,1800.0,Culture,49.849998,3.29,50
+"Stara Zagora (Augusta Trojana, Buroy)",1800.0,Culture,42.417,25.632999,16
+Steenvoorde,1400.0,Culture,50.799999,2.5829999,3
+Steenvoorde,1500.0,Culture,50.799999,2.5829999,3
+Steenvoorde,1600.0,Culture,50.799999,2.5829999,3
+Steenvoorde,1700.0,Culture,50.799999,2.5829999,6
+Steenvoorde,1800.0,Culture,50.799999,2.5829999,16
+Stockholm,1500.0,Culture,59.333,18.049999,2
+Stockholm,1600.0,Culture,59.333,18.049999,76
+Stockholm,1700.0,Culture,59.333,18.049999,256
+Stockholm,1800.0,Culture,59.333,18.049999,1658
+Stockport,1700.0,Culture,53.410999,-2.158,1
+Stockport,1800.0,Culture,53.410999,-2.158,6
+Stoke-on-Trent,1500.0,Culture,53.023998,-2.1860001,3
+Stoke-on-Trent,1600.0,Culture,53.023998,-2.1860001,1
+Stoke-on-Trent,1700.0,Culture,53.023998,-2.1860001,5
+Stoke-on-Trent,1800.0,Culture,53.023998,-2.1860001,28
+Stralsund,1500.0,Culture,54.299999,13.1,2
+Stralsund,1600.0,Culture,54.299999,13.1,7
+Stralsund,1700.0,Culture,54.299999,13.1,44
+Stralsund,1800.0,Culture,54.299999,13.1,104
+Strasbourg (Strassburg),1200.0,Culture,48.583,7.75,1
+Strasbourg (Strassburg),1300.0,Culture,48.583,7.75,2
+Strasbourg (Strassburg),1400.0,Culture,48.583,7.75,18
+Strasbourg (Strassburg),1500.0,Culture,48.583,7.75,20
+Strasbourg (Strassburg),1600.0,Culture,48.583,7.75,23
+Strasbourg (Strassburg),1700.0,Culture,48.583,7.75,81
+Strasbourg (Strassburg),1800.0,Culture,48.583,7.75,328
+Stuttgart,1200.0,Culture,48.766998,9.1829996,1
+Stuttgart,1300.0,Culture,48.766998,9.1829996,1
+Stuttgart,1400.0,Culture,48.766998,9.1829996,12
+Stuttgart,1500.0,Culture,48.766998,9.1829996,28
+Stuttgart,1600.0,Culture,48.766998,9.1829996,17
+Stuttgart,1700.0,Culture,48.766998,9.1829996,156
+Stuttgart,1800.0,Culture,48.766998,9.1829996,589
+Subotica (Szbadka),1800.0,Culture,46.099998,19.667,13
+Suceava (Zambora),1800.0,Culture,47.632999,26.25,41
+Sunderland,1600.0,Culture,54.910999,-1.3839999,1
+Sunderland,1700.0,Culture,54.910999,-1.3839999,8
+Sunderland,1800.0,Culture,54.910999,-1.3839999,41
+Szczecin (Stettin),1500.0,Culture,53.417,14.583,4
+Szczecin (Stettin),1600.0,Culture,53.417,14.583,8
+Szczecin (Stettin),1700.0,Culture,53.417,14.583,37
+Szczecin (Stettin),1800.0,Culture,53.417,14.583,180
+Szeged (Szegedin),1700.0,Culture,46.25,20.167,2
+Szeged (Szegedin),1800.0,Culture,46.25,20.167,23
+Szekesfehervar (Stuhlweissenburg),1700.0,Culture,47.200001,18.417,6
+Szekesfehervar (Stuhlweissenburg),1800.0,Culture,47.200001,18.417,27
+Talavera,1200.0,Culture,39.950001,-4.8330002,1
+Talavera,1400.0,Culture,39.950001,-4.8330002,2
+Talavera,1500.0,Culture,39.950001,-4.8330002,2
+Talavera,1600.0,Culture,39.950001,-4.8330002,1
+Talavera,1800.0,Culture,39.950001,-4.8330002,8
+Tanta (Taya),1800.0,Culture,30.780001,31.0,1
+Taranto,1300.0,Culture,40.476002,17.23,1
+Taranto,1500.0,Culture,40.476002,17.23,1
+Taranto,1600.0,Culture,40.476002,17.23,3
+Taranto,1700.0,Culture,40.476002,17.23,1
+Taranto,1800.0,Culture,40.476002,17.23,17
+Tarascon,1500.0,Culture,43.799999,4.6669998,1
+Tarascon,1600.0,Culture,43.799999,4.6669998,3
+Tarascon,1700.0,Culture,43.799999,4.6669998,4
+Tarascon,1800.0,Culture,43.799999,4.6669998,9
+Tarbes,1400.0,Culture,43.233002,0.082999997,1
+Tarbes,1500.0,Culture,43.233002,0.082999997,2
+Tarbes,1600.0,Culture,43.233002,0.082999997,2
+Tarbes,1700.0,Culture,43.233002,0.082999997,6
+Tarbes,1800.0,Culture,43.233002,0.082999997,62
+Tarifa,1800.0,Culture,36.013,-5.6059999,6
+Tatar Pazardzhik (Tatar Pazarcik),1300.0,Culture,42.200001,24.333,1
+Tatar Pazardzhik (Tatar Pazarcik),1800.0,Culture,42.200001,24.333,6
+"Tenes (Tanes, Cartennae)",1800.0,Culture,36.511002,1.309,1
+Terlizzi,1500.0,Culture,41.132999,16.549999,1
+Terlizzi,1700.0,Culture,41.132999,16.549999,2
+Terlizzi,1800.0,Culture,41.132999,16.549999,4
+Termini Imerese,1500.0,Culture,37.983002,13.7,1
+Termini Imerese,1600.0,Culture,37.983002,13.7,2
+Termini Imerese,1800.0,Culture,37.983002,13.7,4
+"Timisoara (Temeschburg, Temesvas)",1600.0,Culture,45.758999,21.229,1
+"Timisoara (Temeschburg, Temesvas)",1700.0,Culture,45.758999,21.229,2
+"Timisoara (Temeschburg, Temesvas)",1800.0,Culture,45.758999,21.229,42
+Tineo,1600.0,Culture,43.333,-6.4169998,4
+Tineo,1700.0,Culture,43.333,-6.4169998,6
+Tineo,1800.0,Culture,43.333,-6.4169998,58
+Tirgoviste (Targoviste),1600.0,Culture,44.932999,25.450001,1
+Tirgoviste (Targoviste),1800.0,Culture,44.932999,25.450001,20
+"Tlemcen (Tilimsan, Tagrart, Tlensem)",1600.0,Culture,34.877998,-1.3150001,1
+"Tlemcen (Tilimsan, Tagrart, Tlensem)",1800.0,Culture,34.877998,-1.3150001,10
+"Tokat (Hieroceasarea, Osman ad Pontika)",1800.0,Culture,40.330002,36.580002,1
+Toledo,1200.0,Culture,39.867001,-4.0170002,2
+Toledo,1300.0,Culture,39.867001,-4.0170002,1
+Toledo,1400.0,Culture,39.867001,-4.0170002,9
+Toledo,1500.0,Culture,39.867001,-4.0170002,29
+Toledo,1600.0,Culture,39.867001,-4.0170002,4
+Toledo,1700.0,Culture,39.867001,-4.0170002,6
+Toledo,1800.0,Culture,39.867001,-4.0170002,18
+Torino,1300.0,Culture,45.049999,7.6669998,1
+Torino,1500.0,Culture,45.049999,7.6669998,3
+Torino,1600.0,Culture,45.049999,7.6669998,23
+Torino,1700.0,Culture,45.049999,7.6669998,70
+Torino,1800.0,Culture,45.049999,7.6669998,305
+Torre Annunziata,1500.0,Culture,40.75,14.45,4
+Torre Annunziata,1600.0,Culture,40.75,14.45,1
+Torre Annunziata,1700.0,Culture,40.75,14.45,3
+Torre Annunziata,1800.0,Culture,40.75,14.45,12
+Torre del Greco,1700.0,Culture,40.783001,14.367,5
+Torre del Greco,1800.0,Culture,40.783001,14.367,16
+Tortosa,1500.0,Culture,40.799999,0.51700002,1
+Tortosa,1600.0,Culture,40.799999,0.51700002,2
+Tortosa,1700.0,Culture,40.799999,0.51700002,2
+Tortosa,1800.0,Culture,40.799999,0.51700002,22
+Torun (Thorn),1600.0,Culture,53.033001,18.6,1
+Torun (Thorn),1700.0,Culture,53.033001,18.6,3
+Torun (Thorn),1800.0,Culture,53.033001,18.6,96
+Toulon,1300.0,Culture,43.117001,5.9330001,1
+Toulon,1500.0,Culture,43.117001,5.9330001,2
+Toulon,1600.0,Culture,43.117001,5.9330001,9
+Toulon,1700.0,Culture,43.117001,5.9330001,24
+Toulon,1800.0,Culture,43.117001,5.9330001,79
+Toulouse,1200.0,Culture,43.599998,1.433,3
+Toulouse,1400.0,Culture,43.599998,1.433,1
+Toulouse,1500.0,Culture,43.599998,1.433,7
+Toulouse,1600.0,Culture,43.599998,1.433,17
+Toulouse,1700.0,Culture,43.599998,1.433,45
+Toulouse,1800.0,Culture,43.599998,1.433,153
+Tourcoing,1500.0,Culture,50.716999,3.1500001,1
+Tourcoing,1600.0,Culture,50.716999,3.1500001,1
+Tourcoing,1700.0,Culture,50.716999,3.1500001,3
+Tourcoing,1800.0,Culture,50.716999,3.1500001,43
+Tournai (Doornik),1200.0,Culture,50.599998,3.3829999,1
+Tournai (Doornik),1300.0,Culture,50.599998,3.3829999,1
+Tournai (Doornik),1400.0,Culture,50.599998,3.3829999,6
+Tournai (Doornik),1500.0,Culture,50.599998,3.3829999,8
+Tournai (Doornik),1600.0,Culture,50.599998,3.3829999,5
+Tournai (Doornik),1700.0,Culture,50.599998,3.3829999,8
+Tournai (Doornik),1800.0,Culture,50.599998,3.3829999,33
+Tours,1400.0,Culture,47.382999,0.68300003,4
+Tours,1500.0,Culture,47.382999,0.68300003,8
+Tours,1600.0,Culture,47.382999,0.68300003,11
+Tours,1700.0,Culture,47.382999,0.68300003,19
+Tours,1800.0,Culture,47.382999,0.68300003,68
+Trani,1600.0,Culture,41.283001,16.417,2
+Trani,1800.0,Culture,41.283001,16.417,6
+Trapani,1500.0,Culture,38.016998,12.483,3
+Trapani,1600.0,Culture,38.016998,12.483,6
+Trapani,1700.0,Culture,38.016998,12.483,5
+Trapani,1800.0,Culture,38.016998,12.483,11
+"Trapezunt (Trabzon, Trabazon, Tarabazun)",1800.0,Culture,41.0,39.716999,7
+Treviso,1200.0,Culture,45.667,12.245,1
+Treviso,1300.0,Culture,45.667,12.245,1
+Treviso,1400.0,Culture,45.667,12.245,13
+Treviso,1500.0,Culture,45.667,12.245,16
+Treviso,1600.0,Culture,45.667,12.245,3
+Treviso,1700.0,Culture,45.667,12.245,22
+Treviso,1800.0,Culture,45.667,12.245,61
+Trier,1200.0,Culture,49.75,6.6329999,1
+Trier,1400.0,Culture,49.75,6.6329999,1
+Trier,1500.0,Culture,49.75,6.6329999,1
+Trier,1600.0,Culture,49.75,6.6329999,3
+Trier,1700.0,Culture,49.75,6.6329999,15
+Trier,1800.0,Culture,49.75,6.6329999,116
+Trieste,1400.0,Culture,45.648998,13.78,2
+Trieste,1600.0,Culture,45.648998,13.78,3
+Trieste,1700.0,Culture,45.648998,13.78,8
+Trieste,1800.0,Culture,45.648998,13.78,147
+Tripolis (Tarabalus al Sham),1800.0,Culture,34.432999,35.849998,6
+"Tripolis (Tripolitsa, Tripolitza)",1700.0,Culture,37.52,22.35,1
+"Tripolis (Tripolitsa, Tripolitza)",1800.0,Culture,37.52,22.35,5
+Troyes,1200.0,Culture,48.299999,4.0830002,1
+Troyes,1500.0,Culture,48.299999,4.0830002,13
+Troyes,1600.0,Culture,48.299999,4.0830002,21
+Troyes,1700.0,Culture,48.299999,4.0830002,19
+Troyes,1800.0,Culture,48.299999,4.0830002,44
+Tunis,1800.0,Culture,36.803001,10.18,28
+Turku (Abbo),1600.0,Culture,60.450001,22.283001,1
+Turku (Abbo),1700.0,Culture,60.450001,22.283001,9
+Turku (Abbo),1800.0,Culture,60.450001,22.283001,59
+Tynemouth,1500.0,Culture,55.019001,-1.4450001,1
+Tynemouth,1800.0,Culture,55.019001,-1.4450001,18
+"Tyrus (Tyre, Sur)",1800.0,Culture,33.271,35.195999,1
+Ubeda,1500.0,Culture,38.016998,-3.3670001,4
+Ubeda,1800.0,Culture,38.016998,-3.3670001,8
+Udine,1300.0,Culture,46.062,13.242,1
+Udine,1400.0,Culture,46.062,13.242,12
+Udine,1500.0,Culture,46.062,13.242,15
+Udine,1600.0,Culture,46.062,13.242,15
+Udine,1700.0,Culture,46.062,13.242,9
+Udine,1800.0,Culture,46.062,13.242,71
+Ulm,1300.0,Culture,48.567001,10.05,5
+Ulm,1400.0,Culture,48.567001,10.05,21
+Ulm,1500.0,Culture,48.567001,10.05,23
+Ulm,1600.0,Culture,48.567001,10.05,12
+Ulm,1700.0,Culture,48.567001,10.05,55
+Ulm,1800.0,Culture,48.567001,10.05,160
+"Urfa (Urhay, Osrhoene, Orrhoene, Edessa, Sanli, Al-Ruha, Osdroene)",1600.0,Culture,37.169998,38.790001,1
+Utrecht,1400.0,Culture,52.083,5.1329999,5
+Utrecht,1500.0,Culture,52.083,5.1329999,36
+Utrecht,1600.0,Culture,52.083,5.1329999,87
+Utrecht,1700.0,Culture,52.083,5.1329999,21
+Utrecht,1800.0,Culture,52.083,5.1329999,78
+Utrera,1500.0,Culture,37.186001,-5.7870002,1
+Utrera,1600.0,Culture,37.186001,-5.7870002,2
+Utrera,1700.0,Culture,37.186001,-5.7870002,1
+Utrera,1800.0,Culture,37.186001,-5.7870002,3
+Valencia (Balansiya),1300.0,Culture,39.466999,-0.36700001,3
+Valencia (Balansiya),1400.0,Culture,39.466999,-0.36700001,11
+Valencia (Balansiya),1500.0,Culture,39.466999,-0.36700001,18
+Valencia (Balansiya),1600.0,Culture,39.466999,-0.36700001,19
+Valencia (Balansiya),1700.0,Culture,39.466999,-0.36700001,46
+Valencia (Balansiya),1800.0,Culture,39.466999,-0.36700001,194
+Valenciennes,1300.0,Culture,50.349998,3.533,4
+Valenciennes,1400.0,Culture,50.349998,3.533,1
+Valenciennes,1500.0,Culture,50.349998,3.533,8
+Valenciennes,1600.0,Culture,50.349998,3.533,7
+Valenciennes,1700.0,Culture,50.349998,3.533,23
+Valenciennes,1800.0,Culture,50.349998,3.533,81
+Valladolid,1400.0,Culture,41.650002,-4.717,1
+Valladolid,1500.0,Culture,41.650002,-4.717,12
+Valladolid,1600.0,Culture,41.650002,-4.717,8
+Valladolid,1700.0,Culture,41.650002,-4.717,6
+Valladolid,1800.0,Culture,41.650002,-4.717,47
+Valletta (La Vallette),1400.0,Culture,35.900002,14.52,1
+Valletta (La Vallette),1500.0,Culture,35.900002,14.52,5
+Valletta (La Vallette),1600.0,Culture,35.900002,14.52,9
+Valletta (La Vallette),1700.0,Culture,35.900002,14.52,12
+Valletta (La Vallette),1800.0,Culture,35.900002,14.52,26
+"Van (Thospia, Bouana Ospa, Wan)",1800.0,Culture,38.490002,43.400002,5
+Varna (Odessus),1800.0,Culture,43.216999,27.917,7
+Velez-Malaga (Balish),1800.0,Culture,36.783001,-4.0999999,4
+Velez-Rubio (Balish0,1500.0,Culture,37.650002,-2.0669999,1
+Velez-Rubio (Balish0,1800.0,Culture,37.650002,-2.0669999,4
+Veliko Turnovo (Tarnovo),1300.0,Culture,43.067001,25.65,1
+Veliko Turnovo (Tarnovo),1800.0,Culture,43.067001,25.65,24
+Velletri,1300.0,Culture,41.682999,12.783,2
+Velletri,1400.0,Culture,41.682999,12.783,2
+Velletri,1500.0,Culture,41.682999,12.783,11
+Velletri,1600.0,Culture,41.682999,12.783,8
+Velletri,1700.0,Culture,41.682999,12.783,6
+Velletri,1800.0,Culture,41.682999,12.783,46
+Venezia,1200.0,Culture,45.438999,12.327,1
+Venezia,1300.0,Culture,45.438999,12.327,9
+Venezia,1400.0,Culture,45.438999,12.327,44
+Venezia,1500.0,Culture,45.438999,12.327,78
+Venezia,1600.0,Culture,45.438999,12.327,136
+Venezia,1700.0,Culture,45.438999,12.327,154
+Venezia,1800.0,Culture,45.438999,12.327,156
+Vercelli,1400.0,Culture,45.317001,8.4169998,4
+Vercelli,1500.0,Culture,45.317001,8.4169998,2
+Vercelli,1600.0,Culture,45.317001,8.4169998,2
+Vercelli,1700.0,Culture,45.317001,8.4169998,7
+Vercelli,1800.0,Culture,45.317001,8.4169998,28
+Verona,1200.0,Culture,45.450001,11.0,2
+Verona,1300.0,Culture,45.450001,11.0,6
+Verona,1400.0,Culture,45.450001,11.0,33
+Verona,1500.0,Culture,45.450001,11.0,49
+Verona,1600.0,Culture,45.450001,11.0,39
+Verona,1700.0,Culture,45.450001,11.0,64
+Verona,1800.0,Culture,45.450001,11.0,113
+Versailles,1600.0,Culture,48.799999,2.1329999,8
+Versailles,1700.0,Culture,48.799999,2.1329999,76
+Versailles,1800.0,Culture,48.799999,2.1329999,126
+Verviers,1500.0,Culture,50.583,5.8670001,2
+Verviers,1600.0,Culture,50.583,5.8670001,2
+Verviers,1700.0,Culture,50.583,5.8670001,7
+Verviers,1800.0,Culture,50.583,5.8670001,55
+Vicenza,1200.0,Culture,45.549999,11.55,2
+Vicenza,1300.0,Culture,45.549999,11.55,2
+Vicenza,1400.0,Culture,45.549999,11.55,18
+Vicenza,1500.0,Culture,45.549999,11.55,15
+Vicenza,1600.0,Culture,45.549999,11.55,15
+Vicenza,1700.0,Culture,45.549999,11.55,15
+Vicenza,1800.0,Culture,45.549999,11.55,49
+Vich,1300.0,Culture,41.932999,2.25,1
+Vich,1500.0,Culture,41.932999,2.25,1
+Vich,1600.0,Culture,41.932999,2.25,4
+Vich,1700.0,Culture,41.932999,2.25,8
+Vich,1800.0,Culture,41.932999,2.25,20
+"Vidin (Banonia, Bononia)",1800.0,Culture,43.983002,22.867001,6
+Vienne,1600.0,Culture,45.516998,4.8670001,5
+Vienne,1700.0,Culture,45.516998,4.8670001,6
+Vienne,1800.0,Culture,45.516998,4.8670001,33
+Vigevano,1200.0,Culture,45.317001,8.8500004,1
+Vigevano,1400.0,Culture,45.317001,8.8500004,3
+Vigevano,1500.0,Culture,45.317001,8.8500004,2
+Vigevano,1600.0,Culture,45.317001,8.8500004,1
+Vigevano,1700.0,Culture,45.317001,8.8500004,1
+Vigevano,1800.0,Culture,45.317001,8.8500004,24
+Villanueva-de-la-Serena,1400.0,Culture,38.966999,-5.8000002,1
+Villanueva-de-la-Serena,1600.0,Culture,38.966999,-5.8000002,1
+Villanueva-de-la-Serena,1700.0,Culture,38.966999,-5.8000002,1
+Villanueva-de-la-Serena,1800.0,Culture,38.966999,-5.8000002,6
+Villefranche-de-Rouergue,1200.0,Culture,44.349998,2.05,2
+Villefranche-de-Rouergue,1500.0,Culture,44.349998,2.05,1
+Villefranche-de-Rouergue,1700.0,Culture,44.349998,2.05,6
+Villefranche-de-Rouergue,1800.0,Culture,44.349998,2.05,16
+Villeneuve,1700.0,Culture,44.419998,0.72000003,2
+Villeneuve,1800.0,Culture,44.419998,0.72000003,26
+Vinaroz,1600.0,Culture,40.466999,0.48300001,3
+Vinaroz,1800.0,Culture,40.466999,0.48300001,5
+Viterbo,1300.0,Culture,42.417,12.1,1
+Viterbo,1400.0,Culture,42.417,12.1,4
+Viterbo,1500.0,Culture,42.417,12.1,13
+Viterbo,1600.0,Culture,42.417,12.1,5
+Viterbo,1700.0,Culture,42.417,12.1,5
+Viterbo,1800.0,Culture,42.417,12.1,23
+Vitoria,1800.0,Culture,36.950001,14.533,1
+Voskopoje (Moskopolje),1700.0,Culture,40.632999,20.583,1
+Voskopoje (Moskopolje),1800.0,Culture,40.632999,20.583,14
+Vrsac,1700.0,Culture,45.119999,21.299999,1
+Vrsac,1800.0,Culture,45.119999,21.299999,24
+Wakefield,1700.0,Culture,53.68,-1.493,6
+Wakefield,1800.0,Culture,53.68,-1.493,21
+Walsall,1600.0,Culture,52.584,-1.978,1
+Walsall,1700.0,Culture,52.584,-1.978,10
+Walsall,1800.0,Culture,52.584,-1.978,42
+Warrington,1500.0,Culture,53.391998,-2.5940001,4
+Warrington,1600.0,Culture,53.391998,-2.5940001,1
+Warrington,1700.0,Culture,53.391998,-2.5940001,4
+Warrington,1800.0,Culture,53.391998,-2.5940001,25
+Warszawa (Warschau),1500.0,Culture,52.25,21.0,1
+Warszawa (Warschau),1600.0,Culture,52.25,21.0,4
+Warszawa (Warschau),1700.0,Culture,52.25,21.0,46
+Warszawa (Warschau),1800.0,Culture,52.25,21.0,359
+Waterford,1700.0,Culture,52.257999,-7.112,7
+Waterford,1800.0,Culture,52.257999,-7.112,17
+Wexford,1700.0,Culture,52.334,-6.4580002,5
+Wexford,1800.0,Culture,52.334,-6.4580002,12
+Wien (Vienna),1300.0,Culture,48.200001,16.367001,2
+Wien (Vienna),1500.0,Culture,48.200001,16.367001,5
+Wien (Vienna),1600.0,Culture,48.200001,16.367001,29
+Wien (Vienna),1700.0,Culture,48.200001,16.367001,333
+Wien (Vienna),1800.0,Culture,48.200001,16.367001,2381
+Wigan,1700.0,Culture,53.543999,-2.6259999,2
+Wigan,1800.0,Culture,53.543999,-2.6259999,10
+Winchester,1500.0,Culture,51.062,-1.308,6
+Winchester,1600.0,Culture,51.062,-1.308,8
+Winchester,1700.0,Culture,51.062,-1.308,15
+Winchester,1800.0,Culture,51.062,-1.308,64
+Wolverhampton,1500.0,Culture,52.584,-2.125,1
+Wolverhampton,1600.0,Culture,52.584,-2.125,2
+Wolverhampton,1700.0,Culture,52.584,-2.125,1
+Wolverhampton,1800.0,Culture,52.584,-2.125,31
+Woolwich,1500.0,Culture,51.48,0.079999998,1
+Woolwich,1600.0,Culture,51.48,0.079999998,1
+Woolwich,1700.0,Culture,51.48,0.079999998,8
+Woolwich,1800.0,Culture,51.48,0.079999998,56
+Worcester,1400.0,Culture,52.196999,-2.2119999,1
+Worcester,1500.0,Culture,52.196999,-2.2119999,7
+Worcester,1600.0,Culture,52.196999,-2.2119999,9
+Worcester,1700.0,Culture,52.196999,-2.2119999,21
+Worcester,1800.0,Culture,52.196999,-2.2119999,91
+Worms,1200.0,Culture,49.636002,8.3599997,1
+Worms,1400.0,Culture,49.636002,8.3599997,4
+Worms,1500.0,Culture,49.636002,8.3599997,3
+Worms,1600.0,Culture,49.636002,8.3599997,5
+Worms,1700.0,Culture,49.636002,8.3599997,19
+Worms,1800.0,Culture,49.636002,8.3599997,99
+Wroclaw (Breslau),1400.0,Culture,51.099998,17.033001,3
+Wroclaw (Breslau),1500.0,Culture,51.099998,17.033001,17
+Wroclaw (Breslau),1600.0,Culture,51.099998,17.033001,33
+Wroclaw (Breslau),1700.0,Culture,51.099998,17.033001,71
+Wroclaw (Breslau),1800.0,Culture,51.099998,17.033001,392
+Wuerzburg,1200.0,Culture,49.797001,9.9490004,3
+Wuerzburg,1400.0,Culture,49.797001,9.9490004,7
+Wuerzburg,1500.0,Culture,49.797001,9.9490004,6
+Wuerzburg,1600.0,Culture,49.797001,9.9490004,21
+Wuerzburg,1700.0,Culture,49.797001,9.9490004,47
+Wuerzburg,1800.0,Culture,49.797001,9.9490004,205
+Yecla,1500.0,Culture,38.617001,-1.117,1
+Yecla,1600.0,Culture,38.617001,-1.117,2
+Yecla,1700.0,Culture,38.617001,-1.117,1
+Yecla,1800.0,Culture,38.617001,-1.117,7
+York,1500.0,Culture,53.956001,-1.0930001,3
+York,1600.0,Culture,53.956001,-1.0930001,6
+York,1700.0,Culture,53.956001,-1.0930001,23
+York,1800.0,Culture,53.956001,-1.0930001,60
+Zaandam,1400.0,Culture,52.450001,4.8330002,1
+Zaandam,1500.0,Culture,52.450001,4.8330002,2
+Zaandam,1600.0,Culture,52.450001,4.8330002,3
+Zaandam,1700.0,Culture,52.450001,4.8330002,1
+Zaandam,1800.0,Culture,52.450001,4.8330002,15
+Zagreb,1400.0,Culture,45.799999,16.0,1
+Zagreb,1500.0,Culture,45.799999,16.0,1
+Zagreb,1600.0,Culture,45.799999,16.0,1
+Zagreb,1700.0,Culture,45.799999,16.0,3
+Zagreb,1800.0,Culture,45.799999,16.0,81
+"Zakynthos (Zacynthus, Zante)",1600.0,Culture,37.869999,20.73,1
+"Zakynthos (Zacynthus, Zante)",1700.0,Culture,37.869999,20.73,7
+"Zakynthos (Zacynthus, Zante)",1800.0,Culture,37.869999,20.73,19
+Zamora,1200.0,Culture,41.5,-5.75,1
+Zamora,1500.0,Culture,41.5,-5.75,4
+Zamora,1600.0,Culture,41.5,-5.75,4
+Zamora,1700.0,Culture,41.5,-5.75,4
+Zamora,1800.0,Culture,41.5,-5.75,6
+"Zaragoza (Sarakusta, Saragossa)",1400.0,Culture,41.632999,-0.88300002,2
+"Zaragoza (Sarakusta, Saragossa)",1500.0,Culture,41.632999,-0.88300002,9
+"Zaragoza (Sarakusta, Saragossa)",1600.0,Culture,41.632999,-0.88300002,12
+"Zaragoza (Sarakusta, Saragossa)",1700.0,Culture,41.632999,-0.88300002,24
+"Zaragoza (Sarakusta, Saragossa)",1800.0,Culture,41.632999,-0.88300002,102
+Zielona Gora (Gruenberg),1400.0,Culture,51.932999,15.5,1
+Zielona Gora (Gruenberg),1500.0,Culture,51.932999,15.5,3
+Zielona Gora (Gruenberg),1600.0,Culture,51.932999,15.5,8
+Zielona Gora (Gruenberg),1700.0,Culture,51.932999,15.5,18
+Zielona Gora (Gruenberg),1800.0,Culture,51.932999,15.5,76
+Zuerich,1200.0,Culture,47.367001,8.5500002,4
+Zuerich,1400.0,Culture,47.367001,8.5500002,12
+Zuerich,1500.0,Culture,47.367001,8.5500002,21
+Zuerich,1600.0,Culture,47.367001,8.5500002,26
+Zuerich,1700.0,Culture,47.367001,8.5500002,119
+Zuerich,1800.0,Culture,47.367001,8.5500002,508
+Zwolle,1500.0,Culture,52.5,6.0830002,1
+Zwolle,1600.0,Culture,52.5,6.0830002,15
+Zwolle,1700.0,Culture,52.5,6.0830002,1
+Zwolle,1800.0,Culture,52.5,6.0830002,13
+al-Mahalla al-Kubra (al-Mahallah al-Kubra),1500.0,Culture,30.966999,31.167,1
+al-Mahalla al-Kubra (al-Mahallah al-Kubra),1800.0,Culture,30.966999,31.167,2
+birmingham,1300.0,Culture,52.485001,-1.86,1
+birmingham,1500.0,Culture,52.485001,-1.86,1
+birmingham,1700.0,Culture,52.485001,-1.86,33
+birmingham,1800.0,Culture,52.485001,-1.86,133
+lorient,1500.0,Culture,47.75,-3.3699999,1
+lorient,1600.0,Culture,47.75,-3.3699999,1
+lorient,1700.0,Culture,47.75,-3.3699999,8
+lorient,1800.0,Culture,47.75,-3.3699999,67
+middelburg,1200.0,Culture,51.5,3.6170001,1
+middelburg,1500.0,Culture,51.5,3.6170001,15
+middelburg,1600.0,Culture,51.5,3.6170001,21
+middelburg,1700.0,Culture,51.5,3.6170001,9
+middelburg,1800.0,Culture,51.5,3.6170001,23
+montilla,1500.0,Culture,37.583,-4.6329999,2
+montilla,1600.0,Culture,37.583,-4.6329999,1
+montilla,1800.0,Culture,37.583,-4.6329999,3
+s Gravenhage,1400.0,Culture,52.083,4.3000002,1
+s Gravenhage,1500.0,Culture,52.083,4.3000002,12
+s Gravenhage,1600.0,Culture,52.083,4.3000002,77
+s Gravenhage,1700.0,Culture,52.083,4.3000002,32
+s Gravenhage,1800.0,Culture,52.083,4.3000002,102
+s Hertogenbosch,1400.0,Culture,51.700001,5.3169999,3
+s Hertogenbosch,1500.0,Culture,51.700001,5.3169999,18
+s Hertogenbosch,1600.0,Culture,51.700001,5.3169999,13
+s Hertogenbosch,1700.0,Culture,51.700001,5.3169999,8
+s Hertogenbosch,1800.0,Culture,51.700001,5.3169999,31

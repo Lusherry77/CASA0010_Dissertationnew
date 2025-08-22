@@ -1,0 +1,793 @@
+city_name,latitude,longitude
+Graz,47.067001,15.45
+Innsbruck,47.266998,11.4
+Klagenfurt,46.625,14.305
+Linz,48.299999,14.3
+Salzburg,47.799999,13.033
+Wien (Vienna),48.200001,16.367001
+Aalst (Alost),50.932999,4.033
+"Antwerpen (Anvers, Antwerp)",51.216999,4.4169998
+Brugge (bruges),51.216999,3.233
+Bruxelles (brussels),50.833,4.3330002
+"Gent (Gand, Ghent)",51.049999,3.717
+Ieper (Ypres),50.849998,2.8829999
+Kortrijk (Courtrai),50.833,3.267
+"Leuven (Loewen, Louvain)",50.882999,4.6999998
+"Liege (Luik, Luettich)",50.632999,5.5669999
+Lier,51.132999,4.5669999
+Lokeren,51.099998,3.983
+Mechelen (Malines),51.033001,4.467
+Mons (Bergen),50.450001,3.9330001
+Namur (Namen),50.466999,4.8670001
+Ostende,51.216999,2.9170001
+St-Niklaas,51.167,4.1329999
+Tournai (Doornik),50.599998,3.3829999
+Verviers,50.583,5.8670001
+Ceske Budejovice (Budweis),48.983002,14.467
+Jihlava (Iglau),49.400002,15.583
+Kutna Hora (Kuttenberg),49.950001,15.267
+Liberec (Reichenberg),50.783001,15.05
+Olomouc (Olmuetz),49.583,17.25
+Plzen (Pilsen),49.75,13.367
+"Praha (Prag, Prague)",50.083,14.467
+"Kobenhaven (Copenhagen, Kopenhagen)",55.667,12.583
+Turku (Abbo),60.450001,22.283001
+Abbeville,50.099998,1.8329999
+Agen,44.200001,0.63300002
+Aix,43.533001,5.4330001
+Albi,43.932999,2.1500001
+Alencon,48.432999,0.082999997
+Amiens,49.900002,2.3
+Angers,47.466999,-0.55000001
+Arles,43.667,4.6329999
+Arras (Atrecht),50.283001,2.783
+Auch,43.650002,0.583
+Auxerre,47.799999,3.5669999
+Avignon,43.950001,4.8169999
+Bar-le-duc,48.783001,5.1669998
+Bastia,42.702999,9.4499998
+Bayeux,49.266998,-0.69999999
+Bayonne,43.483002,-1.483
+Beauvais,49.432999,2.0829999
+Besancon,47.25,6.033
+Beziers,43.349998,3.25
+Blois,47.583,1.3329999
+Bordeaux,44.833,-0.56699997
+Bourges,47.083,2.4000001
+Brest,48.400002,-4.4829998
+Caen,49.182999,-0.34999999
+Cahors,44.432999,1.433
+Cambrai,50.167,3.233
+Carcassonne,43.216999,2.3499999
+Castres,43.599998,2.25
+Chalons-sur-Marne,48.950001,4.3670001
+Chalon-sur-saone,46.783001,4.8499999
+Chambery,45.599998,5.9000001
+Chartres,48.450001,1.5
+Cherbourg,49.650002,-1.65
+Clermont-Ferrand,45.783001,3.0829999
+Colmar,48.083,7.3670001
+Dieppe,49.932999,1.0829999
+Dijon,47.317001,5.0170002
+Dinan,48.450001,-2.033
+Douai,50.367001,3.0669999
+"Dunkerque (Duinkerken, Duenkirchen)",51.049999,2.3670001
+Evreux,49.016998,1.15
+Falaise,48.900002,-0.2
+Grenoble,45.167,5.717
+Hondschoote,50.983002,2.5829999
+La Rochelle,46.167,-1.15
+Laon,49.567001,3.6170001
+Laval,48.067001,-0.76700002
+Le Havre,49.5,0.133
+Le Mans,48.0,0.2
+Le Puy (- en Velay),45.029999,3.8800001
+Lille (Rijssel),50.632999,3.0669999
+Limoges,45.849998,1.25
+Lisieux,49.150002,0.233
+Luneville,48.599998,6.5
+Lyon,45.75,4.8499999
+Macon,46.299999,4.8330002
+Marseille,43.299999,5.4000001
+Metz,49.132999,6.1669998
+Montauban,44.016998,1.35
+Montpellier,43.599998,3.8829999
+Nancy,48.682999,6.1999998
+Nantes,47.216999,-1.55
+Narbonne,43.182999,3.0
+Nevers,46.983002,3.1670001
+Nice,43.700001,7.25
+Nimes,43.833,4.3499999
+Orleans,47.917,1.9
+Paris,48.867001,2.3329999
+Perpignan,42.682999,2.8829999
+Poitiers,46.583,0.333
+Provins,48.549999,3.3
+Reims,49.25,4.033
+Rennes,48.083,-1.683
+Riom,45.900002,3.1170001
+Rochefort,45.939999,-0.95999998
+Rouen,49.432999,1.0829999
+Saumur,47.266998,-0.082999997
+Sedan,49.700001,4.9499998
+Sete,43.400002,3.6830001
+St Omer,50.75,2.25
+Steenvoorde,50.799999,2.5829999
+St-Etienne,45.43,4.3899999
+St-Germain,48.900002,2.0829999
+St-Jean-d'Angely,45.950001,-0.51700002
+St-Malo,48.639999,-2.0799999
+St-Quentin,49.849998,3.29
+Strasbourg (Strassburg),48.583,7.75
+Tarascon,43.799999,4.6669998
+Tarbes,43.233002,0.082999997
+Toulon,43.117001,5.9330001
+Toulouse,43.599998,1.433
+Tourcoing,50.716999,3.1500001
+Tours,47.382999,0.68300003
+Troyes,48.299999,4.0830002
+Valenciennes,50.349998,3.533
+Versailles,48.799999,2.1329999
+Vienne,45.516998,4.8670001
+Villefranche-de-Rouergue,44.349998,2.05
+Villeneuve,44.419998,0.72000003
+Aachen,50.766998,6.0999999
+Altona,53.549999,9.9329996
+Ansbach,49.299999,10.583
+Augsburg,48.367001,10.883
+Bamberg,49.867001,10.867
+Barmen,51.283001,7.217
+Bautzen,51.182999,14.433
+Bayreuth,49.950001,11.583
+Berlin,52.516998,13.4
+Bonn,50.733002,7.0999999
+Brandenburg,52.417,12.55
+Braunschweig,52.266998,10.533
+Bremen,53.083,8.8000002
+Chemnitz (olim Karl-Marx-Stadt),50.833,12.917
+Dessau,51.833,12.25
+Dresden,51.049999,13.75
+Duesseldorf,51.216999,6.7670002
+Elberfeld,51.266998,7.1329999
+Emden,53.367001,7.217
+Erfurt,50.983002,11.033
+Flensburg,54.783001,9.4329996
+Frankfurt a Main,50.117001,8.6829996
+Frankfurt a Oder,52.349998,14.55
+Freiberg,50.917,13.367
+Freiburg,48.0,7.8499999
+Fuerth,49.466999,10.967
+Goerlitz,51.167,15.0
+Goslar,51.900002,10.433
+Gotha,50.950001,10.717
+Halberstadt,51.900002,11.05
+Halle,51.5,12.0
+Hamburg,53.549999,10.0
+Hanau,50.132999,8.9169998
+Hannover,52.367001,9.717
+Heidelberg,49.419998,8.7200003
+Hildesheim,52.150002,9.967
+Kassel,51.317001,9.5
+Koeln,50.932999,6.9499998
+Krefeld,51.333,6.5669999
+Leipzig,51.299999,12.333
+Luebeck,53.867001,10.7
+Lueneburg,53.25,10.4
+Magdeburg,52.167,11.667
+Mainz,49.998001,8.2729998
+Mannheim,49.487999,8.4650002
+Mecklenburg,53.849998,11.467
+Muelheim an der Ruhr,51.432999,6.8829999
+Muenchen,48.150002,11.583
+Muenster,51.966999,7.6329999
+Noerdlingen,48.849998,10.5
+Nuernberg,49.450001,11.083
+Osnabrueck,52.266998,8.0500002
+Passau,48.583,13.483
+Ppotsdam,52.400002,13.067
+Prenzlau,53.317001,13.867
+Quedlinburg,51.783001,11.15
+Regensburg,49.016998,12.1
+Rostock,54.083,12.133
+Schwerin,53.632999,11.383
+Soest,51.583,8.1169996
+Speyer,49.320999,8.4320002
+Stralsund,54.299999,13.1
+Stuttgart,48.766998,9.1829996
+Trier,49.75,6.6329999
+Ulm,48.567001,10.05
+Worms,49.636002,8.3599997
+Wuerzburg,49.797001,9.9490004
+Bekes,46.766998,21.132999
+Bekescsaba (Tschabe),46.682999,21.1
+Buda,47.5,19.033001
+Dbrecen (Debreczin),47.533001,21.632999
+Gyoengyoes,47.783001,19.933001
+Gyoer (Raab),47.682999,17.632999
+Hodmezoevasarhely,46.417,20.333
+Jaszbereny,47.5,19.917
+Kecskemet,46.900002,19.783001
+Mako (Makowa),46.216999,20.483
+Miskolc,48.099998,20.783001
+Pest,47.5,19.083
+Sopron (Oedenburg),47.682999,16.6
+Szeged (Szegedin),46.25,20.167
+Szekesfehervar (Stuhlweissenburg),47.200001,18.417
+Armagh,53.917,-7.5830002
+Belfast,54.583,-5.9330001
+Cork,51.898998,-8.4960003
+Drogheda,53.716999,-6.3499999
+Dublin,53.333,-6.25
+Dundalk,54.0,-6.4169998
+Galway,53.271999,-9.0489998
+Kilkenny,52.653999,-7.2519999
+Kilmallock,52.400002,-8.5769997
+Limerick,52.665001,-8.6230001
+Londonderry,55.0,-7.3330002
+New-Ross,52.396999,-6.9369998
+Waterford,52.257999,-7.112
+Wexford,52.334,-6.4580002
+Acireale,37.617001,15.167
+Afragola,40.917,14.3
+Agrigento,37.317001,13.567
+Alessandria,44.900002,8.6169996
+Altamura,40.817001,16.549999
+Amalfi,40.632999,14.6
+Ancona,43.632999,13.5
+Andria,41.216999,16.283001
+Araiano Irpino,41.150002,15.08
+Arezzo,43.417,11.883
+Arpino,41.650002,13.6
+Ascoli Piceno,42.849998,13.567
+Asti,44.900002,8.1999998
+Augusta,37.216999,15.217
+Aversa,40.966999,14.2
+Bari,41.132999,16.85
+Barletta,41.317001,16.283001
+Bassano,45.77,11.73
+Benevento (Benevent),41.132999,14.75
+Bergamo,45.682999,9.717
+Bisceglie,41.233002,16.5
+Bitonto,41.099998,16.683001
+Bologna,44.483002,11.333
+Brescia,45.549999,10.25
+Cagliari,39.216999,9.1169996
+Calatafimi,37.917,12.867
+Caltagirone,37.233002,14.517
+Caltanisetta,37.483002,14.067
+Canicatti,37.349998,13.85
+Carmagnole,44.849998,7.717
+Casale,45.132999,8.4499998
+Castellammare,38.016998,12.883
+Castelvetrano,37.682999,12.783
+Castroreale,38.099998,15.2
+Catania,37.5,15.1
+Catanzaro,38.900002,16.583
+Cava di Tirreni,40.700001,14.7
+Chieti,42.349998,14.167
+Chioggia,45.226002,12.289
+Chivasso,45.182999,7.8829999
+Comiso,36.932999,14.6
+Como,45.783001,9.0830002
+Corato,41.150002,16.417
+Corleone,37.817001,13.3
+Cosenza,39.299999,16.25
+Crema,45.367001,9.6829996
+Cremona,45.117001,10.033
+Ccuneo,44.382999,7.533
+Enna (Kasr Yannik),37.567001,14.267
+Faenza,44.283001,11.883
+Ferrara,44.833,11.583
+Firenze,43.766998,11.25
+Forli,44.223999,12.053
+Fossano,44.549999,7.717
+Francavilla,40.533001,17.583
+Gaeta,41.200001,13.583
+Gallipoli,40.056,17.976
+Genova,44.417,8.9499998
+Gorizia,45.950001,13.633
+Gravina,40.817001,16.417
+Lanciano,42.233002,14.383
+Lecce,40.382999,18.183001
+Leonforte,37.632999,14.383
+Licata,37.099998,13.933
+Livorno,43.549999,10.317
+Lodi,45.317001,9.5
+Lucca,43.833,10.483
+Llucera,41.5,15.333
+Macerata,43.299999,13.45
+Maddaloni,41.033001,14.383
+Mantua,45.150002,10.8
+Marsala,37.799999,12.433
+Martina Franca,40.700001,17.333
+Mascali,37.75,15.2
+Matera,40.667,16.6
+Mazzarino,37.299999,14.217
+Melfi,41.0,15.65
+Messina,38.182999,15.567
+Milano,45.466999,9.1999998
+Modena,44.667,10.917
+Modica,36.867001,14.767
+Molfetta,41.200001,16.6
+Mondovi,44.382999,7.8169999
+Monopoli,40.950001,17.299999
+Monza,45.583,9.2670002
+Napoli,40.833,14.25
+Nicosia,37.75,14.4
+Noto,36.882999,15.067
+Novara,45.466999,8.6330004
+Orvieto,42.716999,12.117
+Otranto,40.150002,18.5
+Padova (Padua),45.417,11.883
+Palermo (Balarm),38.117001,13.367
+Parma,44.799999,10.333
+Pavia,45.167,9.1669998
+Perugia,43.132999,12.367
+Piacenza,45.016998,9.6669998
+Piazza Armerina,37.382999,14.367
+Pisa,43.716999,10.383
+Pistoia,43.917,10.9
+Polizzi Generosa,37.817001,14.0
+Prato,43.882999,11.1
+Procida,40.766998,14.033
+Putignano,40.849998,17.117001
+Ragusa (Raghusa),36.917,14.733
+Ravenna,44.417999,12.201
+Reggio nell Emilia,44.716999,10.6
+Rimini,44.063,12.581
+Roma,41.900002,12.483
+Salemi,37.817001,12.8
+Salerno,40.682999,14.783
+Saluzzo,44.650002,7.4829998
+San-Filippo di Mela,38.18,15.283
+San-Severo,41.682999,15.383
+Sarno,40.817001,14.617
+Sassari,40.727001,8.5600004
+Savigliano,44.632999,7.6669998
+Savona,44.283001,8.5
+Scicli,36.783001,14.7
+Sciacca,37.5,13.1
+Siena,43.317001,11.35
+Siracusa (Sirkusa),37.067001,15.3
+Spoleto,42.733002,12.733
+Taranto,40.476002,17.23
+Terlizzi,41.132999,16.549999
+Termini Imerese,37.983002,13.7
+Torino,45.049999,7.6669998
+Torre Annunziata,40.75,14.45
+Torre del Greco,40.783001,14.367
+Trani,41.283001,16.417
+Trapani,38.016998,12.483
+Treviso,45.667,12.245
+Trieste,45.648998,13.78
+Udine,46.062,13.242
+Velletri,41.682999,12.783
+Venezia,45.438999,12.327
+Vercelli,45.317001,8.4169998
+Verona,45.450001,11.0
+Vicenza,45.549999,11.55
+Vigevano,45.317001,8.8500004
+Viterbo,42.417,12.1
+Vitoria,36.950001,14.533
+Alkmaar,52.632999,4.75
+Amsterdam,52.349998,4.9169998
+Arnhem,51.983002,5.9169998
+Delft,52.0,4.3670001
+Deventer,52.25,6.1999998
+Dordrecht,51.799999,4.6669998
+Enkhuizen,52.716999,5.283
+Gouda,52.016998,4.6999998
+Groningen,53.216999,6.5500002
+Haarlem,52.367001,4.6500001
+Hoorn,52.650002,5.0669999
+Kampen,52.549999,5.9169998
+Leeuwarden,53.200001,5.783
+Leiden,52.150002,4.5
+Maastricht,50.849998,5.6830001
+middelburg,51.5,3.6170001
+Nijmegen,51.833,5.8670001
+Rotterdam,51.917,4.5
+s Gravenhage,52.083,4.3000002
+s Hertogenbosch,51.700001,5.3169999
+Utrecht,52.083,5.1329999
+Zaandam,52.450001,4.8330002
+Zwolle,52.5,6.0830002
+Bergen,60.390999,5.3249998
+Oslo,59.917,10.75
+Elblag (Elbing),54.167,19.382999
+Gdansk (Danzig),54.349998,18.667
+Jaroslav (Jaroslaw),50.016998,22.683001
+Krakow (Krakau),50.083,19.917
+Poznan (Posen),52.417,16.966999
+Szczecin (Stettin),53.417,14.583
+Torun (Thorn),53.033001,18.6
+Warszawa (Warschau),52.25,21.0
+Wroclaw (Breslau),51.099998,17.033001
+Zielona Gora (Gruenberg),51.932999,15.5
+Braga,41.549999,-8.4329996
+Coimbra Kulumriyya),40.200001,-8.4169998
+Elvas,38.882999,-7.1669998
+Evora,38.567001,-7.9000001
+"Lisboa (Lisbon, Lissabon, Al Ushbuna)",38.716999,-9.1330004
+Ovar,40.867001,-8.6330004
+Porto (Oporto),41.150002,-8.6169996
+Santarem (Shantarim),39.233002,-8.6829996
+Banska Stiavnica (Schemnitz),48.450001,18.9
+Bratislava (Pressburg),48.150002,17.117001
+Brno (Bruenn),49.200001,16.632999
+Alcala-de-Henares,40.483002,-3.3670001
+Alcala-la-Real,37.466999,-3.9330001
+Alcazar de San Juan,39.400002,-3.2
+Alcoy,38.700001,-0.46700001
+Alicante (Lakant),38.349998,-0.48300001
+Almeria (Al-Mariyya),36.833,-2.45
+Antequera,37.016998,-4.5500002
+Aracena,37.882999,-6.5500002
+Arcos de la Frontera (rakush),36.75,-5.8000002
+Arjona,37.932999,-4.0500002
+Avila,40.650002,-4.6999998
+Badajoz (Batalyaws),38.882999,-6.967
+Baena (Bayyana),37.617001,-4.3169999
+Baeza (Bayyasa),37.983002,-3.467
+Barbastro,42.033001,0.133
+Barcelona (Barshaluna),41.382999,2.1830001
+Bilbao,43.25,-2.967
+Burgos (Burghush),42.349998,-3.7
+Cabra (Kabra),37.466999,-4.4499998
+Cadiz (Kadis),36.534,-6.2989998
+Carmona (Karmuna),37.466999,-5.6329999
+Cartagena (Kartadjanna),37.599998,-0.98299998
+Castellon-de-la-Plana,39.983002,-0.033
+Cazorla,37.917,-3.0
+Ciudad-Real,38.983002,-3.9330001
+Ciudad-Rodrigo,40.599998,-6.533
+Cordoba (Kurtuba),37.882999,-4.7670002
+Cuenca (Kunka),40.067001,-2.1329999
+Ecija (Istidja),37.533001,-5.0830002
+Estepa,37.299999,-4.9000001
+Ferrol,43.483002,-8.2329998
+Gerona (Djarunda),41.983002,2.8169999
+Gibraltar,36.143002,-5.3530002
+Granada (Gharnata),37.182999,-3.5999999
+Gualdalajara,40.630001,-3.1700001
+Hinojosa-del-Duque,38.5,-5.1500001
+Huesca,42.132999,-0.417
+Jaen (Djayyan),37.766998,-3.783
+Jativa (Shatiba),38.983002,-0.51700002
+Jerez de la Frontera (Sharish),36.682999,-6.1329999
+Jerez-de-los-Caballeros,38.317001,-6.7670002
+La Coruna,43.367001,-8.3830004
+Leon (Liyun),42.599998,-5.5669999
+Lerida (Larida),41.617001,0.61699998
+Liria,39.632999,-0.60000002
+Llerena,38.233002,-6.0170002
+Loja (Lawsha),37.167,-4.1500001
+Lorca (Lurka),37.667,-1.7
+Lucena,37.400002,-4.4829998
+Madrid (Madjrit),40.400002,-3.6830001
+Mahon,39.882999,4.25
+Malaga (Malaka),36.716999,-4.4169998
+Manresa,41.733002,1.8329999
+Martos,37.716999,-3.967
+Mataro,41.533001,2.45
+Medina de rio Seco,41.882999,-5.033
+Medina del Campo,41.299999,-4.9169998
+Merida (Marida),38.917,-6.3330002
+montilla,37.583,-4.6329999
+Montoro,38.016998,-4.3829999
+Morella,40.617001,-0.1
+Moron-de-la-Frontera (Maurur),37.132999,-5.4499998
+Motril,36.75,-3.517
+Murcia (Mursiya),37.983002,-1.117
+Ocana,39.932999,-3.517
+Olot,42.182999,2.483
+Onteniente,38.817001,-0.61699998
+Orihuela,38.083,-0.94999999
+Osuna,37.233002,-5.1170001
+Palencia,42.016998,-4.533
+Palma,39.567001,2.6500001
+Pamplona (Bambluna),42.817001,-1.633
+Plasencia,40.033001,-6.0830002
+Priego-de-Cordoba,37.432999,-4.1830001
+Puerto-de-Santa-Maria,36.599998,-6.2329998
+Requena,39.483002,-1.1
+Reus,41.150002,1.117
+Ronda (Runda),36.733002,-5.1669998
+"Salamanca (Shalamaka, Shalamantika)",40.966999,-5.6500001
+San-Fernando,36.466999,-6.1999998
+San-Lucar-de-Barrameda,36.783001,-6.3499999
+San-Sebastian,43.317001,-1.983
+Santander,43.465,-3.8039999
+Santiago (Shant Yacub),42.882999,-8.5500002
+Segovia (Shakubiya),40.950001,-4.1170001
+"Sevilla(Seville, Ishbiliya)",37.376999,-5.987
+Talavera,39.950001,-4.8330002
+Tarifa,36.013,-5.6059999
+Tineo,43.333,-6.4169998
+Toledo,39.867001,-4.0170002
+Tortosa,40.799999,0.51700002
+Ubeda,38.016998,-3.3670001
+Utrera,37.186001,-5.7870002
+Valencia (Balansiya),39.466999,-0.36700001
+Valladolid,41.650002,-4.717
+Velez-Malaga (Balish),36.783001,-4.0999999
+Velez-Rubio (Balish0,37.650002,-2.0669999
+Vich,41.932999,2.25
+Villanueva-de-la-Serena,38.966999,-5.8000002
+Vinaroz,40.466999,0.48300001
+Yecla,38.617001,-1.117
+Zamora,41.5,-5.75
+"Zaragoza (Sarakusta, Saragossa)",41.632999,-0.88300002
+"Goeteborg, (Loedoense, Gothenburg)",57.716999,11.967
+Karlskrona,56.167,15.583
+Stockholm,59.333,18.049999
+Aberdeen,57.150002,-2.1240001
+Ashton-upon-Lyne,53.492001,-2.0829999
+Bath,51.377998,-2.3659999
+birmingham,52.485001,-1.86
+Blackburn,53.743,-2.4779999
+Bolton,53.571999,-2.4300001
+Bradford,53.787998,-1.75
+Bristol,51.477001,-2.569
+Cambridge,52.205002,0.14399999
+Chatham,51.361,0.53500003
+Chester,53.192001,-2.891
+Colchester,51.891998,0.89999998
+Coventry,52.403,-1.508
+Deptford,51.479,-0.034000002
+Derby,52.915001,-1.472
+Dover,51.125,1.309
+Dudley,52.512001,-2.096
+Dundee,56.48,-3.0309999
+Edinburgh,55.949001,-3.161
+Exeter,50.722,-3.523
+Glasgow,55.862,-4.2449999
+Great-Yarmouth,52.605999,1.73
+Greenock,55.951,-4.763
+Greenwich,51.479,0.0089999996
+Halifax,53.726002,-1.8559999
+Huddersfield,53.645,-1.781
+Hull,53.75,-0.33899999
+Inverness,57.48,-4.2270002
+Ipswich,52.056,1.158
+King's Lynn,52.757999,0.39399999
+Leeds,53.806,-1.5369999
+Leicester,52.634998,-1.135
+Liverpool,53.416,-2.9400001
+London,51.516998,-0.105
+Macclesfield,53.257999,-2.1270001
+Manchester,53.483002,-2.2490001
+Newcastle-upon-Tine,54.973999,-1.602
+Norwich,52.627998,1.303
+Nottingham,52.967999,-1.159
+Oldham,53.536999,-2.1129999
+Oxford,51.754002,-1.2539999
+Paisley,55.841,-4.4200001
+Perth,56.396,-3.434
+Plymouth,50.388,-4.1459999
+Portsmouth,50.808998,-1.0700001
+Preston,53.759998,-2.7049999
+Reading,51.455002,-0.97100002
+Renfrew,55.868,-4.4050002
+Rochdale,53.618,-2.1589999
+Salford,53.483002,-2.2939999
+Sedgley,52.548,-2.125
+Sheffield,53.382999,-1.466
+Shrewsbury,52.707001,-2.7479999
+South-Shields,54.992001,-1.429
+St-Andrews,56.338001,-2.7850001
+Stockport,53.410999,-2.158
+Stoke-on-Trent,53.023998,-2.1860001
+Sunderland,54.910999,-1.3839999
+Tynemouth,55.019001,-1.4450001
+Wakefield,53.68,-1.493
+Walsall,52.584,-1.978
+Warrington,53.391998,-2.5940001
+Wigan,53.543999,-2.6259999
+Winchester,51.062,-1.308
+Wolverhampton,52.584,-2.125
+Worcester,52.196999,-2.2119999
+York,53.956001,-1.0930001
+Basel,47.567001,7.5999999
+Bern,46.917,7.467
+"Geneve (Geneva, Genf)",46.200001,6.1669998
+Zuerich,47.367001,8.5500002
+"Athens (Athen, Atina)",37.983002,23.733
+"Saloniki (Thesaloniki, Selanik)",40.632999,22.933001
+"Adrianople (Edirne, Hadrianopolis, Adrianopel)",41.667,26.566999
+"Constantinople (Istanbul, Byzantium, Konstantinopel)",41.016998,28.966999
+"Sinope (Sinop, Sinub)",42.016998,35.150002
+"Trapezunt (Trabzon, Trabazon, Tarabazun)",41.0,39.716999
+Smyrna (Izmir),38.417,27.15
+"Nicea (Isnik, Iznik, Nikaia)",40.432999,29.716999
+"Iconum (Konya, Konia)",37.867001,32.516998
+"Ceasarea (Kayseri, Kaysariyya)",38.716999,35.5
+Tarsus (Tarsos),36.917,34.882999
+Adana,37.016998,35.299999
+"Antiochia (Antakya, Antioch, Antakiya)",36.233002,36.117001
+Tripolis (Tarabalus al Sham),34.432999,35.849998
+Bayrut (Beirut),33.872002,35.509998
+"Tyrus (Tyre, Sur)",33.271,35.195999
+"Sidon (Saida, Sayda)",33.563,35.368999
+"Acra (Akka, Acre, Ptolemeis, Akko, Akkon)",32.924,35.073002
+"Jerusalem (Aelia Capitolina, Al-Quds, Al-Kuds",31.767,35.233002
+"Aleppo (Haleb, Halab, Beroea)",36.200001,37.167
+"Latakia (Ladikiyeh, Laodicia)",35.516998,35.783001
+"Raqqa (Er-Raqqa, Rakka, Nikephorium)",35.950001,39.016998
+"Damascus (Dimaskh, Es-Sham)",33.5,36.299999
+Mosul (Al-Mawsil),36.333,43.132999
+Baghdad (Bagdad),33.339001,44.394001
+Kufa,32.032001,44.393002
+Basra (Al-Basra),30.493999,47.819
+Wasit,32.382999,45.224998
+Alexandria (Iskandariya),31.200001,29.9
+"Fustat (Cairo, ~Heliopolis, Al-Kahira)",30.049999,31.25
+"Damietta (Doumyat, Dimyat)",31.419001,31.815001
+"Tinnis (Tennis, Tennes)",30.978001,31.872999
+"Tripoli (Oea, Atrablas, Tarabulus al Gharb)",32.893002,13.18
+"Cyrene (Sjahhat, Hadremetum)",32.827999,21.862
+"Labda (Homs, Lebda)",32.650002,14.267
+"Misoerta (Misurata, Thubactis)",32.377998,15.091
+"Barqa (Barka, Al Mardj, El Merdzj)",32.5,20.879999
+"Sirta (Surt, Macomades)",31.216999,16.583
+"Gabes (Kabes, Kabis, Tacape)",33.882999,10.117
+"Sousse (Susa, Hadremetum)",35.826,10.641
+Kairouan (Kayrawan),35.674,10.102
+Tunis,36.803001,10.18
+"Sfax (Sfakes, Safakus, Asfaqus)",34.741001,10.76
+"Mahdiya (Thapsus, Mahdie)",35.505001,11.062
+"Bone (Bona, Hippo Regius, Al-Annaba)",36.900002,7.7670002
+"Bougie (Bejaia, Bidaya, Saldae)",36.75,5.0830002
+"Al-Djazair (Algiers, Iconum, Alger)",36.763,3.0510001
+"Tlemcen (Tilimsan, Tagrart, Tlensem)",34.877998,-1.3150001
+"Tenes (Tanes, Cartennae)",36.511002,1.309
+"Fez (Fas, Fez)",34.053001,-4.9829998
+"Ceuta (Sabta, Julia Trajecta)",35.889999,-5.3080001
+Sijilmasa (Sidjilmasa),31.285,-4.2690001
+"Melilla (Malibya, Rusadir)",35.317001,-2.95
+Marakesh (Marrakush),31.632999,-8.0
+Banja Luka (Banjaluka),44.776001,17.186001
+"Belgrade (Singidunum, Belgrad, Belgrado)",44.833,20.5
+Bitola (Bitolj),41.033001,21.333
+"Ljubljana (Emona, Laibach)",46.055,14.514
+"Nis (Naissus, Nish)",43.317001,21.9
+"Ohrid (Lynchnidus, Okhri)",41.117001,20.799999
+"Panczova (Pancevo, Pancsova)",44.867001,20.65
+Prizrend (Prizren),42.215,20.74
+Rovinj (Rovigno),45.084,13.636
+Sarajevo (Aquae Sulphurae),43.849998,18.382999
+"Skopje (Saipi, Uskub)",42.000999,21.434
+Sombor,45.773998,19.112
+Subotica (Szbadka),46.099998,19.667
+Vrsac,45.119999,21.299999
+Zagreb,45.799999,16.0
+"Durres (Dyrrachium, Durazzo)",41.317001,19.433001
+Djirokaster (Ergiri),40.083,20.117001
+"Shkoder (Scodra, Ishkodra)",42.068001,19.513
+Voskopoje (Moskopolje),40.632999,20.583
+"Shumen (Shumnu, Sumen, Kolanovgrad)",43.266998,26.917
+Nikopol (Nikbudi),43.700001,24.9
+"Plovdiv (Philippolis, Filibe)",42.150002,24.75
+Preslav (Viliki Preslav),43.167,26.816999
+"Ruse (Sexaginta Prista, Rousse)",43.833,25.950001
+Silistra (Durostorum),44.117001,27.267
+Sliven,42.667,26.316999
+"Sofia (Serdica, Sofya, Triaditsa)",42.682999,23.316999
+"Stara Zagora (Augusta Trojana, Buroy)",42.417,25.632999
+Tatar Pazardzhik (Tatar Pazarcik),42.200001,24.333
+Varna (Odessus),43.216999,27.917
+Veliko Turnovo (Tarnovo),43.067001,25.65
+"Vidin (Banonia, Bononia)",43.983002,22.867001
+Arad (Aradui Nou),46.182999,21.316999
+"Braila (Barbosi, Ibrail, Ibraila)",45.266998,27.983
+Brasov (Kronstadt),45.632999,25.583
+Bukarest (Buekresh),44.432999,26.1
+Cimpulung (Camplung),47.5,25.620001
+"Cluj (Klausenburg, Napora)",46.766998,23.6
+Craiova,44.317001,23.799999
+"Iasa (Iasi, Jassy, Iasey)",47.167,27.6
+Satu Mare,47.799999,22.882999
+Sibiu (Hermannstadt),45.799999,24.15
+Suceava (Zambora),47.632999,26.25
+"Timisoara (Temeschburg, Temesvas)",45.758999,21.229
+Tirgoviste (Targoviste),44.932999,25.450001
+"Siwas (Sivas, Sebaste, Sabastea)",39.73,37.02
+"Urfa (Urhay, Osrhoene, Orrhoene, Edessa, Sanli, Al-Ruha, Osdroene)",37.169998,38.790001
+"(Gazi)Antep (Ayntab, Antaph, Hamtab, Ayintab)",37.07,37.389999
+"Marash (Maras, Germanik, Kahraman(marash), Germanikeia)",37.610001,36.939999
+"Erzurum (Antisparate, Theodosiopolis, Karin, Karnoi)",39.91,41.290001
+"Bidlis (Bitlis, Bagesh, Pagish, Badlis, Cymiza, Balaleisa, Balouos)",38.330002,42.080002
+"Manisa (Magnesia, Maghnisa, Magnesia ad Sipylum)",38.599998,27.450001
+"Diyarbakr (Diyarbakir Amid, Amida ad Tygrem, Amid)",37.919998,40.23
+"Afyon (Afyan, Afyan Kara Hissar, Akroenos, Akroinos, Afyun)",38.830002,30.5
+"Ankara (Ancyra, Angora, Enguru, Ankuriyya)",39.919998,32.919998
+"Aydin (Aidin, Guzel Hissar, Tralles, Tralleis, Kaisareia, Dia, Seleucia ad Meandr)",37.830002,27.799999
+"Malatya (Melitene, Malatiya)",38.360001,38.310001
+"Tokat (Hieroceasarea, Osman ad Pontika)",40.330002,36.580002
+"Amasya (Amaseia, Amasia)",40.650002,35.830002
+"Antalya (Sataleia, Attalea, Attaleia, Adalia, Attalia, Adalya)",36.889999,30.709999
+"Arabkir (Arapkir, Eski Arabkir)",39.049999,38.5
+"Balikesir (Akira, Palaiokastron, Mysie, Balikesri, Balikeshir, Hadria Metherai)",39.650002,27.879999
+"Mardin (Maridin, Marde, Margdis)",37.299999,40.73
+"Isparta (Apollina Sozopolis, Sagalassos, Sabarta, Hamidabad)",37.77,30.549999
+"Izmit (Kocaeli, Nikomedia, Nicomedia, Izmid)",40.77,29.93
+"Ayvalik (Aywalik, Kydonia)",39.299999,26.67
+"Adapazari (Ada Pazari, Tarsos)",40.779999,30.379999
+"Burdur (Buldur, Purdur, Plydorion)",37.73,30.280001
+"Kutahya (Kutahiya, Cotayaeum, Kotiaenon)",39.419998,29.98
+"Bursa (Burusa, Prussa)",40.200001,29.08
+Kastamonu (Kastamuni),41.369999,33.779999
+"Nigde (Nekide, Nakida)",37.970001,34.700001
+"Van (Thospia, Bouana Ospa, Wan)",38.490002,43.400002
+"Erzincan (Erzindjan, Aringan, Arzandjan)",39.75,39.5
+"Ani (anikoyu, Abnicum)",40.529999,43.57
+"Ephese (Arsinoe, Aya Soluk, Hagios Theologos, Selcuk)",37.950001,27.379999
+Pergamon (Bergama),39.119999,27.18
+Eskisehir (Coryleum),39.77,30.52
+"Constantine (Cirta, Kustantina, Kusantina)",36.349998,6.5999999
+"Oran (Wahran, Portus Divinus)",35.75,-0.63
+"Rabat (Ribat al Fath, Sale)",34.0,-6.4499998
+Schwaz,47.330002,11.73
+Angouleme,45.650002,0.15000001
+Boulogne,50.720001,1.62
+Issoudin,46.950001,2.0
+lorient,47.75,-3.3699999
+Moulins,46.57,3.3299999
+Niort,46.299999,-0.44999999
+Eger (Erlau),47.900002,20.370001
+Newry,54.18,-6.3299999
+Alcamo,37.98,12.97
+Aquila (L'Aquila),42.349998,13.37
+Avellino,40.82,14.78
+Foggia,41.450001,15.57
+Mistretta,37.93,14.37
+Naro,37.299999,13.8
+Partanna,37.720001,12.9
+Partinico,38.049999,13.12
+Pesaro,43.900002,12.9
+Setubal,38.529999,-8.8999996
+Andujar,38.049999,-4.0700002
+Elche (Alsh),38.25,-0.68000001
+Marchena,37.330002,-5.4000001
+Woolwich,51.48,0.079999998
+Aden (Adan),12.97,45.029999
+Jeddah (Djudha),21.542999,39.173
+Medina (Madinah),24.466999,39.599998
+"Mecca (Makkah, Meccah)",21.417,39.817001
+"Muscat (Masqat, Maskat)",23.610001,58.540001
+Mokka (Mukka),13.19,43.150002
+Sanaa (Sana'a),15.35,44.200001
+Zabid,14.12,43.189999
+Taizz (Ta'izz),13.34,44.02
+"Nicosia (Lefkosha, Leukosia)",35.169998,33.369999
+Hilla (Al-Hilla),32.48,44.23
+Meknes (Miknas),33.895,-5.5500002
+Kirshehir (Aquae Saravenae),39.150002,34.169998
+Kalat Beni Hammad (Beni Hammad),35.813,4.8099999
+Luxemburg (Luxembourg),49.599998,6.1500001
+Valletta (La Vallette),35.900002,14.52
+"Ioannina (Cassiope, Janina, Yanina, Yania, Yannina)",39.669998,20.83
+"Iraklion (Candie, Candia, Heraklion, Heracleion, Kandiye)",35.330002,25.15
+"Kerkira (Corfu, Corfou, Kerkyra)",39.599998,19.93
+"Khios (Chios, Scio)",38.380001,26.120001
+"Korinthos (Corinth, Corinthe, Goerdes)",37.93,22.93
+"Larisa (Larissa, Ienitcher)",39.630001,22.42
+"Patrai (Patras, Baliabadra)",38.25,21.73
+"Serrai (Ceres, Seres, Serres, Siris, Siroz, Serrhes)",41.049999,23.549999
+"Tripolis (Tripolitsa, Tripolitza)",37.52,22.35
+"Zakynthos (Zacynthus, Zante)",37.869999,20.73
+Gallipoli (Gelibolu),40.419998,26.68
+"Qus (Kus, Apollonos minoris, Apollonis parva)",25.92,32.77
+"Bahnesa (al-Bahnasa, Oxyrynchus)",29.549999,30.653
+al-Mahalla al-Kubra (al-Mahallah al-Kubra),30.966999,31.167
+"Rosetta (Rashid, Bolbitine)",31.4,30.4
+"Medina al-Fayyum (Madinat al-Fayyum, al-Faiyum, Crocodilopolis)",29.299999,30.83
+Mansura (al-Mansura),31.07,31.68
+"Bilbeis (Bilbays, Bilbis, Bulbays, Phelbes)",30.42,31.57
+"Damanhur (Hermeopolis parva, Hermeopolis mikra)",31.049999,30.469999
+"Menuf (Manuf, Manuf al Ulya, Minuf, Onouphisanou, Onouphis)",30.459999,30.92
+Asyut (Isiu),27.18,31.17
+"Aswan (Uswan, Syene, Swenet)",24.08,32.900002
+"Kina (Kuna, Kaine, Qena, Maximanopolis)",26.17,32.720001
+"Qalyub (Qaliub, Kalyub)",30.200001,31.200001
+Tanta (Taya),30.780001,31.0
